@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" fill="none">
+  <defs>
+    <linearGradient id="hkbu-shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0055A4"/>
+      <stop offset="100%" stop-color="#003d75"/>
+    </linearGradient>
+    <linearGradient id="hkbu-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e74c3c"/>
+      <stop offset="100%" stop-color="#c0392b"/>
+    </linearGradient>
+    <linearGradient id="hkbu-ribbon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#004a8a"/>
+      <stop offset="100%" stop-color="#0066b3"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield -->
+  <path d="M60 10 L110 35 L110 85 Q110 115 60 135 Q10 115 10 85 L10 35 Z" fill="url(#hkbu-shield)" stroke="#e74c3c" stroke-width="2.5"/>
+  <path d="M60 18 L103 39 L103 83 Q103 109 60 127 Q17 109 17 83 L17 39 Z" fill="none" stroke="rgba(231,76,60,0.25)" stroke-width="1.5"/>
+  <!-- Wave / water symbol -->
+  <path d="M32 58 Q40 52 48 58 Q56 64 64 58 Q72 52 80 58 Q88 64 88 64" stroke="#e74c3c" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M32 66 Q40 60 48 66 Q56 72 64 66 Q72 60 80 66 Q88 72 88 72" stroke="#e74c3c" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M36 74 Q42 70 48 74 Q54 78 60 74 Q66 70 72 74 Q78 78 84 74" stroke="#e74c3c" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- Flame / spirit symbol above waves -->
+  <path d="M60 36 Q65 42 64 48 Q63 52 60 54 Q57 52 56 48 Q55 42 60 36 Z" fill="url(#hkbu-accent)" opacity="0.9"/>
+  <path d="M60 40 Q62 44 61 47 Q60.5 49 60 50 Q59.5 49 59 47 Q58 44 60 40 Z" fill="#0055A4"/>
+  <!-- Decorative dots -->
+  <circle cx="35" cy="82" r="2" fill="#e74c3c" opacity="0.5"/>
+  <circle cx="85" cy="82" r="2" fill="#e74c3c" opacity="0.5"/>
+  <!-- Text -->
+  <text x="60" y="100" text-anchor="middle" fill="#e74c3c" font-family="Georgia,serif" font-size="10" font-weight="700" letter-spacing="0.5">HKBU</text>
+  <rect x="38" y="106" width="44" height="5" rx="2.5" fill="url(#hkbu-ribbon)"/>
+  <text x="60" y="110.5" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="3.8" font-weight="600" letter-spacing="0.5">EST. 1956</text>
+</svg>

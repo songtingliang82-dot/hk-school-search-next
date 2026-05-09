@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hku-bba-1",
+    "schoolName": "香港大学",
+    "schoolNameEn": "The University of Hong Kong",
+    "programName": "Bachelor of Business Administration",
+    "programNameEn": "Bachelor of Business Administration",
+    "faculty": "经管学院",
+    "stage": "本科",
+    "schoolType": "公立",
+    "majorCategory": "金融学",
+    "specificMajor": "工商管理学学士",
+    "tags": ["UGC资助", "QS #17", "4年全日制", "英语授课"],
+    "tuition": "HK$ 182,000",
+    "duration": "4年",
+    "languageRequirement": "英语要求请参考官网",
+    "gpaRequirement": "综合评估",
+    "deadline": "尽早申请"
+  },
+  {
+    "id": "hku-cs-2",
+    "schoolName": "香港大学",
+    "schoolNameEn": "The University of Hong Kong",
+    "programName": "MSc in Computer Science",
+    "programNameEn": "MSc in Computer Science",
+    "faculty": "工程学院",
+    "stage": "硕士",
+    "schoolType": "公立",
+    "majorCategory": "计算机科学",
+    "specificMajor": "理学硕士（计算机科学）",
+    "tags": ["Top 50", "热门专业", "1年制"],
+    "tuition": "HK$ 334,800",
+    "duration": "1年",
+    "languageRequirement": "英语要求请参考官网",
+    "gpaRequirement": "综合评估",
+    "deadline": "尽早申请"
+  }
+]

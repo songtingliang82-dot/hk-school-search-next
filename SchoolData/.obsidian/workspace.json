@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "1a8b42bb4d0cb32e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8632953c93046a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa119fc8195766d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69266c7dfd0382c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46172aab7d2ef98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d90bd2fffb3017",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1ce1ec738ad46efb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3365404dc0890739",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcfd2a8125739dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "363ff122779eb80e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b971ae4891f34dd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下 的反向链接列表"
+            }
+          },
+          {
+            "id": "42732025d04dd6a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下 的出链列表"
+            }
+          },
+          {
+            "id": "ef48543cd360bb32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "02583081554c4d74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "aa8f6844e095eb31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "9aa119fc8195766d",
+  "lastOpenFiles": [
+    "Clippings/叁镜选校系统.md",
+    "Clippings/叁镜选校系统 2.md",
+    "Clippings/叁镜选校系统 1.md",
+    "Clippings/港大数字城市管理硕士, The University of Hong KongMaster of Digital Urban Management 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（城市设计与交通）, The University of Hong KongMaster of Science in Urban Design and Transport 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（房地产）, The University of Hong KongMaster of Science in Real Estate 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（建设资产数字管理）, The University of Hong KongMaster of Science in Digital Management of Built Assets 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（建筑项目管理）, The University of Hong KongMaster of Science in Construction Project Management 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（深造建筑设计学）, The University of Hong KongMaster of Science in Advanced Architectural Design 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（可持续环境设计）, The University of Hong KongMaster of Science in Sustainable Environmental Design 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（建筑文物保护）— 修缮设计方向, The University of Hong KongMaster of Science in Conservation (Design for Conservation Stream) 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（建筑文物保护）— 保护规划与管理方向, The University of Hong KongMaster of Science in Conservation (Conservation Planning and Management Stream) 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（建筑文物保护）, The University of Hong KongMaster of Science in Conservation 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（城市规划）— 城市规划方向, The University of Hong KongMaster of Science in Urban Planning (Urban Planning Stream) 港校项目库-寄托天下.md",
+    "Clippings/港大理学硕士（城市分析）, The University of Hong KongMaster of Science in Urban Analytics 港校项目库-寄托天下.md",
+    "Clippings/港大城市及住房管理学硕士（住房管理（专业）方向）, The University of Hong KongMaster of Urban Studies and Housing Management (Housing Management (Professional) Stream) 港校项目库-寄托天下.md",
+    "Clippings/港大城市及住房管理学硕士（城市研究方向）, The University of Hong KongMaster of Urban Studies and Housing Management (Urban Studies Stream) 港校项目库-寄托天下.md",
+    "Clippings/港大园境深造文凭, The University of Hong KongPostgraduate Diploma in Landscape Architecture 港校项目库-寄托天下.md",
+    "Clippings/港大项目库, The University of Hong Kong 港校项目库-寄托天下 2.md",
+    "Clippings/港大项目库, The University of Hong Kong 港校项目库-寄托天下 1.md",
+    "Clippings/港大项目库, The University of Hong Kong 港校项目库-寄托天下.md",
+    "Clippings/港校项目库 港校项目库-寄托天下.md",
+    "Clippings"
+  ]
+}

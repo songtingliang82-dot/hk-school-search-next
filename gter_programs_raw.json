@@ -1,0 +1,743 @@
+[
+  {
+    "id": 31,
+    "projectid": 31,
+    "name_en": "Master of Science in Computer Science",
+    "name_zh": "理学硕士（计算机科学）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "MSCS2",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYIFR8-1bd1u4tSDLKNc2FVhOWM0",
+    "admissionsproject": "1",
+    "distinctive": "课程内容包括人工智能、数据科学、信息安全、多媒体等",
+    "rank": "18",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程"
+    ],
+    "schoolid": 311,
+    "schoolname": "香港城市大学",
+    "schoolalias": "城大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb1SBaR7ec6NYmTA4pRcOalNHJRfNzUxNg~~",
+    "department": "计算学院",
+    "departmentid": 460,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 23,
+      "projectid": 31
+    },
+    "tuition_fee": 228000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 489,
+    "projectid": 489,
+    "name_en": "Master of Science in Artificial Intelligence",
+    "name_zh": "理学硕士（人工智能）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "MSc(AI)",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYUMRda7Y5k_5NOALrFSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "排名全球第10，香港第1",
+    "rank": "17",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程"
+    ],
+    "schoolid": 310,
+    "schoolname": "香港科技大学",
+    "schoolalias": "科大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCbxSBaR7ec6NYmSWt5dcY_9NHJRfNzUxNg~~",
+    "department": "工学院",
+    "departmentid": 63,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 33,
+      "projectid": 489
+    },
+    "tuition_fee": 400000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 409,
+    "projectid": 409,
+    "name_en": "Master of Science in Computer Science",
+    "name_zh": "理学硕士（计算机科学）",
+    "disciplineid": 6,
+    "name_alias": "",
+    "name_abbr": "MSc(CompSc)",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYUERda7Y5k_4ITbcrdSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "全面的计算机科学课程，可从一系列广泛的课程中进行选择",
+    "rank": "21",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向"
+    ],
+    "schoolid": 309,
+    "schoolname": "香港大学",
+    "schoolalias": "港大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCLVSBaR7ec6NYmTA5sRfNP5NHJRfNzUxNg~~",
+    "department": "理学院",
+    "departmentid": 93,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 32,
+      "projectid": 409
+    },
+    "tuition_fee": 334800,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 772,
+    "projectid": 772,
+    "name_en": "Master of Science in Data-Centric Artificial Intelligence Technology",
+    "name_zh": "理学硕士（大数据智能）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYYDTta7Y5ky7teGerJSxDiuYTljNA~~",
+    "admissionsproject": "1",
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall",
+      "含Project"
+    ],
+    "schoolid": 2905,
+    "schoolname": "香港科技大学（广州）",
+    "schoolalias": "港科广",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE6VfCFlAbwnc6IXB9eUbGqEt8JdZaoJEogyqjc1MTY~",
+    "department": "信息枢纽",
+    "departmentid": 407,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 12,
+      "projectid": 772
+    },
+    "tuition_fee": 398000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 805,
+    "projectid": 805,
+    "name_en": "Master of Science in Digital and Sustainable Cities",
+    "name_zh": "理学硕士（数码及可持续城市）",
+    "disciplineid": 6,
+    "name_alias": "",
+    "name_abbr": "MSc(DISC)",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYkESda7Y5k64tbVeudSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目"
+    ],
+    "schoolid": 310,
+    "schoolname": "香港科技大学",
+    "schoolalias": "科大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCbxSBaR7ec6NYmSWt5dcY_9NHJRfNzUxNg~~",
+    "department": "工学院",
+    "departmentid": 63,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 1,
+      "projectid": 805
+    },
+    "tuition_fee": 270000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 61,
+    "projectid": 61,
+    "name_en": "Doctor of Business Administration (Chinese)",
+    "name_zh": "工商管理博士【中文授课】",
+    "disciplineid": 3,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYcFR8-1bY8_5YSBKaNc2FVhOWM0",
+    "admissionsproject": "1",
+    "distinctive": "中文授课，学制四年，学费共180万港币",
+    "rank": "201",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "专业资格认证"
+    ],
+    "schoolid": 308,
+    "schoolname": "香港中文大学",
+    "schoolalias": "中大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCLRSBaR7ec6NYmTHuZYPMKxNHJRfNzUxNg~~",
+    "department": "工商管理学院（商学院）",
+    "departmentid": 9,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 9,
+      "projectid": 61
+    },
+    "tuition_fee": 1800000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 302,
+    "projectid": 302,
+    "name_en": "Master of Arts in Creative Industries and Cultural Assets",
+    "name_zh": "文学硕士（创意产业与文化资产）",
+    "disciplineid": 2,
+    "name_alias": "",
+    "name_abbr": "MACICAF",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYIETta7Y5lutdnWKLhSxDiuYTljNA~~",
+    "admissionsproject": "1",
+    "distinctive": "透过跨学科角度丰富学员对行业的综合理解",
+    "rank": "",
+    "tags": [
+      "26Fall",
+      "含Project"
+    ],
+    "schoolid": 315,
+    "schoolname": "香港都会大学",
+    "schoolalias": "都大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCblSBaR7ec6NYmSVtMENOf5NHJRfNzUxNg~~",
+    "department": "人文社会科学院",
+    "departmentid": 54,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 6,
+      "projectid": 302
+    },
+    "tuition_fee": 119955,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 641,
+    "projectid": 641,
+    "name_en": "Master of Science in Artificial Intelligence and Big Data Computing",
+    "name_zh": "理学硕士（人工智能及大数据计算）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYcATda7Y5k_tNKEK7RSxDiuYTljNA~~",
+    "admissionsproject": "1",
+    "distinctive": "从研究和实际应用的角度为学生提供有关人工智能和大数据的知识。",
+    "rank": "40",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程"
+    ],
+    "schoolid": 312,
+    "schoolname": "香港理工大学",
+    "schoolalias": "理工",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb5SBaR7ec6NYmSetsVbYv5NHJRfNzUxNg~~",
+    "department": "工程学院",
+    "departmentid": 69,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 26,
+      "projectid": 641
+    },
+    "tuition_fee": 399900,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 744,
+    "projectid": 744,
+    "name_en": "Master of Science in Computer Science",
+    "name_zh": "理学硕士（电脑科学）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYYASNa7Y5k9sdLbf7dSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall"
+    ],
+    "schoolid": 2976,
+    "schoolname": "香港城市大学（东莞）",
+    "schoolalias": "港城莞",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE6VfCFlAbskc6IXB9eUbGqEs5dcMKsJEogyqjc1MTY~",
+    "department": "工程学院",
+    "departmentid": 416,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 4,
+      "projectid": 744
+    },
+    "tuition_fee": null,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 785,
+    "projectid": 785,
+    "name_en": "Master of Science in Data Science",
+    "name_zh": "理学硕士（数据科学）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYYMSda7Y5k_5teHK7hSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall"
+    ],
+    "schoolid": 2976,
+    "schoolname": "香港城市大学（东莞）",
+    "schoolalias": "港城莞",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE6VfCFlAbskc6IXB9eUbGqEs5dcMKsJEogyqjc1MTY~",
+    "department": "工程学院",
+    "departmentid": 416,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 8,
+      "projectid": 785
+    },
+    "tuition_fee": null,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 188,
+    "projectid": 188,
+    "name_en": "Doctor of Education",
+    "name_zh": "教育博士",
+    "disciplineid": 5,
+    "name_alias": "",
+    "name_abbr": "EdD",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYAMRNa7Y5k77oWGfrJSxDiuYTljNA~~",
+    "admissionsproject": "1",
+    "distinctive": "英语教学，非本地申请人报读全日制",
+    "rank": "12",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程"
+    ],
+    "schoolid": 453,
+    "schoolname": "香港教育大学",
+    "schoolalias": "教大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFjDb9SBaR7ec6NYmTFt54MYvhNHJRfNzUxNg~~",
+    "department": "研究生院",
+    "departmentid": 38,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 7,
+      "projectid": 188
+    },
+    "tuition_fee": 396000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 463,
+    "projectid": 463,
+    "name_en": "Postgraduate Diploma in Education",
+    "name_zh": "教育学深造文凭",
+    "disciplineid": 5,
+    "name_alias": "",
+    "name_abbr": "PGDE",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYUCT9a7Y5k_4oSGf-NSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "面向有意加入教育行业但尚未接受过师资培训并已获得学士学位的人士",
+    "rank": "3",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "schoolid": 309,
+    "schoolname": "香港大学",
+    "schoolalias": "港大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCLVSBaR7ec6NYmTA5sRfNP5NHJRfNzUxNg~~",
+    "department": "教育学院",
+    "departmentid": 89,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 2,
+      "projectid": 463
+    },
+    "tuition_fee": 224000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 806,
+    "projectid": 806,
+    "name_en": "Master of Science in Computer Science - AI x Web3 Stream (DeltaX Tech Immersion Programme)",
+    "name_zh": "理学硕士（计算机科学）— AI x Web3 【DeltaX】",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "MSc(CompSc) AI x Web3",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYkESta7Y5k4soOGfrNSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall",
+      "26fall 新项目"
+    ],
+    "schoolid": 309,
+    "schoolname": "香港大学",
+    "schoolalias": "港大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCLVSBaR7ec6NYmTA5sRfNP5NHJRfNzUxNg~~",
+    "department": "计算与数据科学学院",
+    "departmentid": 96,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 13,
+      "projectid": 806
+    },
+    "tuition_fee": null,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 899,
+    "projectid": 899,
+    "name_en": "Master of Science in AI for Business",
+    "name_zh": "理学硕士（人工智能及商业）",
+    "disciplineid": 4,
+    "name_alias": "",
+    "name_abbr": "MScAIB",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYkNRda7Y5k54YXSc7JSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall"
+    ],
+    "schoolid": 313,
+    "schoolname": "香港浸会大学",
+    "schoolalias": "浸会",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb9SBaR7ec6NYmSft8ZZY_1NHJRfNzUxNg~~",
+    "department": "工商管理学院",
+    "departmentid": 80,
+    "contraststatus": null,
+    "contrastnum": 0,
+    "tuition_fee": 360000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 407,
+    "projectid": 407,
+    "name_en": "Master of Science in Business Analytics",
+    "name_zh": "理学硕士（商业分析）",
+    "disciplineid": 3,
+    "name_alias": "",
+    "name_abbr": "MSc(BA)",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYUES9a7Y5k5tYfRe-VSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "学习理解数据，将数据转化为信息，将信息转化为可执行操作",
+    "rank": "101",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向"
+    ],
+    "schoolid": 309,
+    "schoolname": "香港大学",
+    "schoolalias": "港大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCLVSBaR7ec6NYmTA5sRfNP5NHJRfNzUxNg~~",
+    "department": "港大经管学院",
+    "departmentid": 87,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 12,
+      "projectid": 407
+    },
+    "tuition_fee": 0,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 250,
+    "projectid": 250,
+    "name_en": "Master of Arts in Visual Arts",
+    "name_zh": "文学硕士（视觉艺术）",
+    "disciplineid": 2,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYMBTNa7Y5ky5tWHLLNSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "培养具有跨文化和跨学科意识的视觉艺术创作人才",
+    "rank": "47",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向"
+    ],
+    "schoolid": 313,
+    "schoolname": "香港浸会大学",
+    "schoolalias": "浸会",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb9SBaR7ec6NYmSft8ZZY_1NHJRfNzUxNg~~",
+    "department": "创意艺术学院",
+    "departmentid": 83,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 4,
+      "projectid": 250
+    },
+    "tuition_fee": 168000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 773,
+    "projectid": 773,
+    "name_en": "Master of Science in Technology and Policy",
+    "name_zh": "理学硕士（科技与政策）",
+    "disciplineid": 14,
+    "name_alias": "",
+    "name_abbr": "",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYYDT9a7Y5k754PQe7BSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "",
+    "rank": "",
+    "tags": [
+      "26Fall",
+      "含Project"
+    ],
+    "schoolid": 2905,
+    "schoolname": "香港科技大学（广州）",
+    "schoolalias": "港科广",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE6VfCFlAbwnc6IXB9eUbGqEt8JdZaoJEogyqjc1MTY~",
+    "department": "社会枢纽",
+    "departmentid": 409,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 3,
+      "projectid": 773
+    },
+    "tuition_fee": 260000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 329,
+    "projectid": 329,
+    "name_en": "Postgraduate Diploma in Subject Knowledge for Chinese Language Teachers",
+    "name_zh": "中文科教师学科知识深造文凭",
+    "disciplineid": 5,
+    "name_alias": "",
+    "name_abbr": "PGSKCLTF",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYIGRda7Y5lvtoODf-JSxDiuYTljNA~~",
+    "admissionsproject": 0,
+    "distinctive": "加强学生的汉语学习知识，满足中小学汉语教学的基本要求",
+    "rank": "301",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "专业资格认证"
+    ],
+    "schoolid": 315,
+    "schoolname": "香港都会大学",
+    "schoolalias": "都大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCblSBaR7ec6NYmSVtMENOf5NHJRfNzUxNg~~",
+    "department": "教育及语文学院",
+    "departmentid": 56,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 2,
+      "projectid": 329
+    },
+    "tuition_fee": 105000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 33,
+    "projectid": 33,
+    "name_en": "Master of Science in Data Science",
+    "name_zh": "理学硕士（数据科学）",
+    "disciplineid": 6,
+    "name_alias": "",
+    "name_abbr": "MSDS1",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYIHR8-1bd8z7oKEfaNc2FVhOWM0",
+    "admissionsproject": "1",
+    "distinctive": "高级数据科学技能是日益增长的需求",
+    "rank": "18",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project"
+    ],
+    "schoolid": 311,
+    "schoolname": "香港城市大学",
+    "schoolalias": "城大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb1SBaR7ec6NYmTA4pRcOalNHJRfNzUxNg~~",
+    "department": "计算学院",
+    "departmentid": 460,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 17,
+      "projectid": 33
+    },
+    "tuition_fee": 327000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  },
+  {
+    "id": 25,
+    "projectid": 25,
+    "name_en": "Master of Science in Biostatistics",
+    "name_zh": "理学硕士（生物统计学）",
+    "disciplineid": 12,
+    "name_alias": "",
+    "name_abbr": "MSCBIOS1",
+    "status": "ACTIVE",
+    "uniqid": "tf1yFYMBR8-1bYg65tnXeaNc2FVhOWM0",
+    "admissionsproject": "1",
+    "distinctive": "培养生物统计学家具备的分析、领导和沟通技能",
+    "rank": "285",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "专业资格认证"
+    ],
+    "schoolid": 311,
+    "schoolname": "香港城市大学",
+    "schoolalias": "城大",
+    "schoollogo": "https://oss.x-php.com/school/J6BSwE-VfCFkCb1SBaR7ec6NYmTA4pRcOalNHJRfNzUxNg~~",
+    "department": "计算学院",
+    "departmentid": 460,
+    "contraststatus": null,
+    "contrastnum": {
+      "favcount": 4,
+      "projectid": 25
+    },
+    "tuition_fee": 228000,
+    "intake": 2026,
+    "intake_month": 9,
+    "semester": {
+      "year": 2026,
+      "month": 9
+    }
+  }
+]

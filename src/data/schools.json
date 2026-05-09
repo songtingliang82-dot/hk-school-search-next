@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3mir-m-1",
+    "stage": "大学",
+    "schoolName": "清华大学",
+    "faculty": "北京",
+    "majorCategory": "图书馆",
+    "specificMajor": "学术资源",
+    "programName": "Tsinghua Library",
+    "tuition": "CNY 30,000",
+    "languageRequirement": "中文/英文",
+    "gpaRequirement": "顶尖",
+    "duration": "4年",
+    "tags": [
+      "3mir推荐",
+      "顶尖大学"
+    ],
+    "deadline": "1月"
+  },
+  {
+    "id": "3mir-m-2",
+    "stage": "大学",
+    "schoolName": "牛津大学",
+    "faculty": "英国",
+    "majorCategory": "图书馆",
+    "specificMajor": "学术资源",
+    "programName": "Bodleian Libraries",
+    "tuition": "£35,000",
+    "languageRequirement": "雅思7.5",
+    "gpaRequirement": "顶级",
+    "duration": "3-4年",
+    "tags": [
+      "3mir推荐",
+      "G5"
+    ],
+    "deadline": "10月"
+  }
+]

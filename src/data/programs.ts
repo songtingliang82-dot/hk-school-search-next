@@ -1,0 +1,21688 @@
+export const programs = [
+  {
+    "id": "hk-prog-1",
+    "name_cn": "社会科学硕士（社会学及数据分析）",
+    "name_en": "Master of Social Sciences in Sociology and Data Analytics",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 181,500",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-2",
+    "name_cn": "建筑学硕士（设计）",
+    "name_en": "Master of Architecture (Design)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "三年制，MArch（设计）以自筹资金的模式运作",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-3",
+    "name_cn": "理学硕士（化学）",
+    "name_en": "Master of Science in Chemistry",
+    "university": "香港城市大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "满足工业、商业和政府部门对研发专家的需求",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-4",
+    "name_cn": "文学硕士（表演艺术研究）",
+    "name_en": "Master of Arts in Performing Arts Studies",
+    "university": "香港演艺学院",
+    "faculty": "戏剧学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "QS世界大学学科排名(表演艺术类别)荣获亚洲第一",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-5",
+    "name_cn": "理学硕士（金融科技）",
+    "name_en": "Master of Science in Financial Technology",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 380,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "院校背景方面偏好985/211，偏好强数理背景的学科",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-6",
+    "name_cn": "城市及住房管理学硕士（住房管理（专业）方向）",
+    "name_en": "Master of Urban Studies and Housing Management (Housing Management (Professional) Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 226,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-7",
+    "name_cn": "理学硕士（物理学数据建模与量子技术）",
+    "name_en": "Master of Science in Physics with Data Modelling and Quantum Technologies",
+    "university": "香港城市大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "毕业可于电子和可再生能源行业任医疗技术专家以及工程师/研究人员",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-8",
+    "name_cn": "理学硕士（中国环保研究）",
+    "name_en": "Master of Science in Chinese Environmental Studies",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "中文授课",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "非统招本科也能申，没有学位证也能申",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-9",
+    "name_cn": "文学硕士（文学与比较研究）",
+    "name_en": "Master of Arts in Literary and Comparative Studies",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 183,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "涵盖了古代文学、比较文学、现当代文学等多个领域",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-10",
+    "name_cn": "理学硕士（环境健康及安全）",
+    "name_en": "Master of Science in Environmental Health and Safety",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "运用在环境健康和安全方面最前沿的知识",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-11",
+    "name_cn": "牙医硕士（修复学）",
+    "name_en": "Master of Dental Surgery in Prosthodontics",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "至少 1 年的工作经验更佳",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-12",
+    "name_cn": "教育学深造文凭（汉语作为第二语言教学）",
+    "name_en": "Postgraduate Diploma in Education (Teaching Chinese as a Second Language)",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 249,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "兼及世界各地港中文第二语言教学课程的研习，例如国际文凭IB课程",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-13",
+    "name_cn": "艺术硕士（创意媒体）",
+    "name_en": "Master of Fine Arts in Creative Media",
+    "university": "香港城市大学",
+    "faculty": "创意媒体学院",
+    "tuition": "HK$ 383,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "热门专业，架起艺术与技术、传统与新媒体之间的桥梁",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-14",
+    "name_cn": "理学硕士（环球人道主义创新与科技）",
+    "name_en": "Master of Science in Global Humanitarian Innovation and Technology",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-15",
+    "name_cn": "文学硕士（翻译与传译）",
+    "name_en": "Master of Arts in Translating and Interpreting",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "高强度的训练帮助学生为未来的职业专业方向做好准备",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-16",
+    "name_cn": "理学硕士（生物分子工程与健康信息学）",
+    "name_en": "Master of Science in Biomolecular Engineering and Health Informatics",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 208,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "涉及天然和人工材料及设备的分子水平设计和工程",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-17",
+    "name_cn": "理学硕士（运筹及风险分析）",
+    "name_en": "Master of Science in Operational Research and Risk Analysis",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 334,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生具备风险分析和统计学理论基础和技术技能",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-18",
+    "name_cn": "理学硕士（科技应用数学）— 精算和投资科学方向",
+    "name_en": "Master of Science in Applied Mathematics for Science and Technology (Actuarial and Investment Science)",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 319,300",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "通过识别、量化、评估或管理风险的财务影响成为解决问题",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-19",
+    "name_cn": "工商管理硕士【中文授课】",
+    "name_en": "Master of Business Administration (in Chinese)",
+    "university": "香港恒生大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-20",
+    "name_cn": "理学硕士（民航工程与运营管理）",
+    "name_en": "Master of Science in Aviation Engineering and Operations Management",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生对航空及航空工程领域最新先进技术的了解和掌握",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-21",
+    "name_cn": "文学硕士（国际事务）",
+    "name_en": "Master of Arts in International Affairs",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "提供政治科学重点的国际事务研究生教育和培训",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-22",
+    "name_cn": "经济学硕士",
+    "name_en": "Master of Economics",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 398,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofeconomics",
+    "desc": "香港大学商学院经济学硕士（MEcon）为期一年全日制，旨在向学生介绍经济学的前沿发展，并配备最先进的分析工具。课程提供四个专修方向：数据分析（Data Analysis）、政策分析（Policy Analysis）、理论（Theory）和高级研究（Advanced Research）。学生可根据兴趣和职业规划选择适合的方向。课程由世界一流的经济学家授课，结合理论研究与实际应用，培养学生在金融机构、咨询公司、政府部门及国际组织等领域的竞争力。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自经济学、金融、数学、统计、工程、物理等量化背景的学生申请，也接受其他学科背景但需展示良好的数学和量化分析能力。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，分为核心课程和选修课程。核心课程涵盖：微观经济学分析、宏观经济学分析、计量经济学理论与应用、国际贸易与金融、经济增长与发展等。四个专修方向的选修课程包括：数据分析方向（大数据经济学、机器学习经济学、金融计量经济学等）、政策分析方向（公共经济学、环境经济学、健康经济学、劳动经济学等）、理论方向（高级微观经济学、高级宏观经济学、博弈论与信息经济学等）、高级研究方向（研究方法论、学术论文写作、独立研究项目等）。学生需完成10门课程（60学分）。"
+  },
+  {
+    "id": "hk-prog-23",
+    "name_cn": "理学硕士（智能建造）",
+    "name_en": "Master of Science in Intelligent Construction",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 275,900",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "学生可掌握最新的智能建筑技术理论",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-24",
+    "name_cn": "社会科学硕士（咨询心理学）",
+    "name_en": "Master of Social Sciences in Counselling Psychology",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "需要完成基础的心理学课程才可学习此课程",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-25",
+    "name_cn": "文学硕士（文化管理）",
+    "name_en": "Master of Arts in Cultural Management",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "涵盖各种主要艺术形式，包括表演艺术、视觉艺术和媒体艺术",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-26",
+    "name_cn": "法学专业证书",
+    "name_en": "Postgraduate Certificate in Laws (PCLL)",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 232,000（自费）；HK$ 47,000（政府资助，仅本地学生）",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "专业资格认证",
+      "法学"
+    ],
+    "official_website": "https://www.ple.hku.hk/",
+    "desc": "香港大学法学专业证书（PCLL）是香港法律执业的基本资格课程，由香港大学法律学院法律专业教育部开办。课程分为一年全日制及两年兼读制两种模式，旨在培养具备香港律师执业所需的专业技能与实务知识。完成课程后，有志成为事务律师者须进行两年实习，有志成为大律师者须完成一年实习。课程采用英语授课，是香港三所提供PCLL课程的院校之一，在香港法律界享有极高声誉。",
+    "requirements": {
+      "background": "需持有认可法律学位（Qualifying Law Degree），包括LLB、JD、CPE、GDL等。必须完成以下12个核心法律科目：合同法、侵权法、宪法、刑法、土地法、衡平法、证据法、商业组织法、商法、香港宪法、香港法律制度、香港土地法。学业成绩方面，入学基准为2:2学位，HKU计算所有法律科目平均分（All Law Average），近年录取分数约为低2:2至中2:2水平，同时参考核心科目平均分、授予学位院校声誉及其他成就。如海外学位课程名称不同，需参加转换考试（Conversion Examinations）。",
+      "language": "课程以英语授课。申请者需具备良好的英语能力，具体语言要求未在官网明确公布，建议直接联系招生办公室确认（pcll@hku.hk）。",
+      "standardized": "无需提交GMAT/GRE成绩。",
+      "others": "仅接受在线申请。申请前必须仔细阅读《申请人须知》和《申请指南》。需提供个人陈述（PS）、简历（CV）及推荐信。接受电子成绩单（需由授予院校直接发送至HKU）。中国内地学历需提交学信网在线验证报告。如选择工作经验途径（WER），需提供至少2年法律工作经验证明、雇主推荐信，并参加面试（通常在8月进行，由录取小组与香港律师会和香港大律师公会代表共同进行）。",
+      "timeline": "2026年1月：申请开放；2026年4月30日中午12:00（香港时间）：申请截止；2026年7月31日：条件录取后补充文件截止（最终成绩单和转换考试结果等原件）；2026年9月：入学。不接受逾期申请或延期申请。"
+    },
+    "curriculum": "课程结构分为三大部分：（1）必修核心实践领域（Compulsory Core Practice Areas）：重点学习基本的程序和交易知识与技能，涵盖民事诉讼、刑事诉讼、财产转让等核心法律实务；（2）选修实践领域（Elective Practice Areas）：学生可根据个人兴趣和职业方向选择专业化培训方向；（3）通识科目（Pervasive Subjects）：包括专业实践与管理，通过大课和小班实践课程进行。技能培养方面，课程注重基础法律技能（非特定执业领域的关键技能）和复杂法律技能（在特定实践领域背景下教授的更复杂技能）的结合。全日制课程为期一年（9月至次年6月），兼读制课程为期两年，工作日晚上及周六下午上课。"
+  },
+  {
+    "id": "hk-prog-27",
+    "name_cn": "文学硕士（东亚研究）",
+    "name_en": "Master of Arts in the field of East Asian Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 265,000",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-28",
+    "name_cn": "新闻学硕士",
+    "name_en": "Master of Journalism",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 261,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "适合中期职业记者，以及非专业人士",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-29",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 400,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "建议有申请者10年或以上适当水平的管理或专业经验",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-30",
+    "name_cn": "理学硕士（经济学）",
+    "name_en": "Master of Science in Economics",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-31",
+    "name_cn": "公共行政管理硕士",
+    "name_en": "Master of Public Administration",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "掌握公共部门的组织和运作所需的最新知识和技能",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-32",
+    "name_cn": "艺术硕士（英文创意写作）",
+    "name_en": "Master of Fine Arts in the field of Creative Writing in English",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "亚洲首个，2019 年 QS 排名前 25 位",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-33",
+    "name_cn": "神道学硕士",
+    "name_en": "Master of Divinity",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 96,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "在入学前至少已经受洗两年",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-34",
+    "name_cn": "理学硕士（生物医学工程）",
+    "name_en": "Master of Science in Biomedical Engineering",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-35",
+    "name_cn": "学位教师教育深造文凭（专业及职业教育）",
+    "name_en": "Postgraduate Diploma in Education (Professional and Vocational Education)",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-36",
+    "name_cn": "中药药剂学硕士",
+    "name_en": "Master of Chinese Medicinal Pharmacy",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 116,400",
+    "tags": [
+      "26Fall",
+      "中文授课"
+    ],
+    "official_website": "",
+    "desc": "申请人更少，容易被录取，门槛更低",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-37",
+    "name_cn": "理学硕士（商务分析）",
+    "name_en": "Master of Science in Business Analytics",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 381,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "探索业在各方面如何做出更好的商业决策",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-38",
+    "name_cn": "教育深造文凭（小学）",
+    "name_en": "Postgraduate Diploma in Education (Primary)",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 214,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专业的全球排名为软科45",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-39",
+    "name_cn": "理学硕士（环境科学，管理及可持续发展）",
+    "name_en": "Master of Science in Environmental Science, Management and Sustainability",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-40",
+    "name_cn": "文学硕士（国学）",
+    "name_en": "Master of Arts in Chinese Studies",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "训练学生在文学、历史、哲学领域内整合信息",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-41",
+    "name_cn": "法学硕士（仲裁及争议解决学）",
+    "name_en": "Master of Laws in Arbitration and Dispute Resolution",
+    "university": "香港城市大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 234,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "专业资格认证",
+      "法学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "毕业生可参与:当事人、辩护人、专家、仲裁员和调解员",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-42",
+    "name_cn": "法学硕士",
+    "name_en": "Master of Laws",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "实习课程",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "申请竞争激烈的课程，官方建议尽早提交申请",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-43",
+    "name_cn": "高级财会人员专业会计硕士",
+    "name_en": "Executive Master of Professional Accountancy",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 398,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "上海国家会计学院-香港中文大学联合举办",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-44",
+    "name_cn": "电子商务与供应链管理硕士",
+    "name_en": "Master of Science in eBusiness and Supply Chain Management",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "在“互联网+”时代下，发展和提升学生的学术潜力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-45",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港珠海学院",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "英文授课，学费较低，门槛也不高",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-46",
+    "name_cn": "公共行政学博士",
+    "name_en": "Doctor of Public Administration",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 600,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "为对公共治理和行政感兴趣的高级管理人员提供课程",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-47",
+    "name_cn": "文学硕士（创意产业应用科技）",
+    "name_en": "Master of Arts in Innovative Application for Creative Industries",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "培养当今和未来创意产业的高管所需的创新能力",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-48",
+    "name_cn": "理学硕士（职业治疗学）",
+    "name_en": "Master of Science in Occupational Therapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "通过治疗活动，患者的功能可以得到发展、恢复或维持。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-49",
+    "name_cn": "理学硕士（数学教育）",
+    "name_en": "Master of Science in Mathematics Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "首个由数学教育学者和数学科研学者共同筹办的项目",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-50",
+    "name_cn": "理学硕士（材料工程及纳米科技）",
+    "name_en": "Master of Science in Materials Engineering and Nanotechnology",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "专业资格认证",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "让应用科学家和工程师深入研究材料工程和纳米技术",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-51",
+    "name_cn": "理学硕士（计算机科学）— AI x Web3 【DeltaX】",
+    "name_en": "Master of Science in Computer Science - AI x Web3 Stream (DeltaX Tech Immersion Programme)",
+    "university": "香港大学",
+    "faculty": "计算与数据科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-52",
+    "name_cn": "法学硕士（人权法）",
+    "name_en": "Master of Laws in Human Rights",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 396,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "侧重于全球关注的人权问题，包括亚太地区的人权问题",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-53",
+    "name_cn": "气候治理与风险管理硕士",
+    "name_en": "Master of Climate Governance and Risk Management",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "理学"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofclimategovernanceandriskmanagement",
+    "desc": "香港大学商学院气候治理与风险管理硕士（MCGRM）为期一年全日制，由商学院与气候与碳中和研究中心（ICCN）联合开办，是香港首个专注于气候治理和风险管理的专业硕士项目。课程结合科学、政策和商业知识，提供跨学科的专业训练，涵盖气候变化科学、气候政策与治理、气候风险分析、碳市场与碳交易、ESG与可持续发展等核心领域。学生将学习如何评估和管理气候变化带来的物理风险和转型风险，为企业制定气候战略。毕业生可在金融机构、咨询公司、企业可持续发展部门、政府环境部门、国际组织等从事气候风险分析、ESG咨询、碳资产管理、可持续发展战略等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自环境科学、地理学、气象学、经济学、金融、商业管理、工程、政策研究等相关背景的学生申请。对气候变化和可持续发展领域有浓厚兴趣者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。有相关环境或气候领域工作经验者优先考虑。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，结合气候科学、政策与商业的核心知识。核心课程涵盖：气候变化科学基础、气候政策与治理、气候风险分析与管理、碳市场与碳交易、ESG与可持续发展报告、绿色金融与气候融资、气候数据与建模、环境经济学、企业气候战略、国际气候协定与政策等。选修课程包括：物理气候风险、转型风险与情景分析、生物多样性金融、循环经济与资源管理、气候适应与韧性、能源政策与转型、可持续供应链管理等。学生需完成一个气候治理咨询项目，为真实企业或机构制定气候风险管理方案。"
+  },
+  {
+    "id": "hk-prog-54",
+    "name_cn": "理学硕士（工程管理学）",
+    "name_en": "Master of Science in Engineering Management",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-55",
+    "name_cn": "理学硕士（可持续环境设计）",
+    "name_en": "Master of Science in Sustainable Environmental Design",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "计算机"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "提供智慧城市设计和环境设计分析的方法、技术和理论的基础知识",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-56",
+    "name_cn": "金融学硕士",
+    "name_en": "Master of Finance",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 462,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masteroffinance",
+    "desc": "香港大学商学院金融学硕士（MFin）是一个为期一年的全日制跨学科课程，结合统计学、数学、物理学、工程学和计算机编程等技术，培养学生在金融领域的定量分析能力。课程提供四个专修方向：企业金融（Corporate Finance）、金融工程（Financial Engineering）、风险管理（Risk Management）和金融科技（FinTech）。项目师资力量雄厚，教授来自金融、经济、统计、数学、法律、会计及计算机科学等多元背景。课程获CFA Institute University Affiliation Program认可，毕业生可获CFA科目豁免。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自金融、经济、统计、数学、工程、计算机科学等量化背景的学生申请，也接受其他学科背景但需展示良好的量化能力。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑，对边缘案例可能有帮助。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信（来自毕业或即将毕业的大学），推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，分为核心课程和选修课程。核心课程涵盖：财务分析经济学、财务报表分析与商业道德、投资分析与投资组合管理、公司金融与资产评估、金融数学技术、金融衍生工具等。选修课程按四个专修方向设置：企业金融方向包括兼并与收购、创业金融与私募股权等；金融工程方向包括固定收益证券与利率模型、高级期权定价模型等；风险管理方向包括信用风险、操作风险管理等；金融科技方向包括区块链与加密货币、金融大数据与人工智能等。课程还包括一个顶点项目（Capstone Project），让学生将所学知识应用于实际金融问题。"
+  },
+  {
+    "id": "hk-prog-57",
+    "name_cn": "工商管理硕士（创业管理）",
+    "name_en": "Master of Business Administration in Entrepreneurship",
+    "university": "香港珠海学院",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "中文授课，无需担心语言问题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-58",
+    "name_cn": "专业管理硕士（餐饮业）【中文授课】",
+    "name_en": "Master of Professional Management in Food and Beverage Business (in Chinese)",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 234,540",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-59",
+    "name_cn": "文学硕士（国际研究）",
+    "name_en": "Master of Arts in International Studies",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 206,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "深入了解国际事务，加强分析技能、原创研究/沟通表达能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-60",
+    "name_cn": "理学硕士（商业分析）",
+    "name_en": "Master of Science in Business Analytics",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 395,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "课程设置中，商业、统计以及编程全部都有",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-61",
+    "name_cn": "可持续会计及金融硕士",
+    "name_en": "Master of Sustainable Accounting and Finance",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 462,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofsustainableaccountingandfinance",
+    "desc": "香港大学商学院可持续会计与金融硕士（MSAF）为期一年全日制，旨在培养学生在可持续发展和环境、社会及治理（ESG）领域的会计与金融专业能力。课程结合会计、金融与可持续发展理念，涵盖ESG报告、绿色金融、可持续投资、气候风险分析等前沿领域。学生将学习如何评估企业的可持续发展表现、设计绿色金融产品、进行ESG投资分析等。毕业生可在会计师事务所、投资银行、资产管理公司、企业可持续发展部门、ESG咨询公司等从事可持续金融、ESG分析、绿色投资、气候风险管理等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自会计、金融、经济、商业管理、环境科学、工程、社会科学等相关背景的学生申请。对可持续发展和ESG领域有浓厚兴趣者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。持有CFA、CPA、FRM、ACCA等专业资格者可申请最多2门必修课程豁免及高级学分。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，结合会计、金融与可持续发展的核心知识。核心课程涵盖：可持续发展会计、ESG报告与鉴证、绿色金融与气候融资、可持续投资与影响力投资、气候风险分析与压力测试、企业社会责任与商业伦理、环境经济学、碳会计与碳交易、可持续供应链管理、ESG数据分析等。选修课程包括：国际可持续发展准则（ISSB）、生物多样性金融、社会影响力评估、循环经济与资源管理、能源金融、绿色建筑与基础设施融资、可持续公司治理等。学生需完成一个可持续发展咨询项目，为真实企业制定ESG战略。"
+  },
+  {
+    "id": "hk-prog-62",
+    "name_cn": "理学硕士（区块链科技）",
+    "name_en": "Master of Science in Blockchain Technology",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 427,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "紧跟区块链技术的最新发展，注重技术能力的培养",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-63",
+    "name_cn": "中文科教师学科知识深造文凭",
+    "name_en": "Postgraduate Diploma in Subject Knowledge for Chinese Language Teachers",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 105,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "加强学生的汉语学习知识，满足中小学汉语教学的基本要求",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-64",
+    "name_cn": "中国语文语言研究硕士",
+    "name_en": "Master of Language Studies in Chinese",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "适合编辑、记者、文化工作者、行政管理等行业人士",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-65",
+    "name_cn": "社会科学硕士（游戏治疗）",
+    "name_en": "Master of Social Sciences in Play Therapy",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "提供实践基础的核心理论",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-66",
+    "name_cn": "理学硕士（应用心理学）",
+    "name_en": "Master of Science in Applied Psychology",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 115,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-67",
+    "name_cn": "治理与政策硕士",
+    "name_en": "Master of Governance and Policy",
+    "university": "香港大学",
+    "faculty": "治理与政策学院",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-68",
+    "name_cn": "理学硕士（工程）— 土木工程",
+    "name_en": "Master of Science in Engineering (Civil Engineering)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "两种就读方式：全职 （一年），兼职（两年）",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-69",
+    "name_cn": "理学硕士（可持续城市规划）",
+    "name_en": "Master of Science in Sustainable Urban Planning",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-70",
+    "name_cn": "文学硕士（艺术）",
+    "name_en": "Master of Arts in Fine Arts",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 193,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "两项专修范畴：当代艺术创作及中国艺术创作",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-71",
+    "name_cn": "理学硕士（中药药理与药物开发）",
+    "name_en": "Master of Science in Chinese Medicine Pharmacology and Drug Development",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-72",
+    "name_cn": "文学硕士（哲学、政治与经济）",
+    "name_en": "Master of Arts in the field of Philosophy, Politics and Economics",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "强调批判性思维、分析技能和解决问题的跨学科方法",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-73",
+    "name_cn": "护理硕士",
+    "name_en": "Master of Nursing",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 148,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "申请者需是注册护士",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-74",
+    "name_cn": "社会科学硕士（可持续及发展研究）",
+    "name_en": "Master of Social Sciences in Sustainability and Development Studies",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "可任职于政府和公共事务部门、NGO、公司、环境管理、媒体等",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-75",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 196,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "为受过本科社工或社会科学及人本服务相关学位课程训练",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-76",
+    "name_cn": "理学硕士（环球酒店业管理）",
+    "name_en": "Master of Science in Global Hospitality Business",
+    "university": "香港理工大学",
+    "faculty": "酒店及旅游业管理学院",
+    "tuition": "HK$ 560,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "沉浸在各大洲的文化和商业实践中，并参加众多专业研讨会",
+    "requirements": {
+      "background": "学科背景：服务类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-77",
+    "name_cn": "理学硕士（基因组学及生物信息学）",
+    "name_en": "Master of Science in Genomics and Bioinformatics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "国际专家将引导关于基因组学和生物信息学的研讨会和实践",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-78",
+    "name_cn": "管理学博士",
+    "name_en": "Doctor of Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 912,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "就读的同学都有5年+工作经验，人脉很宝贵",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-79",
+    "name_cn": "工商管理学硕士（国际课程）",
+    "name_en": "Master of Business Administration (International)",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 510,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofbusinessadministrationinternational",
+    "desc": "香港大学商学院与复旦大学管理学院联合开办的工商管理学硕士（国际课程）是一个为期两年兼读制项目，旨在为在职专业人士提供国际化的商业管理教育。课程结合香港大学在亚洲商业环境方面的专长和复旦大学在中国商业市场的深厚积累，提供独特的跨区域商业视野。学生将在香港和上海的两大金融中心学习，体验两地的商业文化和实践。课程提供丰富的实践机会，包括企业参访、案例研究和咨询项目。毕业生可在跨国公司、金融机构、咨询公司等担任高级管理职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。通常要求至少3年全职工作经验（管理层经验优先考虑）。欢迎来自各行各业的专业人士申请，不限于商业背景。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。具有丰富工作经验的资深申请者可根据个案考虑豁免。",
+      "others": "需要提供两封推荐信（建议一封来自当前或前任雇主，一封来自学术推荐人）。需提供个人陈述（PS）和简历（CV）。通常需要参加面试。",
+      "timeline": "兼读制课程通常每年9月入学，申请分多轮进行。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期两年兼读制，学生将在香港大学和复旦大学两地轮流上课。核心课程涵盖：战略管理、领导力与组织行为、财务管理、管理会计、市场营销管理、运营管理、商业伦理与企业社会责任、宏观经济学、数据分析与决策等。选修课程包括：中国商业环境、亚洲商业战略、跨境并购、家族企业管理、创新与创业、数字转型、供应链金融等。学生需完成一个综合管理咨询项目，为真实企业提供战略咨询建议。"
+  },
+  {
+    "id": "hk-prog-80",
+    "name_cn": "商业管理硕士",
+    "name_en": "Master of Business Management",
+    "university": "香港恒生大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "适合有志于在全球市场中担任领导角色的学生",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-81",
+    "name_cn": "建筑学硕士",
+    "name_en": "Master of Architecture",
+    "university": "香港珠海学院",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "专业资格认证"
+    ],
+    "official_website": "",
+    "desc": "需要建筑学专业学士学位或10个月+建筑相关学科工作经验",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-82",
+    "name_cn": "文学硕士（翻译）",
+    "name_en": "Master of Arts in the field of Translation",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 229,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "毕业可从事翻译、传译、撰稿、编辑、语文教师和学术研究人员",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-83",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "要求两封推荐信,可能涉及面试",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-84",
+    "name_cn": "矫齿学高等文凭",
+    "name_en": "Advanced Diploma in Orthodontics",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 266,500",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "2年非全日制，适用于已经完成正畸学高等教育的从业者",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-85",
+    "name_cn": "社会科学硕士（犯罪学）",
+    "name_en": "Master of Social Sciences in the field of Criminology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "设于1986年，是香港首个历史悠久的犯罪学研究生课程",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-86",
+    "name_cn": "牙医硕士（矫齿学与牙颌面矫形学）",
+    "name_en": "Master of Dental Surgery in Orthodontics and Dentofacial Orthopaedics",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "至少 2 年的普通牙科经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-87",
+    "name_cn": "金融科技深造文凭",
+    "name_en": "Postgraduate Diploma in Financial Technology",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 190,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "成绩优异可享受课程豁免和学费减免",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-88",
+    "name_cn": "社会科学硕士（应用心理学）",
+    "name_en": "Master of Social Sciences in the field of Applied Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "Fall",
+      "理学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "具体申请轮次及截止日期请以官网为准"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-89",
+    "name_cn": "学位教师教育深造文凭（小学）",
+    "name_en": "Postgraduate Diploma in Education (Primary)",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-90",
+    "name_cn": "文学硕士（翻译与双语传意）",
+    "name_en": "Master of Arts in Translation and Bilingual Communication",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "研究生提供翻译和双语交流方面的重点培训",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-91",
+    "name_cn": "文学硕士（创意媒体）",
+    "name_en": "Master of Arts in Creative Media",
+    "university": "香港城市大学",
+    "faculty": "创意媒体学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "热门专业，架起艺术与技术、传统与新媒体之间的桥梁",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-92",
+    "name_cn": "文学硕士（哲学）",
+    "name_en": "Master of Arts in Philosophy",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 150,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "涵盖东西方哲学及应用哲学，为有志之士提供深广而严格的训练",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-93",
+    "name_cn": "社会科学硕士（临床心理学）",
+    "name_en": "Master of Social Sciences in the field of Clinical Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 448,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "培训内容包括课程作业、研究论文和各种实习环境中的实习",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-94",
+    "name_cn": "理学硕士（学习科技、设计及领导）",
+    "name_en": "Master of Science in Technology, Design and Leadership for Learning",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 234,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "计算机"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "旨在教育对职业感兴趣的个人，如企业技术专家等",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-95",
+    "name_cn": "文学硕士（环球传播）",
+    "name_en": "Master of Arts in Global Communication",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "HK$ 155,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "培养具备全球视野和跨文化传播能力的高级媒体人才",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-96",
+    "name_cn": "建筑学硕士",
+    "name_en": "Master of Architecture",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 473,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "实习课程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "与土木工程、建筑服务、城市规划设计等学科综合合作",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-97",
+    "name_cn": "专业管理硕士（酒店业）",
+    "name_en": "Master of Professional Management in Hotel Business",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-98",
+    "name_cn": "理学硕士（建造管理）",
+    "name_en": "Master of Science in Construction Management",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 243,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养房地产和建筑专业经理和领导者",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-99",
+    "name_cn": "工商管理博士",
+    "name_en": "Doctor of Business Administration",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 1,800,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "在互联世界中进行有影响力、知情的商业决策的研究",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-100",
+    "name_cn": "文学硕士（中国语言及文学）",
+    "name_en": "Master of Arts in Chinese Language and Literature",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 152,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程研究方向：语言学、语文学、古典文学、现代文学和文学研究",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-101",
+    "name_cn": "理学硕士（环境科学及管理）",
+    "name_en": "Master of Science in Environmental Science and Management",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "偏向管理类课程如环境经济学等",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-102",
+    "name_cn": "文学硕士（中国历史研究）",
+    "name_en": "Master of Arts in the field of Chinese Historical Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 229,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "提供进行中国历史独立研究所需的知识和培训",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-103",
+    "name_cn": "法律历史法学硕士",
+    "name_en": "Master of Laws in Legal History",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "通过培养对法律和社会的批判性方法，掌握法律制度并设想替代方案",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-104",
+    "name_cn": "理学硕士（集成电路）",
+    "name_en": "Master of Science in Integrated Circuits",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "集成电路技术一直是电子行业的主要驱动力",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-105",
+    "name_cn": "文学硕士（「一带一路」商务传意与行政）",
+    "name_en": "Master of Arts in Belt and Road Business Communication and Administration",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-106",
+    "name_cn": "理学硕士（可持续性与环境分析）",
+    "name_en": "Master of Science in Sustainability and Environmental Analytics",
+    "university": "岭南大学",
+    "faculty": "跨学科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "应对可持续发展和环境管理的挑战",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-107",
+    "name_cn": "社会科学硕士（教育心理学）",
+    "name_en": "Master of Social Sciences in the field of Educational Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 448,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "把人类行为、影响、认知、发展和个性的理论和研究应用到教育中",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-108",
+    "name_cn": "理学硕士（资讯科技）",
+    "name_en": "Master of Science in Information Technology",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 257,300",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "强调理论基础和实际应用，结合广泛的技能培训",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-109",
+    "name_cn": "社区健康护理硕士",
+    "name_en": "Master of Community Health Care",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 230,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-110",
+    "name_cn": "教育博士",
+    "name_en": "Doctor of Education",
+    "university": "香港教育大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 396,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "英语教学，非本地申请人报读全日制",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-111",
+    "name_cn": "理学硕士（金融学）",
+    "name_en": "Master of Science in Finance",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 450,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "有三个学期的课程设置",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-112",
+    "name_cn": "文学硕士（可持续发展教育）",
+    "name_en": "Master of Arts in Education for Sustainability",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培养学生在教育专业实践中利用研究/实证方法的技能",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-113",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 382,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生坚定地致力于在实践中追求学术成就",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-114",
+    "name_cn": "文学硕士（环球亚洲的数位历史）",
+    "name_en": "Master of Arts in Digital History in Global Asia",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "香港首办的同类课程，运用知识呈现与亚洲相关的历史信息",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-115",
+    "name_cn": "理学硕士（电子及资讯工程学）",
+    "name_en": "Master of Science in Electronic and Information Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 248,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "利用与多媒体技术相关的不断增长的市场需求和商业机会",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-116",
+    "name_cn": "社会科学硕士（社会行政管理学）",
+    "name_en": "Master of Social Sciences in the field of Social Service Management",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 231,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "突出了社会学在理解和应对社会最紧迫挑战方面的重要作用",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-117",
+    "name_cn": "法学硕士（科技及知识产权法）",
+    "name_en": "Master of Laws in Technology and Intellectual Property Law",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "对技术法、知识产权法提供良好的法律理解",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-118",
+    "name_cn": "国际房地产及建筑博士",
+    "name_en": "Doctor of International Real Estate and Construction",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 530,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "申请者需持有与房地产或建筑相关学科的硕士学位",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-119",
+    "name_cn": "城市与治理硕士",
+    "name_en": "Master of Cities and Governance",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 174,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "为了让毕业生为从事与城市治理和公共政策的职业做好准备。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-120",
+    "name_cn": "文学硕士（中文）— 国际汉学",
+    "name_en": "Master of Arts in Chinese (Global Chinese Studies)",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-121",
+    "name_cn": "理学硕士（通信工程）",
+    "name_en": "Master of Science in Communications Engineering",
+    "university": "香港中文大学",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "工程"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-122",
+    "name_cn": "社会科学硕士（行为健康）",
+    "name_en": "Master of Social Sciences in the field of Behavioral Health",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 231,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "为医疗保健和人类服务专业人员提供跨学科的学习环境",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-123",
+    "name_cn": "理学硕士（可持续能源）",
+    "name_en": "Master of Science in Sustainable Energy",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-124",
+    "name_cn": "理学硕士（深造康复科学）",
+    "name_en": "Master of Science in Advanced Rehabilitation Sciences",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 226,300",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-125",
+    "name_cn": "理学硕士（市场学）",
+    "name_en": "Master of Science in Marketing",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 380,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "通过选修课积累最新的营销信息和实用营销技能",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-126",
+    "name_cn": "理学硕士（数据科学）— 商业统计专修",
+    "name_en": "Master of Science in Data Science (Business Statistics Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "理工科技学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-127",
+    "name_cn": "理学硕士（医疗化验科学）",
+    "name_en": "Master of Science in Medical Laboratory Science",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 207,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "有医学检验科学相关资格后工作经验者优先",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-128",
+    "name_cn": "财富管理硕士",
+    "name_en": "Master of Wealth Management",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 462,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofwealthmanagement",
+    "desc": "香港大学商学院财富管理硕士（MWM）为期一年全日制，旨在培养学生在财富管理领域的专业知识和实践技能。课程涵盖投资组合管理、资产配置、信托与遗产规划、税务筹划、家族办公室管理等核心领域，结合金融理论与实务操作。学生将学习为高净值客户和家族提供全面的财富管理解决方案，包括投资咨询、风险管理、财富传承规划等。毕业生可在私人银行、家族办公室、财富管理机构、资产管理公司、保险公司等从事财富管理顾问、投资顾问、家族办公室经理等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自金融、经济、会计、商业管理、法律、数学等相关背景的学生申请。有金融或财富管理相关工作经验者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。持有CFA、CPA、FRM等专业资格者可申请最多2门必修课程豁免及高级学分。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，结合理论学习与实务操作。核心课程涵盖：财富管理基础、投资组合理论与实务、资产配置策略、另类投资、信托与遗产规划、税务筹划、家族办公室管理、风险管理与保险、财富传承规划、行为金融学等。选修课程包括：私人银行实务、对冲基金策略、房地产投资、艺术品与收藏品投资、慈善与影响力投资、数字资产与加密货币投资、跨境财富规划等。学生可选择完成实习项目或财富管理咨询项目，与私人银行或家族办公室合作。"
+  },
+  {
+    "id": "hk-prog-129",
+    "name_cn": "理学硕士（碳中和可持续科技）",
+    "name_en": "Master of Science in Sustainable Technology for Carbon Neutrality",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "香港首个专注于碳管理及减缓科技的硕士课程",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-130",
+    "name_cn": "理学硕士（大数据科技）",
+    "name_en": "Master of Science in Big Data Technology",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 330,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "毕业生熟悉大数据系统的作业流程和其对现实社会的影响",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-131",
+    "name_cn": "文学硕士（创意及媒体产业）",
+    "name_en": "Master of Arts in Creative and Media Industries",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "毕业生可从事大众传播、商务、教学、管理以及传播研究。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-132",
+    "name_cn": "理学硕士（金融数学）",
+    "name_en": "Master of Science in Financial Mathematics",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "培养具有科学或工程背景的量化学科学生",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-133",
+    "name_cn": "理学硕士（食品工业管理及市场学）",
+    "name_en": "Master of Science in the field of Food Industry: Management and Marketing",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "强调食品生产和食品分销中的质量保证和安全管理的实用方法",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-134",
+    "name_cn": "电脑学硕士",
+    "name_en": "Master of Computing",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "HK$ 122,925",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "",
+    "desc": "毕业生对人工智能、数据库管理和软件工程专业领域有深入了解",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-135",
+    "name_cn": "法律硕士",
+    "name_en": "Juris Doctor",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 570,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "包含多方面法律领域，有助于学生了解自己的法律兴趣所在",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-136",
+    "name_cn": "理学硕士（人力资源管理）",
+    "name_en": "Master of Science in Human Resource Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 327,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "最好至少有一年相关工作经验。 申请者年龄通常在 27 岁或以上",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-137",
+    "name_cn": "理学硕士（智能安老及老年学）双学位【香港都会大学与岭南大学】",
+    "name_en": "Dual Degree of Master of Science in Smart Ageing and Gerontology (HKMU and LU)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 137,100",
+    "tags": [
+      "26Fall",
+      "双学位",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-138",
+    "name_cn": "理学硕士（高级材料科学）",
+    "name_en": "Master of Science in Advanced Materials Science",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-139",
+    "name_cn": "理学硕士（资讯与科技管理）",
+    "name_en": "Master of Science in Information and Technology Management",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 215,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "核心课程涉猎广泛,涵盖统计分析、战略信息系统等",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-140",
+    "name_cn": "文学硕士（翻译）",
+    "name_en": "Master of Arts in Translation",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "旨在提高学生的语言和翻译技能，以满足社会需求",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-141",
+    "name_cn": "普通法硕士",
+    "name_en": "Master of Common Law",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "针对非普通法系的法学生，尤其是为中国大陆法本学生设置",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-142",
+    "name_cn": "社会科学硕士（媒体丶文化及创意城市）",
+    "name_en": "Master of Social Sciences in the field of Media, Culture and Creative Cities",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "为媒体、文化和创意产业领域的学生和从业者提供学术和专业培训",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-143",
+    "name_cn": "心理学博士（临床心理学）",
+    "name_en": "Doctor of Psychology in the field of Clinical Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 387,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-144",
+    "name_cn": "文学硕士（视觉艺术）",
+    "name_en": "Master of Arts in Visual Arts",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 168,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "培养具有跨文化和跨学科意识的视觉艺术创作人才",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-145",
+    "name_cn": "高级管理人员公共行政管理及领导硕士",
+    "name_en": "Executive Master of Public Administration and Leadership",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 204,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "有志于从事公共行政及管治领域的人士，能深入认识国际形式",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-146",
+    "name_cn": "理学硕士（中医学）",
+    "name_en": "Master of Science in Chinese Medicine",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 213,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "全日制四年,含三年理论学习和一年临床实习",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-147",
+    "name_cn": "社会科学硕士（心理学）— 学校及社区",
+    "name_en": "Master of Social Sciences in Psychology (Schools and Community Settings)",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 174,960",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "适合跨专业，有意从事心理学，以及教育工作者和社区工作者",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-148",
+    "name_cn": "理学硕士（测绘及地理资讯学）",
+    "name_en": "Master of Science in Geomatics",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 223,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "专为地理信息系统(GIS)、测量学或相关范畴的专业人士而设",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-149",
+    "name_cn": "文学硕士（语言研究）",
+    "name_en": "Master of Arts in Language Studies",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "了解语言本质，探讨语言对香港社会和文化的各种影响",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-150",
+    "name_cn": "金融学硕士（金融科技）",
+    "name_en": "Master of Finance in Financial Technology",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 462,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://msc.hkubs.hku.hk/articles/masteroffinanceinfinancialtechnology",
+    "desc": "香港大学商学院金融科技金融学硕士（MFFinTech）为期一年全日制，由商学院、工程学院和法学院联合开办，是香港首个跨学科的金融科技硕士项目。课程应用大数据、人工智能和自然语言处理技术来分析金融项目，培养学生在金融与科技交叉领域的复合能力。课程涵盖金融理论、编程技术、数据分析和法律法规等核心领域，毕业生可在金融科技公司、银行、投资机构、咨询公司等从事金融产品开发、量化分析、风险管理、合规科技等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。强烈建议具备量化背景，包括但不限于：金融、计算机科学、工程、数学、统计、物理等。需展示良好的编程能力（如Python、Java、C++等）和数学基础。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。有金融科技相关实习或工作经验者优先考虑。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，由商学院、工程学院和法学院共同授课，分为核心课程和选修课程。核心课程涵盖：金融理论与模型、金融科技基础、区块链与加密货币、机器学习在金融中的应用、自然语言处理与文本分析、金融大数据分析、网络安全与隐私保护、金融法规与合规科技等。选修课程包括：算法交易、智能投顾、支付系统与数字货币、保险科技（InsurTech）、房地产科技（PropTech）、云计算与分布式系统、数据可视化与商业智能等。学生需完成一个金融科技顶点项目，与行业合作伙伴共同开发金融科技解决方案。"
+  },
+  {
+    "id": "hk-prog-151",
+    "name_cn": "文学硕士（传播学）— 人工智能与数码媒体专修",
+    "name_en": "Master of Arts in Communication (Artificial Intelligence & Digital Media Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "理工科技学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-152",
+    "name_cn": "文学硕士（社会学）",
+    "name_en": "Master of Arts in Sociology",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "加深对多元社会学视角的理解，揭示隐藏在社会机构中的假设",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-153",
+    "name_cn": "理学硕士（创新创业）",
+    "name_en": "Master of Science in Venture Creation",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-154",
+    "name_cn": "国际中文教学教育硕士",
+    "name_en": "Master of Education in Teaching Chinese as an International Language",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 132,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "深化学生对中文及中国文化的理解和认识",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-155",
+    "name_cn": "社会科学硕士（公共政策及风险治理）",
+    "name_en": "Master of Social Sciences in Public Policy and Risk Governance",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 144,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "培养学生在公共政策分析和风险管理方面的能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-156",
+    "name_cn": "理学硕士（城市设计与交通）",
+    "name_en": "Master of Science in Urban Design and Transport",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 372,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "由城市规划及设计学系、地理学系和土木工程学系合办",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-157",
+    "name_cn": "护理学硕士（高级呼吸护理）",
+    "name_en": "Master of Nursing (with specialisation in Advanced Respiratory Nursing)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 137,250",
+    "tags": [
+      "26Fall",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-158",
+    "name_cn": "理学硕士（经济学）",
+    "name_en": "Master of Science in Economics",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 336,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "提供经济原理、定量分析能力及与实际应用相结合的全面专业训练",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-159",
+    "name_cn": "文学硕士（创意写作）",
+    "name_en": "Master of Arts in Creative Writing",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 129,960",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "香港第一个以中文教授的创意写作硕士课程",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-160",
+    "name_cn": "理学硕士（认证化学）",
+    "name_en": "Master of Science in Accreditation Chemistry",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 186,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合希望了解实验室化学测试认可体系和ISO/EC17025标准的人士",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-161",
+    "name_cn": "理学硕士（流行病学与生物统计学）",
+    "name_en": "Master of Science in Epidemiology and Biostatistics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 226,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "主要讲习医学人群研究理论和方法",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-162",
+    "name_cn": "社会科学硕士（人口与政策分析）",
+    "name_en": "Master of Social Sciences in the field of Population and Policy Analysis",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "提供掌握人口统计学、政策制定和循证决策交叉的基本技能",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-163",
+    "name_cn": "数据科学硕士",
+    "name_en": "Master of Data Science",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 339,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "全日制（一年半）；兼职（两年半，晚上和周末）",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-164",
+    "name_cn": "社会科学硕士（比较社会政策）— 国际",
+    "name_en": "Master of Social Sciences in Comparative Social Policy (International)",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "审视公共政策，分析管理概念以及社会经济学的分析",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-165",
+    "name_cn": "理学硕士（城市信息学及智慧城市）",
+    "name_en": "Master of Science in Urban Informatics and Smart Cities",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 272,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供信息学、大数据和相关技术,来应对城市中的问题与挑战",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-166",
+    "name_cn": "理学硕士（体验经济领导力）",
+    "name_en": "Master of Science in Leadership for Experience Economy",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-167",
+    "name_cn": "文学硕士（传理学）",
+    "name_en": "Master of Arts in Communication",
+    "university": "香港浸会大学",
+    "faculty": "传理学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "授课地点为香港浸会大学深圳研究院",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-168",
+    "name_cn": "高级管理人员工商管理硕士",
+    "name_en": "Executive Master of Business Administration",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 736,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "高性价比，学费涵盖两次海外顶尖学校的课程学习",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-169",
+    "name_cn": "理学硕士（创新创业）",
+    "name_en": "Master of Science in Venture Creation",
+    "university": "香港城市大学",
+    "faculty": "城大创新学院",
+    "tuition": "HK$ 403,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "真实世界的体验式培训，成为有能力的创业者和专业人士",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-170",
+    "name_cn": "教育硕士",
+    "name_en": "Master of Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 193,020",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "提供多样化的专业方向，以满足多种教育需求",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-171",
+    "name_cn": "金融科技博士",
+    "name_en": "Doctor of FinTech",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 991,950",
+    "tags": [
+      "26Spring",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "毕业即进入港区金融圈，金融+科技=行业新方向",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-172",
+    "name_cn": "文学硕士（创意人文）",
+    "name_en": "Master of Arts in Creative Humanities",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 148,800",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-173",
+    "name_cn": "理学硕士（数据科学及人工智能）",
+    "name_en": "Master of Science in Data Science and Artificial Intelligence",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "计算机"
+    ],
+    "official_website": "",
+    "desc": "将学习如何利用数据驱动决策，并开发创新的AI解决方案",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-174",
+    "name_cn": "理学硕士（科技领导及创业）",
+    "name_en": "Master of Science in Technology Leadership and Entrepreneurship",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "可能会根据GRE成绩来评估；可能会有面试",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-175",
+    "name_cn": "文学硕士（创意人工智能电影制作与媒体）",
+    "name_en": "Master of Arts in Creative Artificial Intelligence Filmmaking and Media",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-176",
+    "name_cn": "理学硕士（商务资讯系统）— 金融与智能科技方向",
+    "name_en": "Master of Science in Business Information Systems (Financial and Intelligent Technology Stream)",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 315,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "聚焦智能商业技术，金融技术是最知名及代表性的应用",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-177",
+    "name_cn": "社会科学硕士（心理健康学）",
+    "name_en": "Master of Social Sciences in the field of Mental Health",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 231,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "帮助学生发展心理学的研究能力，为职业生涯做好准备",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-178",
+    "name_cn": "护理学硕士（高级行政管理）",
+    "name_en": "Master of Nursing (with specialisation in Executive Administration)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 203,250",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-179",
+    "name_cn": "中医学硕士",
+    "name_en": "Master of Chinese Medicine",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "可选专修方向",
+      "实习课程"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "掌握常见及疾病治疗，用药及针灸技巧以提升疗效",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-180",
+    "name_cn": "商业人工智能硕士",
+    "name_en": "Master of Artificial Intelligence in Business",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 426,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofartificialintelligenceinbusiness",
+    "desc": "香港大学商学院商业人工智能硕士（MAIB）为期一年全日制，是2025年新开设的前沿项目，旨在培养学生在商业环境中应用人工智能技术的能力。课程结合人工智能技术与商业管理知识，涵盖机器学习、深度学习、自然语言处理、计算机视觉、生成式AI等核心技术，以及在营销、金融、运营、人力资源等商业领域的应用。学生将学习如何利用AI技术解决实际商业问题、优化商业决策、创新商业模式。毕业生可在科技公司、金融机构、咨询公司、零售企业等从事AI产品经理、商业智能分析师、AI战略顾问、数据科学家等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自计算机科学、工程、数学、统计、物理、经济学、商业管理等量化背景的学生申请。需展示良好的编程能力（如Python、R等）和数学基础。具备人工智能或机器学习相关经验者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。有相关AI项目或实习经验者优先考虑。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，结合AI技术与商业应用。核心课程涵盖：人工智能基础、机器学习与商业应用、深度学习与神经网络、自然语言处理与文本分析、计算机视觉与图像识别、生成式AI与大语言模型、AI伦理与治理、商业数据分析、AI驱动的营销与推荐系统、AI金融与算法交易、AI运营优化与供应链管理等。选修课程包括：强化学习、图神经网络、时间序列分析、语音处理、多模态AI、AI产品管理、AI创业与创新、AI与法律合规等。学生需完成一个AI商业应用顶点项目，开发解决实际商业问题的AI解决方案。"
+  },
+  {
+    "id": "hk-prog-181",
+    "name_cn": "理学硕士（电子工程学）",
+    "name_en": "Master of Science in Electronic Engineering",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "不要求gmat/gre，25Fall分两轮申请",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-182",
+    "name_cn": "城市及住房管理学硕士",
+    "name_en": "Master of Urban Studies and Housing Management",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 218,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "为对当代城市和住房问题感兴趣的不同背景学生设立",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-183",
+    "name_cn": "理学硕士（工程商业管理）",
+    "name_en": "Master of Science in Engineering Business Management",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 244,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "将工程、商业、管理和IT与分析工具和技术相结合",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-184",
+    "name_cn": "理学硕士（人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 380,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-185",
+    "name_cn": "公共卫生硕士",
+    "name_en": "Master of Public Health",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 226,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "获得担任公共卫生领导角色所需的重要能力",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-186",
+    "name_cn": "中医学硕士",
+    "name_en": "Master of Chinese Medicine",
+    "university": "香港浸会大学",
+    "faculty": "中医药学院",
+    "tuition": "HK$ 156,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "不接受跨专业申请，如果跨专业需要有3年工作经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-187",
+    "name_cn": "文学硕士（幼儿融合教育）",
+    "name_en": "Master of Arts in Inclusive Early Childhood Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 172,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-188",
+    "name_cn": "理学硕士（机器人学）",
+    "name_en": "Master of Science in Robotics",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 308,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-189",
+    "name_cn": "文学硕士（儿童与家庭教育）",
+    "name_en": "Master of Arts in Child and Family Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 175,440",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "支持员工和学生在学习，教学和研究中争取高质量的成果",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-190",
+    "name_cn": "理学硕士（金融学）",
+    "name_en": "Master of Science in Finance",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 448,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "学生可以选择在12个月或24个月内完成",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-191",
+    "name_cn": "理学硕士（环球运营管理）",
+    "name_en": "Master of Science in Global Operations",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 340,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "该计划旨在解决全球运营的独特要求",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-192",
+    "name_cn": "文学硕士（数码媒体传播）",
+    "name_en": "Master of Arts in Digital Media for Online Communication",
+    "university": "香港恒生大学",
+    "faculty": "传播学院",
+    "tuition": "HK$ 146,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-193",
+    "name_cn": "文学硕士（策略传播）",
+    "name_en": "Master of Arts in Strategic Communication",
+    "university": "香港恒生大学",
+    "faculty": "传播学院",
+    "tuition": "HK$ 146,400",
+    "tags": [
+      "26Fall",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "课程专注于培养学生的战略沟通技能，包括公关",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-194",
+    "name_cn": "理学硕士（生物统计学）",
+    "name_en": "Master of Science in Biostatistics",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养生物统计学家具备的分析、领导和沟通技能",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-195",
+    "name_cn": "理学硕士（数学）",
+    "name_en": "Master of Science in Mathematics",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 150,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "设有数学和大数据分析与计算两个进修方向",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-196",
+    "name_cn": "护理学深造文凭（中医护理）",
+    "name_en": "Postgraduate Diploma in Nursing (with specialisation in Chinese Medicinal Nursing)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 121,650",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-197",
+    "name_cn": "理学硕士（环境及公共卫生管理）",
+    "name_en": "Master of Science in Environmental and Public Health Management",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "着重于可持续发展和环境健康管理技术和风险管理",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-198",
+    "name_cn": "物理治疗学硕士",
+    "name_en": "Master in Physiotherapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 700,000",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "旨在预防受伤和残疾,恢复独立性",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-199",
+    "name_cn": "理学硕士（创意产业市场学）",
+    "name_en": "Master of Science in Marketing for the Creative Economy",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 298,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "独特而跨学科的课程，培养具有创意和文化领导力的人才",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-200",
+    "name_cn": "文学硕士（中国语文）",
+    "name_en": "Master of Arts in Chinese Language and Literature",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "帮助学生获得中国语言、文学和文化的基本知识",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-201",
+    "name_cn": "理学硕士（电子商贸技术）",
+    "name_en": "Master of Science in E-Commerce and Logistics Technologies",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "项目的教师以其世界一流的研究和开发工作而闻名",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-202",
+    "name_cn": "社会科学硕士（比较公共管理）",
+    "name_en": "Master of Social Sciences in Comparative Public Administration",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 190,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "强调批判性思维，为学生提供有助于社区的终身学习价值观",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-203",
+    "name_cn": "园境深造文凭",
+    "name_en": "Postgraduate Diploma in Landscape Architecture",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "向尚未接受过设计领域培训的学生介绍基本技能和知识",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-204",
+    "name_cn": "医疗科学博士",
+    "name_en": "Doctor of Health Science",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 416,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养经验丰富的医疗保健专业人员",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-205",
+    "name_cn": "文学硕士（社会科学）",
+    "name_en": "Master of Arts in Social Science",
+    "university": "香港科技大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "可选专修方向",
+      "社会科学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "提供社会科学研究所需的必要技能和广泛的分析视角",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-206",
+    "name_cn": "文学硕士（音乐）",
+    "name_en": "Master of Arts in Music",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 120,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提供了与来自世界各地的顶尖学者和音乐家互动的机会",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-207",
+    "name_cn": "理学硕士（工业物流系统）",
+    "name_en": "Master of Science in Industrial Logistics Systems",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 255,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有交换机会",
+      "论文课程",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涉及从源到客户的商品和服务流中资源和信息的规划",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-208",
+    "name_cn": "文学硕士（数码人文文化专才）",
+    "name_en": "Master of Arts in Digital Humanities for Cultural Professionals",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "香港唯一此类课程，为想要掌握数字技能的个人提供优质教育",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-209",
+    "name_cn": "应用理学硕士（医务化验科学）",
+    "name_en": "Master of Applied Science in Medical Laboratory Science",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "HK$ 507,780",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-210",
+    "name_cn": "理学硕士（会计及金融分析）",
+    "name_en": "Master of Science in Accounting and Finance Analytics",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 372,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "让毕业生对会计和金融学科以及技术在这些学科中的应用有广泛的了解。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-211",
+    "name_cn": "理学硕士（国际航运及物流管理）",
+    "name_en": "Master of Science in International Shipping and Transport Logistics",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 300,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涵盖物流、经济、金融、管理、法律等众多主题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-212",
+    "name_cn": "理学硕士（金融）- 金融科技及金融分析",
+    "name_en": "Master of Science in Finance (FinTech and Financial Analytics)",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 335,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "更好地应对当今数据驱动型经济中快速增长的需求",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-213",
+    "name_cn": "文学硕士（艺创科技及数码传播）",
+    "name_en": "Master of Arts in Arts Tech and Digital Communication",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "整合艺术与创新科技应用的跨学科",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-214",
+    "name_cn": "理学硕士（营养与食品科学技术）",
+    "name_en": "Master of Science in Nutrition, Food Science and Technology",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 173,250",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "第一个专注于食品科学和人类营养的跨学科课程",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-215",
+    "name_cn": "牙医硕士（牙周病学）",
+    "name_en": "Master of Dental Surgery in Periodontology",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 595,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "至少 1 年的工作经验，其中一些应该与申请的课程相关",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-216",
+    "name_cn": "设计学硕士",
+    "name_en": "Master of Design",
+    "university": "香港理工大学",
+    "faculty": "设计学院",
+    "tuition": "HK$ 273,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "位列QS艺术设计全球第19位，顶尖设计高校",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-217",
+    "name_cn": "理学硕士（康复科学）",
+    "name_en": "Master of Science in Rehabilitation Sciences",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为学生提供康复方面的先进知识基础和技能",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-218",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accountancy",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 315,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "结合中西课程特色，致力培育学员的领导及其他商业软技能",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-219",
+    "name_cn": "理学硕士（分析化学）",
+    "name_en": "Master of Science in Analytical Chemistry",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "涵盖现代分析技术在实际工作问题中的应用",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-220",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accountancy",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 315,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提供必要的会计知识和技能以从事专业会计工作",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-221",
+    "name_cn": "应用心理学硕士",
+    "name_en": "Master of Applied Psychology",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 256,800",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "评估、干预、研究的执行能力提供均衡的基础",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-222",
+    "name_cn": "护理学硕士",
+    "name_en": "Master of Nursing",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "为注册护士进行高级和专业护理实践做好准备",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-223",
+    "name_cn": "理学硕士（口腔颌面放射及成像诊断学）",
+    "name_en": "Master of Science in Oral and Maxillofacial Radiology & Diagnostic Imaging",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 363,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "1年全日制",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-224",
+    "name_cn": "社会科学硕士（辅导学）",
+    "name_en": "Master of Social Sciences in the field of Counselling",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 231,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "提供特定领域的高级学术基础",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-225",
+    "name_cn": "理学硕士（言语科学及儿童语言障碍）",
+    "name_en": "Master of Science in Communication Sciences and Child Language Disorders",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 181,500",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-226",
+    "name_cn": "法学硕士（中国商业法）",
+    "name_en": "Master of Laws in Chinese Business Law",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "学习有效传达法律意见并进行批判性研究",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-227",
+    "name_cn": "理学硕士（环球海洋资源管理）",
+    "name_en": "Master of Science in Global Marine Resources Management",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 130,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "与南安普顿大学一同开设的双学位课程",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-228",
+    "name_cn": "理学硕士（商务资讯系统）",
+    "name_en": "Master of Science in Business Information Systems",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-229",
+    "name_cn": "理学硕士（电子商贸及互联网工程）",
+    "name_en": "Master of Science in Electronic Commerce and Internet Computing",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 334,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "亚太地区第一个提供此类课程，以连接商业和技术",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-230",
+    "name_cn": "理学硕士（风险、保险及精算分析）",
+    "name_en": "Master of Science in Risk, Insurance and Actuarial Analytics",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 238,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-231",
+    "name_cn": "理学硕士（微电子学与集成电路）",
+    "name_en": "Master of Science in Microelectronics and Integrated Circuits",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 260,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-232",
+    "name_cn": "文学硕士（学校咨商与辅导）",
+    "name_en": "Master of Arts in School Guidance and Counselling",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 156,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "可选专修方向",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合辅导教师、学校协调员、社工、前线教师、执业/有抱负的辅导员",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-233",
+    "name_cn": "护理科学硕士（注册前）",
+    "name_en": "Master of Nursing Science (Pre-registration)",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 459,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专注于循证护理，涵盖身体、心理社会和社区健康等方面",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-234",
+    "name_cn": "艺术硕士（电影制作）",
+    "name_en": "Master of Fine Arts in Cinema Production",
+    "university": "香港演艺学院",
+    "faculty": "电影电视学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "需要提供作品集&面试",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-235",
+    "name_cn": "文学硕士（娱乐媒体管理与传播）",
+    "name_en": "Master of Arts in Entertainment Media Management and Communication",
+    "university": "香港恒生大学",
+    "faculty": "传播学院",
+    "tuition": "HK$ 146,400",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-236",
+    "name_cn": "理学硕士（发展障碍人士复康）",
+    "name_en": "Master of Science in Rehabilitation of People with Developmental Disabilities",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "促进跨学科团队合作、发育障碍领域的应用研究与实践",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-237",
+    "name_cn": "理学硕士（生物信息学）",
+    "name_en": "Master of Science in Bioinformatics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-238",
+    "name_cn": "理学硕士（心脏科）",
+    "name_en": "Master of Science in Cardiology",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 163,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "心脏病学项目设有两个方向：基础心脏病学和高级心脏病学实践",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-239",
+    "name_cn": "理学硕士（适应性体育）",
+    "name_en": "Master of Science in Adaptive Sports",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-240",
+    "name_cn": "理学硕士（人工智能与创业）",
+    "name_en": "Master of Science in AI and Entrepreneurship",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 540,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-241",
+    "name_cn": "理学硕士（金融工程）",
+    "name_en": "Master of Science in Financial Engineering",
+    "university": "香港中文大学",
+    "faculty": "数据科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-242",
+    "name_cn": "文学硕士（文化遗产）",
+    "name_en": "Master of Arts in Cultural Heritage",
+    "university": "香港珠海学院",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "发掘、传授及弘扬科学和理工知识",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-243",
+    "name_cn": "理学硕士（人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 390,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "数学系、统计与精算学系和计算机科学系联合提供",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-244",
+    "name_cn": "文学硕士（房屋及都市管理）",
+    "name_en": "Master of Arts in Housing and Urban Management",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "语言成绩只需达标，但需展现定量或定性分析能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-245",
+    "name_cn": "工商管理博士",
+    "name_en": "Doctor of Business Administration",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 1,500,000",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-246",
+    "name_cn": "理学硕士（分析化学）",
+    "name_en": "Master of Science in Analytical Chemistry",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "香港浸会大学化学系的分析化学为全港最强",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-247",
+    "name_cn": "理学硕士（生物科技创业领导）",
+    "name_en": "Master of Science in Entrepreneurial Leadership in Biotechnology",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-248",
+    "name_cn": "理学硕士（环球中国研究）",
+    "name_en": "Master of Science in Global China Studies",
+    "university": "香港科技大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "硕士学位课程学费为港币16万元整，可分春秋季两次缴纳",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-249",
+    "name_cn": "文学硕士（文学及文化研究）",
+    "name_en": "Master of Arts in the field of Literary and Cultural Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 263,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "结束时，学生需要完成一次顶点体验",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-250",
+    "name_cn": "理学硕士（航空工程）",
+    "name_en": "Master of Science in Aeronautical Engineering",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 216,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "可以在航空航天系统的研发、维护等领域就业",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-251",
+    "name_cn": "文学硕士（中国文学）",
+    "name_en": "Master of Arts in Chinese Literature",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 131,850",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "通过文学知识的累计，提升学生的语文水平",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-252",
+    "name_cn": "工商管理博士",
+    "name_en": "Doctor of Business Administration",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 1,320,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "虽然贵，但毕业生说物超所值！",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-253",
+    "name_cn": "酒店及旅游管理博士",
+    "name_en": "Doctor of Hotel and Tourism Management",
+    "university": "香港理工大学",
+    "faculty": "酒店及旅游业管理学院",
+    "tuition": "HK$ 586,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "由浙江大学与香港理工大学共同推出的中外合作办学项目",
+    "requirements": {
+      "background": "学科背景：服务类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-254",
+    "name_cn": "理学硕士（高效能建筑）",
+    "name_en": "Master of Science in High Performance Buildings",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "参与教育和研究,以促进高性能建筑的发展",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-255",
+    "name_cn": "城市及住房管理学硕士（城市研究方向）",
+    "name_en": "Master of Urban Studies and Housing Management (Urban Studies Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 218,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-256",
+    "name_cn": "文学硕士（传播学）— 运动、健康与传播专修",
+    "name_en": "Master of Arts in Communication (Sports, Health and Communication Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "通识教育学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-257",
+    "name_cn": "文学硕士（文化领导力）",
+    "name_en": "Master of Arts in Cultural Leadership",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "通过创新的文化计划和项目展现积极的领导力",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-258",
+    "name_cn": "中医学硕士",
+    "name_en": "Master of Chinese Medicine",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 920,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "申请者可报名参加香港中医药管理委员会中医执业资格考试",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-259",
+    "name_cn": "理学硕士（管理学）",
+    "name_en": "Master of Science in Management",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 405,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "为年轻毕业生提供全面的商业知识",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-260",
+    "name_cn": "文学硕士（音乐教育）",
+    "name_en": "Master of Arts in Music Education",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培养音乐学科和教学力量之间的协同作用",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-261",
+    "name_cn": "文学硕士（数字人力资源管理与组织营销）",
+    "name_en": "Master of Arts in Digital Human Resource Management and Organisational Marketing",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-262",
+    "name_cn": "理学硕士（土木工程）",
+    "name_en": "Master of Science in Civil Engineering (Infrastructure Construction and Management)",
+    "university": "香港珠海学院",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "提供深造机会，进阶课程融合创新科技",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-263",
+    "name_cn": "文学硕士（传播与新媒体）",
+    "name_en": "Master of Arts in Communication and New Media",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "毕业适合大众传媒、广告、公共关系、企业传播等工作",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-264",
+    "name_cn": "理学硕士（人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 400,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "排名全球第10，香港第1",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-265",
+    "name_cn": "政策研究博士",
+    "name_en": "Doctor of Policy Studies",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 543,000",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "提供海外学习机会，了解海外社会研究及政策制定的最新发展",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-266",
+    "name_cn": "文学硕士（婚姻及家庭治疗）",
+    "name_en": "Master of Arts in Marriage and Family Therapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 226,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "探讨社会、经济与政治环境如何影响社会服务者以及案主",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-267",
+    "name_cn": "理学硕士（可持续发展地球与环境分析）",
+    "name_en": "Master of Science in Earth and Environmental Analytics for Sustainability",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-268",
+    "name_cn": "艺术硕士（影视艺术与创意实践）",
+    "name_en": "Master of Fine Arts in Cinematic Arts and Creative Practice",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 436,000",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-269",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accountancy",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 326,220",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "本科申请者要求有商科领域的学士学位，如会计、金融等",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-270",
+    "name_cn": "文学硕士（学校改善及领导）",
+    "name_en": "Master of Arts in School Improvement and Leadership",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合学校校长、教师、管理员、发展顾问或教育局官员",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-271",
+    "name_cn": "理学硕士（数据科学）",
+    "name_en": "Master of Science in Data Science",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "HK$ 327,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "高级数据科学技能是日益增长的需求",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-272",
+    "name_cn": "理学硕士（深造物理治疗学）",
+    "name_en": "Master of Science in Advanced Physiotherapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-273",
+    "name_cn": "理学硕士（商务分析）",
+    "name_en": "Master of Science in Business Analytics",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 380,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "最早的商业分析项目之一",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-274",
+    "name_cn": "文学硕士（英文）— 应用英语语言学",
+    "name_en": "Master of Arts in English (Applied English Linguistics)",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "一年(全日制)或两年(兼读制)授课型的研究生课程",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-275",
+    "name_cn": "理学硕士（医疗数据科学）",
+    "name_en": "Master of Science in Medical Data Science",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 254,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "专业资格认证",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涵盖为医学影像学、放射治疗、医学实验室科学、健康技术",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-276",
+    "name_cn": "文学硕士（艺术与文化遗产管理）— 文化遗产旅游与管理",
+    "name_en": "Master of Arts in Arts and Cultural Heritage Management (Heritage Tourism and Management)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "本专业有潜力提高遗产旅游的知名度和生态可持续性。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-277",
+    "name_cn": "社会科学硕士（运动教练及管理）",
+    "name_en": "Master of Social Sciences in Sports Coaching and Management",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "提供体育教练和管理方面的高级知识",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-278",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accountancy",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 280,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-279",
+    "name_cn": "文化研究硕士（数字与文化创新）",
+    "name_en": "Master of Cultural Studies (Digital and Cultural Innovation)",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "通过数字技术和文化创新，提升数字文化修养和技能",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-280",
+    "name_cn": "理学硕士（风险分析）",
+    "name_en": "Master of Science in Risk Analytics",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "HK$ 187,200",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-281",
+    "name_cn": "社会科学硕士（可持续旅游）",
+    "name_en": "Master of Social Science in Sustainable Tourism",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为学生在理解和实施可持续旅游业方面提供培训",
+    "requirements": {
+      "background": "学科背景：服务类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-282",
+    "name_cn": "理学硕士（地理空间数据科学）",
+    "name_en": "Master of Science in Geospatial Data Science",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "提供遥感、GIS、人工智能、大数据等理论、技能和应用训练",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-283",
+    "name_cn": "文学硕士（华南历史与文化）",
+    "name_en": "Master of Arts in History and Culture of South China",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "分析历史过程，训练跨领域专才，掌握多维度知识",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-284",
+    "name_cn": "文学硕士（香港历史）",
+    "name_en": "Master of Arts in the field of Hong Kong History",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "提供学术历史和与专业就业市场相关的知识的高级培训",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-285",
+    "name_cn": "表达艺术治疗硕士",
+    "name_en": "Master of Expressive Arts Therapy",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 369,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "培养有能力的临床和教育专家，引领表现艺术疗法领域的发展",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-286",
+    "name_cn": "理学硕士（地理信息科学与智慧城市）",
+    "name_en": "Master of Science in GeoInformation Science and Smart Cities",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为学生提供在现实生活场景中管理和应用最新技术的能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-287",
+    "name_cn": "文学硕士（数学及教学）",
+    "name_en": "Master of Arts in Mathematics and Pedagogy",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "从高观点的数学角度认识数学的学与教",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-288",
+    "name_cn": "文学硕士（服装及纺织品设计）",
+    "name_en": "Master of Arts in Fashion and Textile Design",
+    "university": "香港理工大学",
+    "faculty": "时装及纺织学院",
+    "tuition": "HK$ 223,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生成为未来的创新领袖、时装设计师和企业家",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-289",
+    "name_cn": "理学硕士（工程企业管理）",
+    "name_en": "Master of Science in Engineering Enterprise Management",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "综合性的管理培训课程",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-290",
+    "name_cn": "医疗影像硕士",
+    "name_en": "Master of Medical Imaging",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 772,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "课程采取混合授课模式，全日制学制1.5年，兼读制3年",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-291",
+    "name_cn": "理学硕士（生物医药研发及产业化）",
+    "name_en": "Master of Science in Biopharmaceutical Development and Commercialization",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "讲授生物制药产品的生命周期,从R&D到商业化",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-292",
+    "name_cn": "教育深造文凭（学科教学及学科知识方向）",
+    "name_en": "Postgraduate Diploma in Education (Traditional Stream)",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "新增专业",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-293",
+    "name_cn": "高级管理人员文学硕士（国际教育领导与变革）",
+    "name_en": "Executive Master of Arts in International Educational Leadership and Change",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 145,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "兼读制、模块化、在线研究生课程",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-294",
+    "name_cn": "理学硕士（营养治疗）",
+    "name_en": "Master of Science in Dietetics",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 543,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "严格的学术课程与临床和食品服务环境中的实践培训相结合",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-295",
+    "name_cn": "理学硕士（房地产）",
+    "name_en": "Master of Science in Real Estate",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "使毕业生获得从全球视角设计和应对房地产行业战略的能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-296",
+    "name_cn": "凯洛格 ─ 科大高级管理人员工商管理硕士",
+    "name_en": "Kellogg-HKUST Executive Master of Business Administration",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "合办的EMBA(英文)课程位列世界第一",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-297",
+    "name_cn": "理学硕士（创业及环球市场学）",
+    "name_en": "Master of Science in Entrepreneurship and Global Marketing",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 298,000",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "为期15个月的全日制修读",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-298",
+    "name_cn": "理学硕士（电子资讯工程学）",
+    "name_en": "Master of Science in Electronic Information Engineering",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-299",
+    "name_cn": "理学硕士（工程）— 微电子科学与技术",
+    "name_en": "Master of Science in Engineering (Microelectronics Science and Technology)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "专业资格认证",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "为学生进入快速增长的微电子和半导体行业做好准备",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-300",
+    "name_cn": "理学硕士（知识及科技管理）",
+    "name_en": "Master of Science in Knowledge and Technology Management",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 255,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "根据专业需要,在科技和创新领域进行量身定制的学习",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-301",
+    "name_cn": "文学硕士（基督教研究）",
+    "name_en": "Master of Arts in Christian Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 174,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "全日制一至两年修毕课程；兼读制两至四年内修毕课程",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-302",
+    "name_cn": "心理学博士（临床心理学）",
+    "name_en": "Doctor of Psychology in Clinical Psychology",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 368,700",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "中文授课",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "学制3年，每年学费10万港币",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-303",
+    "name_cn": "工学硕士（屋宇设备工程学）",
+    "name_en": "Master of Engineering in Building Services Engineering",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 285,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "综合性硕士学位课程，毕业生为社会提供提供高水平建筑服务",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-304",
+    "name_cn": "理学硕士（全球供应链管理）",
+    "name_en": "Master of Science in Global Supply Chain Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 327,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "供应链中创造和维持竞争力的能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-305",
+    "name_cn": "文学硕士（翻译）— 电脑辅助翻译",
+    "name_en": "Master of Arts in Translation (Computer-Aided Translation)",
+    "university": "香港恒生大学",
+    "faculty": "翻译及外语学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "计算机"
+    ],
+    "official_website": "",
+    "desc": "适合有志于在翻译技术领域发展的学生",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-306",
+    "name_cn": "理学硕士（可持续发展的全球环境管理）",
+    "name_en": "Master of Science in Global Environmental Management for Sustainable Development",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "涵盖环境管理课程，如生态保护和环境评估等",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-307",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "拥有2年以上工作经验，提交GMAT或GRE 成绩",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-308",
+    "name_cn": "理学硕士（金融科技）",
+    "name_en": "Master of Science in Financial Technology",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 395,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "由商业与管理学院、工程学院和理学院联合运营",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-309",
+    "name_cn": "理学硕士（工程）— 机器人与智能系统",
+    "name_en": "Master of Science in Engineering (Robotics and Intelligent Systems)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "为成为独立的研究人员和工程师做好了充分准备",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-310",
+    "name_cn": "理学硕士（工业数据分析）",
+    "name_en": "Master of Science in Industrial Data Analytics",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 289,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-311",
+    "name_cn": "中药学硕士",
+    "name_en": "Master of Pharmaceutical Sciences in Chinese Medicine",
+    "university": "香港浸会大学",
+    "faculty": "中医药学院",
+    "tuition": "HK$ 146,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "涵盖中药质量控制、中药制剂、中药作用机理等课程",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-312",
+    "name_cn": "社会科学硕士（心理学）",
+    "name_en": "Master of Social Sciences in Psychology",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "工作日晚上上课。同等学习水平可转学分。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-313",
+    "name_cn": "工商管理学硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 588,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofbusinessadministration",
+    "desc": "香港大学商学院工商管理硕士（MBA）为期一至两年全日制或兼读制，旨在培养具有全球视野和战略思维的商业领袖。课程提供丰富的实践机会，将理论知识应用于实际商业问题中，涵盖战略管理、领导力、财务管理、市场营销、运营管理等核心商业领域。项目提供多种学习模式选择，包括全日制MBA（12-16个月）、兼读制MBA（24-48个月）和周末MBA（24-48个月）。学生有机会参与海外交换项目，与全球顶尖商学院的学生交流学习。毕业生可在跨国公司、金融机构、咨询公司、科技企业等担任高级管理职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。通常要求至少2年全职工作经验（管理层经验优先考虑）。欢迎来自各行各业的专业人士申请，不限于商业背景。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。具有丰富工作经验的资深申请者可根据个案考虑豁免。",
+      "others": "需要提供两封推荐信（建议一封来自当前或前任雇主，一封来自学术推荐人）。需提供个人陈述（PS）和简历（CV）。通常需要参加面试。",
+      "timeline": "全日制MBA通常每年9月入学，申请分多轮进行，建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程分为核心课程和选修课程。核心课程涵盖：战略管理、领导力与组织行为、财务管理、管理会计、市场营销管理、运营管理、商业伦理与企业社会责任、宏观经济学、数据分析与决策等。选修课程包括：创业与创新、金融科技、数字营销、全球供应链管理、兼并与收购、私人股权投资、公司治理、国际商务、亚洲商业环境等。学生可选择完成一个咨询项目（Consulting Project），为真实企业提供战略咨询建议。项目还提供海外交换机会，与全球50多所顶尖商学院合作。"
+  },
+  {
+    "id": "hk-prog-314",
+    "name_cn": "文学硕士（国际高等教育与管理）— 国际教育变革管理",
+    "name_en": "Master of Arts in International Higher Education and Management (Managing Education Change in International Context)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "了解教育变革所处的文化、社会、经济和政治经济背景",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-315",
+    "name_cn": "艺术硕士（电影电视与数码媒体）",
+    "name_en": "Master of Fine Arts in Film, Television and Digital Media",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 414,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "结合传统理念与当今文化及社会,以发挥创意",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-316",
+    "name_cn": "文学硕士（英语教学）",
+    "name_en": "Master of Arts in English Language Teaching",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "满足英语教师和其他TESOL专业人士的专业发展需求",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-317",
+    "name_cn": "文学硕士（社会企业与创新管理）— 艺术与设计的社会效益",
+    "name_en": "Master of Arts in Social Entrepreneurship and Innovation Management (Art and Design for Social Impact)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "通过设计和科技促进社会福祉的新专业课程，注重理论与实践相结合",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-318",
+    "name_cn": "教育深造文凭",
+    "name_en": "Postgraduate Diploma in Education (Subject Teaching and Subject Knowledge Stream)",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "新增专业",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-319",
+    "name_cn": "理学硕士（应用经济学）",
+    "name_en": "Master of Science in Applied Economics",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 339,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "经济分析、实证和定量方法培训，分析和解决现实问题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-320",
+    "name_cn": "护理学硕士",
+    "name_en": "Master of Nursing",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 630,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "允许学生选择完成学位论文或实习，提供多项奖学金",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-321",
+    "name_cn": "理学硕士（药物发现）- 中药现代化",
+    "name_en": "Master of Science in Drug Discovery (Modernization of Chinese Medicine)",
+    "university": "香港浸会大学",
+    "faculty": "中医药学院",
+    "tuition": "HK$ 155,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "将传统中医思维与现代科技完美结合",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-322",
+    "name_cn": "理学硕士（智能会计与金融科技应用）",
+    "name_en": "Master of Science in Accounting and Finance with AI and Fintech Applications",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "重点提升高级财经管理人员能力，成就数字经济时代CFO",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-323",
+    "name_cn": "理学硕士（设施管理）",
+    "name_en": "Master of Science in Facility Management",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涉及基于工程的建筑服务学科到与物业管理和空间规划的有关学科",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-324",
+    "name_cn": "文学硕士（家庭辅导及家庭教育）",
+    "name_en": "Master of Arts in Family Counselling and Family Education",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 193,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "需对课题的假设和实际运作进行批判性的探讨，并提出创意改善方法",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-325",
+    "name_cn": "理学硕士（应用人工智能）",
+    "name_en": "Master of Science in Applied Artificial Intelligence",
+    "university": "香港珠海学院",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "中文授课",
+      "计算机"
+    ],
+    "official_website": "",
+    "desc": "结合了人工智能在创意产业和科学与工程方面的应用元素",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-326",
+    "name_cn": "社会科学硕士（一带一路国家国际关系）",
+    "name_en": "Master of Social Sciences in International Relations for Belt and Road Countries",
+    "university": "香港珠海学院",
+    "faculty": "黃廷方 · 信和一帶一路研究院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "申请人最好拥有社会科学、人文学科、商业或法律领域学位",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-327",
+    "name_cn": "教学英文学科研究深造文凭",
+    "name_en": "Postgraduate Diploma in English Studies for Language Teaching",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 62,910",
+    "tags": [
+      "26Fall",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "培养对英语的结构、使用和学习的良好理解",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-328",
+    "name_cn": "理学硕士（商业及数据分析）",
+    "name_en": "Master of Science in Business and Data Analytics",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 330,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养具有商业数据分析专业知识的学生",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-329",
+    "name_cn": "文学硕士（作曲与作曲技术理论）",
+    "name_en": "Master of Arts in Music Composition and Theory",
+    "university": "香港中文大学",
+    "faculty": "音乐学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-330",
+    "name_cn": "文学硕士（比较教育与协同创新）",
+    "name_en": "Master of Arts in Comparative Education and Collaborative Innovation",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-331",
+    "name_cn": "心理学医学深造文凭（精神病学研究）",
+    "name_en": "Postgraduate Diploma in Psychological Medicine (Psychosis Studies)",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 122,580",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "基础广泛的培训计划",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-332",
+    "name_cn": "理学硕士（人工智能及商业）",
+    "name_en": "Master of Science in AI for Business",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-333",
+    "name_cn": "理学硕士（数据分析和人工智能）",
+    "name_en": "Master of Science in Data Analytics and Artificial Intelligence",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "解决信息系统领域的实际的问题",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-334",
+    "name_cn": "理学硕士（营养与健康活龄）— 营养实践方向",
+    "name_en": "Master of Science in Nutrition and Healthy Ageing (Nutrition in Practice)",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 238,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养能够满足老年人需求的训练有素的营养师",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-335",
+    "name_cn": "文学硕士（中国语言学）",
+    "name_en": "Master of Arts in Chinese Linguistics",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "结合香港和中国大陆的语言现状，针对性提供课程培训",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-336",
+    "name_cn": "社会科学硕士（教育心理学）",
+    "name_en": "Master of Social Sciences in Educational Psychology",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-337",
+    "name_cn": "理学硕士（环球商业及决策分析）",
+    "name_en": "Master of Science in Global Business and Decision Analysis",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 366,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "管理决策所需的科学和分析工具方面的培训",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-338",
+    "name_cn": "社会科学硕士（永续发展领导力与治理）",
+    "name_en": "Master of Social Sciences in the field of Sustainability Leadership and Governance",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "侧重于建设公共、商业和社会部门行为者参与对话和建立伙伴关系的能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-339",
+    "name_cn": "法学硕士（仲裁及排解争端）",
+    "name_en": "Master of Laws in Arbitration and Dispute Resolution",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "专业资格认证",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "毕业生将获得 HKMAAL、CIARb 和 HKIA 的专业认证",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-340",
+    "name_cn": "理学硕士（市场学及消费者心理学）",
+    "name_en": "Master of Science in Marketing and Consumer Psychology",
+    "university": "香港树仁大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "将消费者心理学前沿主题与市场营销学相结合",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-341",
+    "name_cn": "政策研究博士（教育政策与管理）",
+    "name_en": "Doctor of Policy Studies (Education Policy and Management)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "侧重国际高等教育、政策和治理以及当代大学管理和领导问题",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-342",
+    "name_cn": "文学硕士（全球研究）",
+    "name_en": "Master of Arts in Global Studies",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 140,000",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-343",
+    "name_cn": "文学硕士（传播学）— 传媒管理专修",
+    "name_en": "Master of Arts in Communication (Media Management Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-344",
+    "name_cn": "理学硕士（城市规划）",
+    "name_en": "Master of Science in Urban Planning",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "可选专修方向",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "提供两个方向，即城市规划方向  和城市和区域规划",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-345",
+    "name_cn": "环球管理学硕士",
+    "name_en": "Master of Global Management",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 426,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofglobalmanagement",
+    "desc": "香港大学商学院环球管理学硕士（MGM）为期一年全日制，旨在提高学生在全球背景下管理和与来自不同背景的人合作的能力。课程结合国际商务理论与跨文化管理实践，培养学生在跨国公司、国际组织及多元化团队中担任领导角色的能力。学生将学习全球战略、跨文化沟通、国际市场营销、全球供应链管理等核心知识，并有机会参与海外交流项目或企业实习。毕业生可在跨国公司、咨询公司、国际组织、进出口贸易公司等从事国际商务、全球运营管理、跨文化团队管理等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自商业管理、经济学、社会科学、人文科学、工程等各类背景的学生申请。具备国际交流经验或跨文化工作背景者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，分为核心课程和选修课程。核心课程涵盖：全球战略管理、跨文化管理、国际商务环境、全球营销管理、国际组织行为学、全球供应链与运营管理、国际财务管理、商业伦理与企业社会责任等。选修课程包括：亚太商业环境、欧洲商业环境、美洲商业环境、新兴市场战略、国际创业、全球领导力、国际谈判与冲突管理、全球数字商业转型等。学生可选择完成一个企业咨询项目（Consulting Project），为真实企业提供国际化战略建议。"
+  },
+  {
+    "id": "hk-prog-346",
+    "name_cn": "理学硕士（能源及环境）",
+    "name_en": "Master of Science in Energy and Environment",
+    "university": "香港城市大学",
+    "faculty": "能源及环境学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "商业和工业领域对现代能源、环境管理人员有日益增长的需求",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-347",
+    "name_cn": "文化研究硕士",
+    "name_en": "Master of Cultural Studies",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "旨在教授和激励学生全面发展，拥有全面的知识和软技能",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-348",
+    "name_cn": "应用心理学硕士（多元学习需求）",
+    "name_en": "Master of Applied Psychology (Diverse Learning Needs)",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 256,800",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "目标是培养具有专业知识的毕业生，为不同人提供有效支持",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-349",
+    "name_cn": "佛法辅导硕士",
+    "name_en": "Master of Buddhist Counselling",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 181,280",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "提供有关佛教教学的咨询知识和技能的优质培训",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-350",
+    "name_cn": "文学硕士（全球教育研究）",
+    "name_en": "Master of Arts in Global Studies in Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 173,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "聚焦全球意识，关注世界各地教育发展和改革的焦点",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-351",
+    "name_cn": "文学硕士（比较及公众史学）",
+    "name_en": "Master of Arts in Comparative and Public History",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "强调通过比较和跨文化研究方法，实现历史研究的全球视角",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-352",
+    "name_cn": "理学硕士（商业创新与创业）",
+    "name_en": "Master of Science in Business Innovation and Entrepreneurship",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 308,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "更好了解中国大陆创新创业的政策、流程、规则和发展。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-353",
+    "name_cn": "文学硕士（创意传播）",
+    "name_en": "Master of Arts in the field of Creative Communications",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 292,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "新兴领导力、专业晋升、跨学科、多语言背景创造合作",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-354",
+    "name_cn": "文学硕士（STEM教育）",
+    "name_en": "Master of Arts in STEM Education",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "HK$ 160,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "学习课程开发的内容知识，为STEM综合教育设计指导和评估",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-355",
+    "name_cn": "音乐硕士",
+    "name_en": "Master of Music",
+    "university": "香港演艺学院",
+    "faculty": "音乐学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "培养学生成为专业和有创造力的音乐家",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-356",
+    "name_cn": "理学硕士（金融数学）与理学硕士（金融、投资和风险）双学位",
+    "name_en": "Dual Degree of Master of Science in Mathematical Finance and Master of Science in Finance, Investment and Risk",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 230,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "双学位",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "毕业后可以投身于投资银行和商业银行",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-357",
+    "name_cn": "理学硕士（工程管理学）",
+    "name_en": "Master of Science in Engineering Management",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "基于技术的管理课程，以技术业务为中心",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-358",
+    "name_cn": "高级管理人员工商管理硕士（金融学）",
+    "name_en": "Executive Master of Business Administration in Finance",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-359",
+    "name_cn": "文学硕士（社会服务管理）",
+    "name_en": "Master of Arts in Social Service Management",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合希望掌握社会福利管理理论和实践的人，包括战略规划和资源管理",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-360",
+    "name_cn": "文学硕士（科学与机器人教育）",
+    "name_en": "Master of Arts in Science and Robotics Education",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 168,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-361",
+    "name_cn": "数字城市管理硕士",
+    "name_en": "Master of Digital Urban Management",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 288,000",
+    "tags": [
+      "26Fall",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-362",
+    "name_cn": "文学硕士（音乐表演）",
+    "name_en": "Master of Arts in Music Performance",
+    "university": "香港中文大学",
+    "faculty": "音乐学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-363",
+    "name_cn": "理学硕士（环球食品安全管理及风险分析）",
+    "name_en": "Master of Science in Global Food Safety Management and Risk Analysis",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 238,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "帮助学生以国际化视野来看待食品安全问题",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-364",
+    "name_cn": "理学硕士（综合海洋生态与保护）",
+    "name_en": "Master of Science in Integrative Marine Ecology and Conservation",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-365",
+    "name_cn": "文学硕士（环球时装管理）",
+    "name_en": "Master of Arts in Global Fashion Management",
+    "university": "香港理工大学",
+    "faculty": "时装及纺织学院",
+    "tuition": "HK$ 223,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供在时装和纺织品商业管理方面教育的机会",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-366",
+    "name_cn": "兽医学硕士",
+    "name_en": "Master of Veterinary Medicine",
+    "university": "香港城市大学",
+    "faculty": "赛马会动物医学及生命科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-367",
+    "name_cn": "理学硕士（运动科学与体力活动）",
+    "name_en": "Master of Science in Sports Science and Physical Activity",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "提供体育科学和体育锻炼相关的研究课程",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-368",
+    "name_cn": "人工智能研究博士",
+    "name_en": "Doctor of Artificial Intelligence Studies",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 846,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-369",
+    "name_cn": "文学硕士（国际传播与主持艺术）",
+    "name_en": "Master of Arts in Global Communication and Event Hosting Arts",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-370",
+    "name_cn": "文学硕士（博物馆研究）",
+    "name_en": "Master of Arts in the field of Museum Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "教授理论和实践程序，以理解复杂的博物馆系统",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-371",
+    "name_cn": "建筑学硕士",
+    "name_en": "Master of Architecture",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 460,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "由教资会资助的全日制课程，只接受本地申请者",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-372",
+    "name_cn": "法学硕士（能源及环境法）",
+    "name_en": "Master of Laws in Energy and Environmental Law",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合热衷于解决能源和气候挑战的人，强调法律研究和批判性分析",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-373",
+    "name_cn": "社会科学硕士（老年学）",
+    "name_en": "Master of Social Sciences in the field of Gerontology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 231,840",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "亚洲地区唯一在社会老年学领域提供的授课式研究生学位",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-374",
+    "name_cn": "理学硕士（管理及创新）",
+    "name_en": "Master of Science in Management and Innovation",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 384,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "帮助管理者培养批判性思维、分析、行为和创造性技能",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-375",
+    "name_cn": "理学硕士（城市规划）— 城市规划方向",
+    "name_en": "Master of Science in Urban Planning (Urban Planning Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 96,500",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-376",
+    "name_cn": "理学硕士（精算及保险分析）",
+    "name_en": "Master of Science in Actuarial Science and Insurance Analytics",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "适合希望精通精算分析、数据分析和保险管理的个人",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-377",
+    "name_cn": "社会科学硕士（心理学）",
+    "name_en": "Master of Social Sciences in Psychology",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "毕业后应用于教育、社会福利、人力资源或企业管理",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-378",
+    "name_cn": "理学硕士（数字创新与科技管理）",
+    "name_en": "Master of Science in Digital Innovation and Technology Management",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-379",
+    "name_cn": "理学硕士（供应链与物流管理）",
+    "name_en": "Master of Science in Supply Chain and Logistics Management",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 244,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "项目课程融合了方向动员和人员关怀、商业、运营和制造四个板块",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-380",
+    "name_cn": "公司管治硕士",
+    "name_en": "Master of Corporate Governance",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 351,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "有效参与企业财务政策和策略的策划、实施和监察",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-381",
+    "name_cn": "文学硕士（正向教育心理学）",
+    "name_en": "Master of Arts in Positive Psychology in Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 161,880",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "香港首批探讨积极心理学与正向教育相互作用的课程之一",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-382",
+    "name_cn": "理学硕士（手法物理治疗）",
+    "name_en": "Master of Science in Manipulative Physiotherapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "项目满足国际骨科手法物理治疗师联合会的国际要求",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-383",
+    "name_cn": "理学硕士（工程）— 屋宇设备工程",
+    "name_en": "Master of Science in Engineering (Building Services Engineering)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "为专业人士提供现代屋宇设备系统的设计、管理和操作教育",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-384",
+    "name_cn": "理学硕士（生物医学工程）",
+    "name_en": "Master of Science in Biomedical Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 225,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养在生物医学工程领域具有专业能力的人才",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-385",
+    "name_cn": "理学硕士（营运管理学）",
+    "name_en": "Master of Science in Operations Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 351,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "考虑有6年工作经验的大专背景毕业生",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-386",
+    "name_cn": "社会科学硕士（一带一路国家国际工商管理）",
+    "name_en": "Master of Social Sciences in International Business Management for Belt and Road Countries",
+    "university": "香港珠海学院",
+    "faculty": "黃廷方 · 信和一帶一路研究院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "与本地与海外社群建立联系；从讲座和课程中发掘研究的项目",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-387",
+    "name_cn": "社会科学硕士（非营利管理学）",
+    "name_en": "Master of Social Sciences in the field of Nonprofit Management",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 237,320",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "培养亚太地区国家、大中华区和世界各地非营利部门的领导者",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-388",
+    "name_cn": "理学硕士（元宇宙科技）",
+    "name_en": "Master of Science in Metaverse Technology",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 406,100",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "帮助学生深入理解元宇宙的本质",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-389",
+    "name_cn": "理学硕士（市场学）",
+    "name_en": "Master of Science in Marketing",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 390,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "首个提供两个专业方向的市场营销学硕士课程",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-390",
+    "name_cn": "深造药剂学硕士",
+    "name_en": "Master of Advanced Pharmacy",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 218,040",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "培养学生具备药物管理的基本知识",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-391",
+    "name_cn": "理学硕士（公司管治与合规）",
+    "name_en": "Master of Science in Corporate Governance and Compliance",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 270,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "毕业生可以申请免考入会英国特许秘书及行政人员公会",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-392",
+    "name_cn": "运输政策与规划硕士",
+    "name_en": "Master of Transport Policy and Planning",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 197,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "为有志于从事运输领域工作的毕业生提供专业化的训练",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-393",
+    "name_cn": "法学硕士（公司法与金融法）",
+    "name_en": "Master of Laws in Corporate and Financial Law",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "让学生受益于公司法和金融法方面的世界级学术专业知识",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-394",
+    "name_cn": "理学硕士（创新创业）【含港城莞交换学习】",
+    "name_en": "Master of Science in Venture Creation (with Exchange Component)",
+    "university": "香港城市大学",
+    "faculty": "城大创新学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-395",
+    "name_cn": "理学硕士（植齿学）",
+    "name_en": "Master of Science in Implant Dentistry",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "申请人最少要有2年全职工作经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-396",
+    "name_cn": "理学硕士（深造职业治疗学）",
+    "name_en": "Master of Science in Advanced Occupational Therapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-397",
+    "name_cn": "理学硕士（应用会计与金融）",
+    "name_en": "Master of Science in Applied Accounting and Finance",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 310,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提升企业管理人员、专业人士和高层主管的分析能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-398",
+    "name_cn": "理学硕士（智能安老及老年学）双学位【岭南大学与香港都会大学】",
+    "name_en": "Dual Degree of Master of Science in Smart Ageing and Gerontology (LU and HKMU)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 137,100",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "双学位",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "未来从事养老产业是非常有前途以及“钱途”的",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-399",
+    "name_cn": "文学硕士（城市发展及实践）",
+    "name_en": "Master of Arts in Urban Development and Practice",
+    "university": "香港珠海学院",
+    "faculty": "未公布学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-400",
+    "name_cn": "理学硕士（都市设计）",
+    "name_en": "Master of Science in Urban Design",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 280,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专注于社区空间城市设计的协作过程",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-401",
+    "name_cn": "专业管理硕士（财富管理）",
+    "name_en": "Master of Professional Management in Wealth Management",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 305,700",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "在复杂的商业环境中处理财务管理问题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-402",
+    "name_cn": "法律博士",
+    "name_en": "Juris Doctor",
+    "university": "香港城市大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 547,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "实习课程",
+      "法学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "为非法律专业背景，但想从事法律工作的人提供教育",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-403",
+    "name_cn": "文学硕士（文化及保育旅游）【中文版】",
+    "name_en": "Master of Arts in Cultural and Heritage Tourism (Chinese version)",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 120,900",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-404",
+    "name_cn": "护理学硕士（管理及领导力）",
+    "name_en": "Master of Nursing (with specialisation in Management and Leadership)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 137,250",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-405",
+    "name_cn": "教育博士【中文授课】",
+    "name_en": "Doctor of Education (Chinese)",
+    "university": "香港教育大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 396,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "可在寒暑假攻读，到校时间较短，中文授课，认可大学六级成绩",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-406",
+    "name_cn": "理学硕士（中医健康管理）",
+    "name_en": "Master of Science in Personal Health Management (Chinese Medicine)",
+    "university": "香港浸会大学",
+    "faculty": "中医药学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "将中医的知识和技能与传统医学相结合，以加强康复方法",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-407",
+    "name_cn": "理学硕士（电机工程学）",
+    "name_en": "Master of Science in Electrical Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 248,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "深入了解现代电气科学和技术的最新进展",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-408",
+    "name_cn": "决策分析博士",
+    "name_en": "Doctor of Decision Analytics",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-409",
+    "name_cn": "理学硕士（物理学）",
+    "name_en": "Master of Science in Physics",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 190,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-410",
+    "name_cn": "文学硕士（翻译）— 笔译/口译",
+    "name_en": "Master of Arts in Translation and Interpreting Studies",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-411",
+    "name_cn": "文学硕士（公共政策）",
+    "name_en": "Master of Arts in Public Policy",
+    "university": "香港中文大学",
+    "faculty": "公共政策学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-412",
+    "name_cn": "文学硕士（数码英语研究）",
+    "name_en": "Master of Arts in Digital English Studies",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-413",
+    "name_cn": "社会科学硕士（大中华地区的政府与政治）",
+    "name_en": "Master of Social Science in Government and Politics (Greater China)",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "对当代大中华区进行独立分析和批判性评估",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-414",
+    "name_cn": "理学硕士（环境、社会和治理及可持续性）",
+    "name_en": "Master of Science in ESG and Sustainability",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为学生提供有关环境、社会和治理以及可持续发展的核心知识",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-415",
+    "name_cn": "理学硕士（土木基建工程及管理）",
+    "name_en": "Master of Science in Civil Infrastructural Engineering and Management",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "提供理论与实践并重的土木工程及管理课程",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-416",
+    "name_cn": "法学硕士（中国法）",
+    "name_en": "Master of Laws in Chinese Law",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 440,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "适合受过正规法律培训并希望获得中国法律专业证书的学生",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-417",
+    "name_cn": "理学硕士（电子计算机与信息工程）",
+    "name_en": "Master of Science in Computer and Information Engineering",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 387,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "为希望获取最新多媒体和信息技术动态的 IT 专业人士提供培训",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-418",
+    "name_cn": "教育硕士",
+    "name_en": "Master of Education",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 190,080",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "促进学生在教育方面的主动性和领导能力",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-419",
+    "name_cn": "教育深造文凭",
+    "name_en": "Postgraduate Diploma in Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 214,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "申请人还应持有本地或国际认可的学士学位，最好是相关专业。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-420",
+    "name_cn": "佛学硕士",
+    "name_en": "Master of Buddhist Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 175,200",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "佛教基础、佛教传统和来源、教义和历史观点的高质量培训",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-421",
+    "name_cn": "专业会计硕士",
+    "name_en": "Master of Professional Accounting",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 367,200",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "两个关键要素是中国会计和会计信息系统的当代应用。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-422",
+    "name_cn": "社会科学硕士（跨界领导学）",
+    "name_en": "Master of Social Sciences in Cross Sectoral Leadership",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-423",
+    "name_cn": "理学硕士（生成式人工智能与人文科学）",
+    "name_en": "Master of Science in Generative AI and the Humanities",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 313,100",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "全球首个人文学科背景下专注于生成式人工智能的专业",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-424",
+    "name_cn": "社会工作学硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 369,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "学制为两年，第一年是理论学习，第二年进行社会工作实习",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-425",
+    "name_cn": "数码工商管理硕士",
+    "name_en": "Digital Master of Business Administration for Global Leaders",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "无国界的灵活学习，开创性的教育科技的电子学习平台",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-426",
+    "name_cn": "工商管理博士（全球数字经济与治理）",
+    "name_en": "Doctor of Business Administration in Global Digital Economy and Governance",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "全首个专为全球数字经济和治理发展推出的跨学科专业博士",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-427",
+    "name_cn": "临床研究及产品研发硕士",
+    "name_en": "Master of Clinical Research and Product Development",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 270,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-428",
+    "name_cn": "理学硕士（卫星工程）",
+    "name_en": "Master of Science in Satellite Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-429",
+    "name_cn": "理学硕士（深造建筑设计学）",
+    "name_en": "Master of Science in Advanced Architectural Design",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 262,500",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "为学生、执业建筑师和城市研究人员创造了一个独特的平台",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-430",
+    "name_cn": "文学硕士（汉语语言学及语言获得）",
+    "name_en": "Master of Arts in Chinese Linguistics and Language Acquisition",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 199,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合现任汉语教师、有志于教授汉语的人士和修读汉语的学生",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-431",
+    "name_cn": "理学硕士（健康信息科技）",
+    "name_en": "Master of Science in Health Informatics",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为医疗专业人士提高专业理解力和拥有专业技能的机会",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-432",
+    "name_cn": "理学硕士（工程）— 集成电路与电子系统",
+    "name_en": "Master of Science in Engineering (Integrated Circuits and Electronic Systems)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-433",
+    "name_cn": "工商管理硕士（创新与创业）",
+    "name_en": "Master of Business Administration in Innovation and Entrepreneurship",
+    "university": "香港科技大学",
+    "faculty": "社会枢纽",
+    "tuition": "HK$ 450,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-434",
+    "name_cn": "社会科学硕士（全球政治经济）",
+    "name_en": "Master of Social Science in Global Political Economy",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "以跨学科学习为基本,并以「全球化」这概念贯穿",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-435",
+    "name_cn": "理学硕士（母胎医学）",
+    "name_en": "Master of Science in Maternal Fetal Medicine",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 178,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-436",
+    "name_cn": "理学硕士（智能建筑物技术与管理）",
+    "name_en": "Master of Science in Intelligent Building Technology and Management",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 216,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "最新尖端技术与管理策略的均衡结合",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-437",
+    "name_cn": "高级管理人员工商管理硕士（人工智能时代的商业与传播）",
+    "name_en": "Executive Master of Business Administration (Business + Communication in the AI Age)",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 888,000",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-438",
+    "name_cn": "法学硕士（普通法）",
+    "name_en": "Master of Laws in Common Law",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "强调批判性分析、创造性论证以及对法律与社会关系的理解",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-439",
+    "name_cn": "社会科学博士（应用社会科学）",
+    "name_en": "Doctor of Social Science in Applied Social Science",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 420,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "学制全职 3年，兼职 4年。学费全程36万港币",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-440",
+    "name_cn": "法学硕士（合规和监管）",
+    "name_en": "Master of Laws in Compliance and Regulation",
+    "university": "香港大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 242,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "法学"
+    ],
+    "official_website": "https://www.law.hku.hk/",
+    "desc": "加强对影响金融服务行业的监管政策和前沿问题的理解",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-441",
+    "name_cn": "理学硕士（应用经济学）与理学硕士（社会及经济政策）双学位",
+    "name_en": "Dual Degree of Master of Science in Applied Economics and Master of Science in Social and Economic Policy",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 593,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "双学位",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "中美联合授课，港中大学习 10 个月，西北大学学习 7 个月",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-442",
+    "name_cn": "理学硕士（环境管理学）",
+    "name_en": "Master of Science in Environmental Management",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "显著特点是侧重于各种环境和可持续性问题的管理",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-443",
+    "name_cn": "文学硕士（翻译）— 商务与法律",
+    "name_en": "Master of Arts in Translation (Business and Legal)",
+    "university": "香港恒生大学",
+    "faculty": "翻译及外语学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "适合从事法律、金融等专业翻译工作的学生",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-444",
+    "name_cn": "文学硕士（应用语言学）",
+    "name_en": "Master of Arts in Applied Linguistics",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 263,200",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "欢迎非英语专业学生、教学语言学家、语言分析专家报考",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-445",
+    "name_cn": "理学硕士（数据科学及分析）",
+    "name_en": "Master of Science in Data Science and Analytics",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 399,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "将培养学生的分析性和批判性思维以及解决问题的能力",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-446",
+    "name_cn": "理学硕士（酒店及旅游管理）",
+    "name_en": "Master of Science Scheme in Hospitality and Tourism Management",
+    "university": "香港理工大学",
+    "faculty": "酒店及旅游业管理学院",
+    "tuition": "HK$ 325,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "有着近四十年的历史，同时亦是世界Top1的钻石级别专业。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-447",
+    "name_cn": "理学硕士（土木及建筑工程）",
+    "name_en": "Master of Science in Civil and Architectural Engineering",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 243,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养土木工程、建筑服务工程和环境工程各方面的专家",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-448",
+    "name_cn": "食品科学与管理博士",
+    "name_en": "Doctor of Food Science and Management",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 754,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "毕业后专业博士奖获得者将展示他们在食品行业的能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-449",
+    "name_cn": "理学硕士（量化金融及金融科技）",
+    "name_en": "Master of Science in Quantitative Finance and FinTech",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 440,200",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供基于课程的定量和分析方法、建模技术等方面的培训",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-450",
+    "name_cn": "护理博士",
+    "name_en": "Doctor of Nursing",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "Top 50"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "研究聚焦促进老年人和晚期疾病患者的姑息治疗和临终关怀",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-451",
+    "name_cn": "理学硕士（统计与数据科学研习）",
+    "name_en": "Master of Science in Advanced Studies in Statistics and Data Science",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为具备坚实统计与数据科学基础并渴望深入研究的人士设计的",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-452",
+    "name_cn": "文学硕士（艺术商业）",
+    "name_en": "Master of Arts in Art Business",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 148,800",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-453",
+    "name_cn": "城市设计硕士",
+    "name_en": "Master of Urban Design",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 292,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "提供建筑环境设计方面的教育，以应对极端城市挑战",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-454",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "旨在帮助学员全面掌握基本的管理分析技巧",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-455",
+    "name_cn": "社会科学硕士（逆境与创伤心理学）",
+    "name_en": "Master of Social Sciences in Adversity and Trauma Psychology",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-456",
+    "name_cn": "社会科学硕士（城市学）",
+    "name_en": "Master of Social Science in Urban Studies",
+    "university": "香港中文大学",
+    "faculty": "公共政策学院",
+    "tuition": "HK$ 140,000",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-457",
+    "name_cn": "高级管理人员工商管理硕士",
+    "name_en": "Executive Master of Business Administration",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 780,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "全日制1年，兼读制2年",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-458",
+    "name_cn": "理学硕士（医学物理）",
+    "name_en": "Master of Science in Medical Physics",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 207,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供发展医学物理学知识和技能的机会",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-459",
+    "name_cn": "理学硕士（城市分析）",
+    "name_en": "Master of Science in Urban Analytics",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "为城市专业人士提供尖端的分析和建模技能",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-460",
+    "name_cn": "理学硕士（医疗管理学）",
+    "name_en": "Master of Science in Health Services Management",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 226,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "最好具备三年在医疗机构或管理方面的工作经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-461",
+    "name_cn": "文学硕士（环球英语文学及文化研究）",
+    "name_en": "Master of Arts in Global English Literary and Cultural Studies",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "涵盖英语文学的广泛研究，包括英国文学",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-462",
+    "name_cn": "社会科学硕士（当代中国研究）",
+    "name_en": "Master of Social Sciences (Contemporary China Studies)",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 197,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "旨在从政治和社会学的角度,为学生提供对现代社会的理解",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-463",
+    "name_cn": "理学硕士（生物化学及生物医学）",
+    "name_en": "Master of Science in Biochemical and Biomedical Sciences",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 173,250",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "强调研究能力、分析思维和理论知识的实际应用",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-464",
+    "name_cn": "文学硕士（中国文化）",
+    "name_en": "Master of Arts in Chinese Culture",
+    "university": "香港科技大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "从人文角度为学生提供多学科的中国文化知识",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-465",
+    "name_cn": "文学硕士（中英企业传讯）",
+    "name_en": "Master of Arts in Bilingual Corporate Communication",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "秉持中文及双语学系在语言传意、符号传意等领域的优势",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-466",
+    "name_cn": "理学硕士（智慧城市科技与应用）",
+    "name_en": "Master of Science in Smart City Technologies and Applications",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 289,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-467",
+    "name_cn": "法学硕士",
+    "name_en": "Master of Laws",
+    "university": "香港城市大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "法学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "课程允许学生根据自己的职业目标调整选修课程",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-468",
+    "name_cn": "统计学硕士",
+    "name_en": "Master of Statistics",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 238,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "课程包括数据科学编程、操作风险和保险分析、空间数据分析等香港首创课程",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-469",
+    "name_cn": "理学硕士（数据科学）",
+    "name_en": "Master of Science in Data Science",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 289,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "涉及数据挖掘、机器学习、数据可视化等多个领域",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-470",
+    "name_cn": "理学硕士（可持续能源技术与管理）",
+    "name_en": "Master of Science in Sustainable Energy Technology and Management",
+    "university": "香港浸会大学",
+    "faculty": "理工科技学院",
+    "tuition": "HK$ 145,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-471",
+    "name_cn": "理学硕士（应用金融学）",
+    "name_en": "Master of Science in Applied Finance",
+    "university": "香港珠海学院",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "提供与香港及大湾区金融科技业界的合作机会",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-472",
+    "name_cn": "理学硕士（物理学）",
+    "name_en": "Master of Science in the field of Physics",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "学习理论、计算和实验物理学方面的各种高级主题",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-473",
+    "name_cn": "理学硕士（工程）— 创新设计与科技",
+    "name_en": "Master of Science in Engineering (Innovative Design and Technology)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "采用跨学科课程，借鉴了以技术为重点的工程不同领域的专业知识",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-474",
+    "name_cn": "理学硕士（牙科材料科学）",
+    "name_en": "Master of Science in Dental Materials Science",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 275,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "也适合非牙科背景的学生，1年全日制/2年非全日制",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-475",
+    "name_cn": "社会科学硕士（社会可持续发展）",
+    "name_en": "Master of Social Sciences in Social Sustainability",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-476",
+    "name_cn": "理学硕士（金融财务工商管）",
+    "name_en": "Master of Business Administration in Finance",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 560,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "申请人最好有3年的工作经验",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-477",
+    "name_cn": "理学硕士（听觉学）",
+    "name_en": "Master of Science in Audiology",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 224,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "涵盖听力障碍、听力解剖学和生理学，助听器等主题",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-478",
+    "name_cn": "理学硕士（智能机械人工程学）",
+    "name_en": "Master of Science in Intelligent Robotics Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "26fall 新项目",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-479",
+    "name_cn": "高级管理人员工商管理硕士",
+    "name_en": "HKUST Executive Master of Business Administration",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "课程全期共16个月，每月上课一次，每次上课时间为期4天",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-480",
+    "name_cn": "理学硕士（内分泌及糖尿治理）",
+    "name_en": "Master of Science in Endocrinology, Diabetes and Metabolism",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "学院医院的专科医生会与跨专业团队互相合作，教导课程",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-481",
+    "name_cn": "理学硕士（屋宇设备工程学）",
+    "name_en": "Master of Science in Building Services Engineering",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 285,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "专业资格认证",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "综合性硕士学位课程，毕业生为社会提供提供高水平建筑服务",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-482",
+    "name_cn": "文学硕士（艺术与机器创造力）",
+    "name_en": "Master of Arts in Arts and Machine Creativity",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-483",
+    "name_cn": "企业管治及合规审查硕士",
+    "name_en": "Master of Corporate Governance and Compliance",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 240,900",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "培养学生成为擅长有效规划和实施企业政策和战略的领导人",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-484",
+    "name_cn": "文学硕士（全球传播）",
+    "name_en": "Master of Arts in Global Communication",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "扩大学生有关全球化，（新）媒体和人类交流的知识范围",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-485",
+    "name_cn": "中国及区域发展研究硕士",
+    "name_en": "Master of China and Regional Development Studies",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "对于公务员和公共关系等领域发展感兴趣的同学有帮助。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-486",
+    "name_cn": "理学硕士（工程）— 机械工程",
+    "name_en": "Master of Science in Engineering (Mechanical Engineering)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "工程学的核心学科，涉及将科学知识和工程原理应用",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-487",
+    "name_cn": "理学硕士（营运与供应链管理）",
+    "name_en": "Master of Science in Operations and Supply Chain Management",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 315,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "应用现代的分析和管理技能，优化供应链管理的运营和决策",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-488",
+    "name_cn": "教学硕士",
+    "name_en": "Master of Teaching",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 181,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "适合应届毕业生和教师，为将来的学校领导力做好准备",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-489",
+    "name_cn": "理学硕士（商务资讯系统）— 智能系统管理方向",
+    "name_en": "Master of Science in Business Information Systems (Management of Intelligent Systems Stream)",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 315,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "当代信息社会的商业和尖端信息系统必修领域",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-490",
+    "name_cn": "理学硕士（健康分析与管理）",
+    "name_en": "Master of Science in Health Analytics and Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 205,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "整合了医疗保健和运营管理的理论和方法",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-491",
+    "name_cn": "公共行政管理硕士",
+    "name_en": "Master of Public Administration",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 208,560",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "养学生管理人力资源、金融、体育和公共设施的能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-492",
+    "name_cn": "理学硕士（碳中和与绿色金融）",
+    "name_en": "Master of Science in Carbon Neutrality and Green Finance",
+    "university": "香港科技大学",
+    "faculty": "社会枢纽",
+    "tuition": "HK$ 260,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-493",
+    "name_cn": "文学硕士（性别研究）",
+    "name_en": "Master of Arts in Gender Studies",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 189,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "介绍性别研究的基本理论和方法工具，分析相关的前沿问题",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-494",
+    "name_cn": "医学研究硕士",
+    "name_en": "Master of Research in Medicine",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "提供基础医学和临床学科的结构化培训",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-495",
+    "name_cn": "文学硕士（对外汉语教学）",
+    "name_en": "Master of Arts in Teaching Chinese as a Foreign Language",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生在中文教育方面的智力、批判性和想象力",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-496",
+    "name_cn": "文学硕士（英文）— 文学研究",
+    "name_en": "Master of Arts in English (Literary Studies)",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程可提升学生的批判性思维能力，加深对文学各种流派的理解",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-497",
+    "name_cn": "理学硕士（信息管理与商业分析）",
+    "name_en": "Master of Science in Information Management and Business Analytics",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-498",
+    "name_cn": "文学硕士（新媒体和社交媒体）",
+    "name_en": "Master of Arts in New Media and Social Media",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 184,800",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-499",
+    "name_cn": "文学硕士（专业教育心理学）",
+    "name_en": "Master of Arts in Professional Educational Psychology",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "与心理学系提供的临床心理学专业培训课程密切合作",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-500",
+    "name_cn": "理学硕士（网络空间安全）",
+    "name_en": "Master of Science in Cybersecurity",
+    "university": "香港理工大学",
+    "faculty": "计算机及数学科学学院",
+    "tuition": "HK$ 440,200",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-501",
+    "name_cn": "文学硕士（英语作为第二语言教学）",
+    "name_en": "Master of Arts in Teaching English to Speakers of Other Languages",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 234,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "以获得语言教学法的第一手经验，并反思理论与实践的关系",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-502",
+    "name_cn": "理学硕士（体育科技与管理）",
+    "name_en": "Master of Science in Sports Technology and Management",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 272,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "重点在于体育和赛事管理技术的创造与应用",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-503",
+    "name_cn": "文学硕士（中国语言文学）",
+    "name_en": "Master of Arts in the field of Chinese Language and Literature",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 229,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "熟悉中国语言和文学研究的趋势和方法，磨炼研究和演讲技巧",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-504",
+    "name_cn": "文学硕士（幼儿教育）",
+    "name_en": "Master of Arts in Early Childhood Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 158,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "适合已具备幼儿基础理论知识及持幼儿园教师资格的高级文凭学生",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-505",
+    "name_cn": "理学硕士（微电子与量子系统工程）",
+    "name_en": "Master of Science in Microelectronics and Quantum Systems Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "跨学科课程，为学生提供半导体行业的基础理论知识",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-506",
+    "name_cn": "双语工商管理博士",
+    "name_en": "Bilingual Doctor of Business Administration",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-507",
+    "name_cn": "理学硕士（智能制造）",
+    "name_en": "Master of Science in Smart Manufacturing",
+    "university": "香港科技大学",
+    "faculty": "系统枢纽",
+    "tuition": "HK$ 280,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-508",
+    "name_cn": "理学硕士（科学人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence for Science",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 350,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-509",
+    "name_cn": "理学硕士（经济学）",
+    "name_en": "Master of Science in Economics",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 330,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "提供扎实的经济学和分析培训",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-510",
+    "name_cn": "人力资源管理硕士",
+    "name_en": "Master of Human Resources Management",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 285,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "为毕业生提供必要的人力资源知识,技能和能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-511",
+    "name_cn": "文学硕士（全球教育史）",
+    "name_en": "Master of Arts in Global Histories of Education",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 175,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "熟悉过去两个世纪教育的历史发展，从全球实际去了解教育史",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-512",
+    "name_cn": "文学硕士（中文研究）— 语文教育",
+    "name_en": "Master of Arts in Chinese Studies (Language Education)",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "面试考核中文研究三大范畴已有的知识和基础",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-513",
+    "name_cn": "学位教师教育深造文凭（中学）",
+    "name_en": "Postgraduate Diploma in Education (Secondary)",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-514",
+    "name_cn": "法学硕士（国家安全法）",
+    "name_en": "Master of Laws in National Security Law",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "法学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-515",
+    "name_cn": "理学硕士（会计学）",
+    "name_en": "Master of Science in Accounting",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-516",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 605,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "具备毕业后至少2年全职工作经验",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-517",
+    "name_cn": "文学硕士（音乐）",
+    "name_en": "Master of Arts in Music",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 152,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专为音乐教师，艺术管理员，教堂音乐家和高级音乐爱好者设计",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-518",
+    "name_cn": "文学硕士（文化研究）",
+    "name_en": "Master of Arts in Intercultural Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为不同文化碰撞和交融中出现的现象和复杂关系提供跨学科视角",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-519",
+    "name_cn": "文学硕士（英语教学）",
+    "name_en": "Master of Arts in Teaching English to Speakers of Other Languages",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 165,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "论文课程",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "在独立调查和撰写研究成果的背景下应用语言学习和教学理论知识",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-520",
+    "name_cn": "文学硕士（国际汉语教学）",
+    "name_en": "Master of Arts in Teaching Chinese as an International Language",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "体验活动丰富：学术讲座、学校探访等具体的各类学术活动",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-521",
+    "name_cn": "社会科学硕士",
+    "name_en": "Master of Social Sciences",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 120,150",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "涵盖经济学、心理学、政治科学及社会政策等范畴",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-522",
+    "name_cn": "理学硕士（金融技术管理）",
+    "name_en": "Master of Science in Financial Technology Management",
+    "university": "香港树仁大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-523",
+    "name_cn": "理学硕士（环境信息、健康与公共管理）",
+    "name_en": "Master of Science in Environmental Information, Health and Public Management",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 201,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "跨学科的研究生课程,旨在培养学生在环境科学的能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-524",
+    "name_cn": "理学硕士（创业管理）",
+    "name_en": "Master of Science in Entrepreneurial Management",
+    "university": "香港恒生大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "培养学生的创业精神和创新能力，包括商业计划书的编写",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-525",
+    "name_cn": "文学硕士（社会企业与创新管理）",
+    "name_en": "Master of Arts in Social Entrepreneurship and Innovation Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "培养新一代社会创新者和企业家，实现可持续增长",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-526",
+    "name_cn": "理学硕士（国际管理）",
+    "name_en": "Master of Science in International Management",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 390,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "商务专业毕业生的预备研究生管理课程",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-527",
+    "name_cn": "文学硕士（英语研究）",
+    "name_en": "Master of Arts in the field of English Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 263,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "最终完成一篇研究论文、一个创意项目和一篇会议论文",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-528",
+    "name_cn": "文学硕士（应用佛学）",
+    "name_en": "Master of Arts in Applied Buddhist Studies",
+    "university": "香港珠海学院",
+    "faculty": "佛学研究中心",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "中文授课，研习汉传佛学",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-529",
+    "name_cn": "理学硕士（环球供应链管理）",
+    "name_en": "Master of Science in Global Supply Chain Management",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "HK$ 216,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "毕业生将具备管理复杂供应链系统的能力。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-530",
+    "name_cn": "文学硕士（中国艺术史）",
+    "name_en": "Master of Arts in Chinese Art History",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-531",
+    "name_cn": "文学硕士（专业英文）",
+    "name_en": "Master of Arts in English Studies for the Professions",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供对教育和专业背景下英语理论和实践的理解",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-532",
+    "name_cn": "文学硕士（艺术与文化遗产管理）",
+    "name_en": "Master of Arts in Arts and Cultural Heritage Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "有机会与艺术史学家，收藏家和博物馆专业人士互动及探讨学习。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-533",
+    "name_cn": "公共卫生学深造文凭",
+    "name_en": "Postgraduate Diploma in Public Health",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 100,800",
+    "tags": [
+      "26Fall",
+      "Top 50"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "提供全面的公共卫生理论与技能训练",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-534",
+    "name_cn": "理学硕士（材料工程及纳米科技）",
+    "name_en": "Master of Science in Materials Engineering and Nanotechnology",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-535",
+    "name_cn": "精神医学硕士（思觉失调学）",
+    "name_en": "Master of Psychological Medicine (Psychosis Studies)",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 163,380",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "香港唯一在本地提供深入研究精神障碍的授课式研究生课程",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-536",
+    "name_cn": "房屋政策及管理硕士",
+    "name_en": "Master of Housing Policy and Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 190,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "注重使用智能技术和数据分析来提高效率和绩效",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-537",
+    "name_cn": "理学硕士（风险及保险管理）",
+    "name_en": "Master of Science in Risk and Insurance Management",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "针对培养适合保险，银行和其他相关机构的职位的学生",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-538",
+    "name_cn": "理学硕士（信息工程学）",
+    "name_en": "Master of Science in Information Engineering",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 260,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "计算机"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "毕业后有机会在IE教授的监督下担任研究助理",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-539",
+    "name_cn": "理学硕士（教育言语及语言病理学暨学习障碍）",
+    "name_en": "Master of Science in Educational Speech-Language Pathology and Learning Disabilities",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 598,023",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培育新一代言语及语言病理学家（言语治疗师）",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-540",
+    "name_cn": "工程学博士",
+    "name_en": "Engineering Doctorate",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 676,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "申请人应持有与工程学相关的硕士学位",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-541",
+    "name_cn": "理学硕士（电脑科学）",
+    "name_en": "Master of Science in Computer Science",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-542",
+    "name_cn": "医疗化验科学硕士",
+    "name_en": "Master of Medical Laboratory Science",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 696,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "有医学检验科学相关资格后工作经验者优先",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-543",
+    "name_cn": "科技创业硕士",
+    "name_en": "Master of Technology Entrepreneurship",
+    "university": "香港理工大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 499,680",
+    "tags": [
+      "26Spring",
+      "26fall 新项目"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-544",
+    "name_cn": "文学硕士（策略营销传讯）",
+    "name_en": "Master of Arts in Strategic Marketing Communication",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-545",
+    "name_cn": "理学硕士（绿色科技）— 能源",
+    "name_en": "Master of Science in Green Technology (Energy)",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 181,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "从事能源管理和可再生能源技术方面职业",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-546",
+    "name_cn": "理学硕士（计算机科学）",
+    "name_en": "Master of Science in Computer Science",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "课程内容包括人工智能、数据科学、信息安全、多媒体等",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-547",
+    "name_cn": "社会科学硕士（社会工作）",
+    "name_en": "Master of Social Sciences in Social Work",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 349,470",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "为受过本科社工或社会科学及人本服务相关学位课程训练",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-548",
+    "name_cn": "文学硕士（中文）",
+    "name_en": "Master of Arts in Chinese",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "适合有志于学术研究或文化传播的学生。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-549",
+    "name_cn": "理学硕士 （金融科技与数据分析）",
+    "name_en": "Master of Science in Financial Technology and Data Analytics",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "跨学科课程，借鉴工程、商业、法律和统计学，以技术为重点",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-550",
+    "name_cn": "理学硕士（消化疾病）",
+    "name_en": "Master of Science in Gastroenterology",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 173,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "亚洲首个也是唯一的肠胃病学理学硕士项目",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-551",
+    "name_cn": "理学硕士（会计学）",
+    "name_en": "Master of Science in Accountancy",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 351,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生编制和分析跨国组织综合财务报告的能力。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-552",
+    "name_cn": "金融学硕士（企业金融）",
+    "name_en": "Master of Finance (Corporate Finance)",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 385,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提高他们在企业金融、企业风险管理及相关领域的专业水平",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-553",
+    "name_cn": "专业管理硕士（光电工程）【中文授课】",
+    "name_en": "Master of Professional Management in Optical Engineering (in Chinese)",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 437,280",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-554",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accountancy",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 395,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "学生可以在项目全球合作大学进行为期一个学期的海外学习",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-555",
+    "name_cn": "理学硕士（护理学）",
+    "name_en": "Master of Science in Nursing",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为经验丰富的注册护士提供承担高级实践角色必要的知识",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-556",
+    "name_cn": "高级管理人员工商管理硕士",
+    "name_en": "Executive Master of Business Administration",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 880,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/executivemasterofbusinessadministration",
+    "desc": "香港大学商学院高级管理人员工商管理硕士（EMBA）为期两年兼读制，专为具有丰富管理经验的高级管理人员设计。课程要求申请者具有8年及以上的管理工作经验，且担任过高级管理层次职务。项目结合前沿管理理论与实践经验，培养学员的战略思维、领导力和全球视野。课程采用模块化教学方式，每月集中授课4-5天，方便在职高级管理人员平衡工作与学习。学员来自各行各业，提供丰富的跨界交流机会。毕业生可在跨国企业、金融机构、大型国企、上市公司等担任董事、总经理、副总裁等高级管理职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。通常要求至少8年全职工作经验，且目前担任高级管理职务（如部门总监、副总经理、总经理等）。欢迎来自各行各业的高级管理人员申请。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。具有丰富工作经验的高级管理人员可根据个案考虑豁免语言要求。",
+      "standardized": "GMAT/GRE成绩非必需。具有丰富工作经验的高级管理人员可根据个案考虑豁免。",
+      "others": "需要提供两封推荐信（建议来自当前雇主、行业伙伴或商业伙伴）。需提供个人陈述（PS）和简历（CV）。通常需要参加面试。",
+      "timeline": "兼读制课程通常每年9月入学。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期两年兼读制，采用模块化教学。核心课程涵盖：战略领导与管理、全球商业环境、财务管理与决策、营销战略与品牌管理、运营与供应链管理、组织行为与变革管理、公司治理与商业伦理、创新与数字化转型、宏观经济与政策分析、商业谈判与决策等。选修课程包括：家族企业管理、跨境并购、私人银行与财富管理、风险投资与私募股权、亚洲商业战略、国际金融市场、企业社会责任与可持续发展等。学员需完成一个战略管理咨询项目，为真实企业提供高层战略建议。"
+  },
+  {
+    "id": "hk-prog-557",
+    "name_cn": "文学硕士（同声传译）",
+    "name_en": "Master of Arts in Simultaneous Interpreting",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-558",
+    "name_cn": "高级管理人员工商管理硕士【中文授课】",
+    "name_en": "Executive Master of Business Administration (Chinese)",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 1,020,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "中文授课，学制两年，学费共100万港币，每月集中4天上课",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-559",
+    "name_cn": "工商管理硕士（技术与创新）",
+    "name_en": "Master of Business Administration in Technology and Innovation",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 560,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-560",
+    "name_cn": "言语治疗硕士",
+    "name_en": "Master of Speech Therapy",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 618,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该课程将由香港言语治疗师公会认证",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-561",
+    "name_cn": "新闻学硕士（纪录片制作）",
+    "name_en": "Master of Journalism - Documentary Filmmaking Specialisation",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 313,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "涵盖所有形式的纪录片制作，确保学生能应用技术传达主题",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-562",
+    "name_cn": "法学专业证书",
+    "name_en": "Postgraduate Certificate in Laws (PCLL)",
+    "university": "香港城市大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 243,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "专业资格认证",
+      "法学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/slw/prospective-students/postgraduate-programmes/postgraduate-certificate-in-laws-pcll",
+    "desc": "香港城市大学法学专业证书（PCLL）是在香港取得法律执业资格的必要门槛，由城大法律学院开办。课程为期一年全日制，共30个学分（核心课程24学分，选修课程6学分），旨在为学生提供全面的实践法律技能培训，使他们能够胜任大律师或事务律师的职业要求。课程采用小班授课模式，导师均为现正或曾经在香港执业的事务律师和大律师，学生来自香港、英国、澳洲及内地等地，国际化程度高。完成课程后，学生可申请成为香港执业事务律师（需完成2年培训合同）或大律师（需完成1年实习）。",
+    "requirements": {
+      "background": "须取得普通法法域内认可院校之法律学位，包括：法学学士（LLB）、法律博士（JD）、法律行政人员高级文凭（AdvDip for LE）、法律研究生文凭（GDL）或同等学历。",
+      "language": "课程以英语授课。具体语言要求未在官网明确公布，建议直接联系法律学院招生办公室确认（lwpcll@cityu.edu.hk）。",
+      "standardized": "无需提交GMAT/GRE成绩。",
+      "others": "仅接受在线申请。课程资讯讲座将于2026年1月29日、2月26日及4月16日下午5时举行。课程提供就业支援服务，包括求职技巧讲座、履历撰写工作坊、律师事务所招聘讲座等，并定期邀请资深执业律师担任客席演讲嘉宾分享实务经验。",
+      "timeline": "现正接受2026-2027学年申请；2026年4月30日：申请截止；2026年9月：入学。"
+    },
+    "curriculum": "课程共30个学分，分为核心课程（24学分）和选修课程（6学分）。核心课程涵盖：商业实务、民事诉讼实务、刑事诉讼实务、调解技巧等。选修课程方面，城大新增'Law and Technology（法律与科技）'选修科目，因应人工智能对法律行业的影响。课程注重实践技能培养，学生将参与模拟法律交易，提升批判性思维和独立研究能力。"
+  },
+  {
+    "id": "hk-prog-563",
+    "name_cn": "适应性体育深造文凭",
+    "name_en": "Postgraduate Diploma in Adaptive Sports",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 117,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-564",
+    "name_cn": "公共卫生硕士",
+    "name_en": "Master of Public Health",
+    "university": "香港城市大学",
+    "faculty": "赛马会动物医学及生命科学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "制定预防和控制人类和动物疾病的政策，改善公共卫生",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-565",
+    "name_cn": "文学硕士（社会政策及社会发展）",
+    "name_en": "Master of Arts in Social Policy and Social Development",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 252,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "将理论与实践结合起来，使学生能够以符合道德应对挑战",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-566",
+    "name_cn": "理学硕士（经济学）",
+    "name_en": "Master of Science in Economics",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 363,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-567",
+    "name_cn": "理学硕士（国际航运及物流管理）— 香港航运物流奖学金计划",
+    "name_en": "Master of Science in International Shipping and Transport Logistics (ISS)",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "有奖学金",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涵盖物流、经济、金融、管理、法律等众多主题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-568",
+    "name_cn": "理学硕士（人工智能与数码媒体）",
+    "name_en": "Master of Science in AI and Digital Media",
+    "university": "香港浸会大学",
+    "faculty": "传理学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "全港首个注重于大数据分析和人工智能在传媒领域的应用",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-569",
+    "name_cn": "理学硕士（环境、社会和公司治理管理）— 可持续发展科技",
+    "name_en": "Master of Science in Environmental, Social, and Governance Management (Sustainable Technology)",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "以可持续发展为战略重心,立足基础工程科学",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-570",
+    "name_cn": "工商管理硕士【中文授课】",
+    "name_en": "Master of Business Administration (in Chinese)",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-571",
+    "name_cn": "文学硕士（汉语作为第二语言教学）",
+    "name_en": "Master of Arts in Teaching Chinese as a Second Language",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "培养学员成为汉语作为第二语言教学学科专才",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-572",
+    "name_cn": "理学硕士（机械工程学）",
+    "name_en": "Master of Science in Mechanical Engineering",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 216,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "回大陆工作的机会更多，且涉及新能源等新兴产业",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-573",
+    "name_cn": "社会科学硕士（组织心理学与教育管理）",
+    "name_en": "Master of Social Sciences in Organisational Psychology and Education Management",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "教育学生引导团队解决问题，打破员工之间的障碍的能力",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-574",
+    "name_cn": "文学硕士（戏剧研究）",
+    "name_en": "Master of Arts in Theatre Studies",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "适合有志于从事戏剧研究或表演艺术的学生",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-575",
+    "name_cn": "理学硕士（消防及安全工程学）",
+    "name_en": "Master of Science in Fire and Safety Engineering",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 229,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "专业资格认证",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提高学生在消防和安全工程方面的专业知识和技能",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-576",
+    "name_cn": "理学硕士（建筑及房地产学）",
+    "name_en": "Master of Science in Construction and Real Estate",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 279,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "拓宽并增强学生在建筑及房地产学方面的知识",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-577",
+    "name_cn": "社会科学硕士（公共政策）",
+    "name_en": "Master of Social Science in Public Policy",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "全面系统的理解国际及中国的公共政策领域相关知识",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-578",
+    "name_cn": "公共管理硕士",
+    "name_en": "Master of Public Management",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "HK$ 190,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "培养学生具备分析、管理、政治敏锐性等方面的能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-579",
+    "name_cn": "生物医学创新硕士",
+    "name_en": "Master of Biomedical Innovation",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 303,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-580",
+    "name_cn": "园境硕士",
+    "name_en": "Master of Landscape Architecture",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "两年全日制课程， 项目获香港景观设计师学会认可",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-581",
+    "name_cn": "理学硕士（商业分析）",
+    "name_en": "Master of Science in Business Analytics",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 426,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://msc.hkubs.hku.hk/articles/masterofscienceinbusinessanalytics",
+    "desc": "香港大学商学院商业分析理学硕士（MScBA）为期一年全日制，旨在帮助学生发展商业分析相关的硬技能和软技能。课程涵盖大数据、人工智能、机器学习、深度学习、社交媒体分析、网络分析等前沿技术，培养学生在理解数据、将数据转化为信息、将信息转化为可执行操作方面的能力。毕业生可在咨询、金融、科技、零售、物流、医疗健康等行业从事数据分析师、商业智能分析师、数据科学家等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。强烈建议具备强量化背景，包括但不限于：数学、统计学、计算机科学、工程、物理、经济学、金融等。需展示良好的编程能力（如Python、R、SQL等）和数学基础。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。有相关实习或工作经验者优先考虑。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，分为核心课程和选修课程。核心课程涵盖：商业智能与分析、大数据分析、预测分析、统计学习与数据挖掘、运营分析、营销分析、财务分析、商业分析顶点项目（Capstone Project）等。选修课程包括：人工智能与深度学习、自然语言处理、社交网络分析、区块链与加密货币、供应链与物流分析、医疗保健分析、金融科技分析等。学生需完成10门课程（60学分），包括一个与真实企业合作的顶点项目，将所学技术应用于实际商业问题。"
+  },
+  {
+    "id": "hk-prog-582",
+    "name_cn": "理学硕士（国际银行与金融）",
+    "name_en": "Master of Science in International Banking and Finance",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 270,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "学生有机会获得海外实习或者游学的机会",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-583",
+    "name_cn": "专业管理硕士（环球商业及市场学）",
+    "name_en": "Master of Professional Management in Global Business and Marketing",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 305,700",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "加强学校分析和沟通技能，在国际商业环境利用该能力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-584",
+    "name_cn": "社会科学硕士（社会数据分析）",
+    "name_en": "Master of Social Sciences in the field of Social Data Analytics",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 262,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "提供业界和博士课程都非常需要的技能",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-585",
+    "name_cn": "理学硕士（资产和财富管理）",
+    "name_en": "Master of Science in Asset and Wealth Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 495,000",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-586",
+    "name_cn": "文学硕士（数字营销与电子商务）",
+    "name_en": "Master of Arts in Digital Marketing and E-Commerce",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 184,800",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-587",
+    "name_cn": "文学硕士（香港文化研究）",
+    "name_en": "Master of Arts in the field of Hong Kong Cultural Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 222,000",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-588",
+    "name_cn": "理学硕士（人力资源及组织管理学）— 人力资源分析与数字化转型",
+    "name_en": "Master of Science in Human Resource and Organisational Management (Human Resource Analytics and Digital Transformation)",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "25Fall新增方向，加入了数据分析模型课程",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-589",
+    "name_cn": "理学硕士（环境管理及工程学）",
+    "name_en": "Master of Science in Environmental Management and Engineering",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 223,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "适合持有非环境类学士学位的环保行业在职人士",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-590",
+    "name_cn": "理学硕士（电机与电子工程学）",
+    "name_en": "Master of Science in Electrical and Electronic Engineering",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 387,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "为希望升级和更新该领域知识的执业工程师而设计",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-591",
+    "name_cn": "护理学硕士（全面纾缓照护）",
+    "name_en": "Master of Nursing (with specialisation in Extensive End-of-Life Care)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 137,250",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-592",
+    "name_cn": "文学硕士（体验式学习活动领导）",
+    "name_en": "Master of Arts in Leading Experiential Learning Activities",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 158,520",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "与经验丰富的教育同工和专业人士建立强大的专业网络",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-593",
+    "name_cn": "理学硕士（资讯科技管理）",
+    "name_en": "Master of Science in Information Technology Management",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "整合了IT技术和管理方面的变革经验和相关知识",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-594",
+    "name_cn": "文学硕士（全球社会研究）",
+    "name_en": "Master of Arts in Global Society",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 208,560",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "学习全球研究和全球社会的关键概念、辩论和观点",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-595",
+    "name_cn": "理学硕士（生物医学工程）",
+    "name_en": "Master of Science in Biomedical Engineering",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "将工程原理、技术和设计概念用于医疗保健目的",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-596",
+    "name_cn": "理学硕士（人道主义科技及包容性商业）",
+    "name_en": "Master of Science in Humanitarian Technology and Inclusive Business",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "培养世界商业板块人道主义的科技技术和服务的同学",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-597",
+    "name_cn": "牙医硕士（口腔颌面外科学）",
+    "name_en": "Master of Dental Surgery in Oral and Maxillofacial Surgery",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "至少 2 年的全科医学临床经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-598",
+    "name_cn": "城市与治理硕士（环境与可持续发展）",
+    "name_en": "Master of Cities and Governance (Environment and Sustainability)",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "以可持续发展目标为中心，以应对可持续发展和环境管理的挑战",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-599",
+    "name_cn": "教育博士",
+    "name_en": "Doctor of Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 352,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "学制3年，每年学费11万港币。中国内地申请者只适合全日制",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-600",
+    "name_cn": "理学硕士（应用经济学）",
+    "name_en": "Master of Science in Applied Economics",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 295,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "强调应用经济分析，利用经济模型分析全球的经济现象",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-601",
+    "name_cn": "理学硕士（房地产）",
+    "name_en": "Master of Science in Real Estate",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 280,080",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "从商业和经济的角度研究房地产",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-602",
+    "name_cn": "专业管理硕士（全球体育产业）【中文授课】",
+    "name_en": "Master of Professional Management in Global Sports Business (in Chinese)",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "HK$ 437,280",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-603",
+    "name_cn": "社会科学硕士（社会学）",
+    "name_en": "Master of Social Sciences in the field of Sociology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "提供前沿的社会学理论和方法的训练，培养研究和分析技能人才",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-604",
+    "name_cn": "理学硕士（骨关节医学、康复及老年骨科）",
+    "name_en": "Master of Science in Musculoskeletal Medicine, Rehabilitation and Geriatric Orthopaedics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 196,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程的主要发展策略及香港特区政府医疗保健拓展项目相关",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-605",
+    "name_cn": "牙医硕士（儿童齿科）",
+    "name_en": "Master of Dental Surgery in Paediatric Dentistry",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "申请人毕业后至少 有1 年的工作经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-606",
+    "name_cn": "社会科学硕士（广告）",
+    "name_en": "Master of Social Science in Advertising",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专注于广告与社会互动的高级研究生课程",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-607",
+    "name_cn": "理学硕士（中风及临床神经科学）",
+    "name_en": "Master of Science in Stroke and Clinical Neurosciences",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 171,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "以神经疾病的临床和基础研究为教授重点",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-608",
+    "name_cn": "文学硕士（教育辅导）",
+    "name_en": "Master of Arts in Educational Counselling",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 179,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "帮助学生获专业咨询协会会员资格，最终获认证辅导员资质",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-609",
+    "name_cn": "质量管理学博士",
+    "name_en": "Doctor of Quality Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 758,550",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-610",
+    "name_cn": "理学硕士（机械与自动化工程）",
+    "name_en": "Master of Science in Mechanical and Automation Engineering",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 225,648",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "机械和自动化工程师职业相关的最新技术和工具的知识",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-611",
+    "name_cn": "理学硕士（人工智能与机器人）",
+    "name_en": "Master of Science in Artificial Intelligence and Robotics",
+    "university": "香港中文大学",
+    "faculty": "数据科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-612",
+    "name_cn": "理学硕士（教育神经科学）",
+    "name_en": "Master of Science in Educational Neuroscience",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 194,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "弥合神经科学与教育之间的差距",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-613",
+    "name_cn": "教育学深造文凭",
+    "name_en": "Postgraduate Diploma in Education",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 224,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "面向有意加入教育行业但尚未接受过师资培训并已获得学士学位的人士",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-614",
+    "name_cn": "文学硕士（全球高等教育）",
+    "name_en": "Master of Arts in Global Higher Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培养高等教育专业人员在学院和大学中的领导及创新能力",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-615",
+    "name_cn": "法学硕士（国际经济法）",
+    "name_en": "Master of Laws in International Economic Law",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "项目将经济和法律全球化与中国及东亚的跨国商业环境相结合",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-616",
+    "name_cn": "理学硕士（艺术科技与商业）",
+    "name_en": "Master of Science in Arts Technology and Business",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "培养下一代艺术管理者和艺术商业领袖",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-617",
+    "name_cn": "理学硕士（金融学）",
+    "name_en": "Master of Science in Finance",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-618",
+    "name_cn": "流行病学与生物统计学深造文凭",
+    "name_en": "Postgraduate Diploma in Epidemiology and Biostatistics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 113,400",
+    "tags": [
+      "26Fall",
+      "Top 50"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "需要两封推荐信，博士的话需要三封",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-619",
+    "name_cn": "社会科学硕士（心理学）",
+    "name_en": "Master of Social Sciences in the field of Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 209,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "毕业生可申请香港心理学会和英国心理学会的研究生会员",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-620",
+    "name_cn": "会计分析硕士",
+    "name_en": "Master of Accounting Analytics",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 426,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofaccountinganalytics",
+    "desc": "香港大学商学院会计分析硕士（MAA）为期一年全日制，旨在培养学生在会计行业中应对日益增长的市场需求的专业工具使用能力。课程聚焦于会计数据分析、财务数据挖掘、审计自动化、预测性分析等前沿领域，培养学生运用数据分析技术解决会计和财务问题的能力。毕业生可在会计师事务所、企业财务部门、金融机构、咨询公司等从事会计分析、财务数据分析、审计科技（Audit Tech）、合规分析等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自会计、金融、经济、商业管理、计算机科学、数据科学、工程等相关背景的学生申请。具备量化背景和编程能力（如Python、R、SQL等）者优先考虑。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。持有CFA二级或以上、ACCA、CPA、CGA、FRM、PRM等专业资格者可申请最多2门必修课程豁免。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，结合会计学与数据分析的核心知识。核心课程涵盖：会计数据分析基础、财务数据挖掘与可视化、审计自动化与分析、管理会计中的预测分析、会计信息系统、财务报表分析、税务分析、公司治理与合规数据分析等。选修课程包括：机器学习在会计中的应用、自然语言处理与财务文本分析、区块链与会计科技、商业智能与数据仓库、高级统计建模、风险管理数据分析等。学生需完成一个会计分析顶点项目，运用数据分析技术解决实际会计问题。"
+  },
+  {
+    "id": "hk-prog-621",
+    "name_cn": "理学硕士（健康与材料化学技术）",
+    "name_en": "Master of Science in the field of Chemical Technologies for Health and Materials",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 273,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "提供广泛实践经验，包括实验室和基于项目的实践课程",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-622",
+    "name_cn": "文学硕士（中文）",
+    "name_en": "Master of Arts in Chinese",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "学会拥有独立研究中国文学的相关知识及研究方法",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-623",
+    "name_cn": "会计学硕士",
+    "name_en": "Master of Accounting",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 426,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://masters.hkubs.hku.hk/articles/masterofaccounting",
+    "desc": "香港大学商学院会计学硕士（MAcc）为期一年全日制，提供三个专修方向：会计分析与大数据（Accounting Analytics and Big Data）、财务报告与估值（Financial Reporting and Valuation）、ESG与战略管理（ESG and Strategic Management）。学生可选择双专修方向。课程获ACCA、CPA Australia、CIMA及HKICPA四大专业会计机构认证，毕业生可获得相应科目豁免。项目与ACCA及毕马威（KPMG）建立专业合作关系，旨在培养专业会计师、财务专家和未来商业领袖。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自会计、金融、经济、商业管理等相关背景的学生申请，也接受非商科背景但具备良好学术成绩和量化能力的申请者。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。持有CFA二级或以上、ACCA、CPA、CGA、FRM、PRM等专业资格者可申请最多2门必修课程豁免。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，共需完成12门课程。核心课程涵盖：管理会计与战略控制、财务会计与报告、税务与商业策略、法律与商业环境、审计与公司治理、企业估值与财务分析等。三个专修方向的选修课程包括：会计分析与大数据方向（数据分析、预测建模、商业智能等）、财务报告与估值方向（高级财务报告、合并报表、国际会计准则等）、ESG与战略管理方向（可持续发展会计、ESG报告、企业社会责任与战略等）。课程还包括一个顶点项目，学生需完成综合性会计案例分析。"
+  },
+  {
+    "id": "hk-prog-624",
+    "name_cn": "高级管理人员工商管理硕士与公共行政管理硕士双学位",
+    "name_en": "Dual Degree of Executive Master of Business Administration and Master of Public Administration",
+    "university": "香港城市大学",
+    "faculty": "公共管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "中文授课",
+      "双学位",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "与清华大学合作，使学生能够同时攻读公共行政硕士(MPA)学位",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-625",
+    "name_cn": "分子及诊断病理学硕士",
+    "name_en": "Master of Molecular and Diagnostic Pathology",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "为专业人员提供对疾病的分子和遗传基础的更深入理解",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-626",
+    "name_cn": "文学硕士（可持续时装及创新）",
+    "name_en": "Master of Arts in Sustainable Fashion and Innovation",
+    "university": "香港理工大学",
+    "faculty": "时装及纺织学院",
+    "tuition": "HK$ 235,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "利用最新的技术和管理工具改造时装、纺织品和创意组织",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-627",
+    "name_cn": "应用语言科学博士",
+    "name_en": "Doctor of Applied Language Sciences",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 392,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "课程包括面授课程和撰写论文，需要为论文进行口头答辩",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-628",
+    "name_cn": "理学硕士（智能建筑及建筑信息建模）",
+    "name_en": "Master of Science in Intelligent Construction and Building Information Modelling",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "HK$ 146,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "提供工程项目管理中智能建筑的全面理论背景知识",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-629",
+    "name_cn": "理学硕士（环境、社会、管治与可持续发展）",
+    "name_en": "Master of Science in Environmental, Social and Governance for Sustainable Development",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-630",
+    "name_cn": "理学硕士（航空管理）",
+    "name_en": "Master of Science in Aviation Management",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-631",
+    "name_cn": "理学硕士（高级管理专业人员人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence for Executive Professionals",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-632",
+    "name_cn": "文学硕士（中国语言文学与教学）",
+    "name_en": "Master of Arts in Chinese Language, Literature and Teaching",
+    "university": "香港树仁大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-633",
+    "name_cn": "国际关系学硕士",
+    "name_en": "Master of International and Public Affairs",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 275,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "多学科的国际关系课程，特别关注亚太地区",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-634",
+    "name_cn": "感染及传染病学深造文凭",
+    "name_en": "Postgraduate Diploma in Infectious Diseases",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 29,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "专业资格认证"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "基础广泛的培训计划",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-635",
+    "name_cn": "理学硕士（商业人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence in Business",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 378,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-636",
+    "name_cn": "文学硕士（中国文学、语言及文化）",
+    "name_en": "Master of Arts in Chinese Literature, Language and Culture",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提高学生的汉语技能和文化素养",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-637",
+    "name_cn": "文学硕士（跨文化传意及翻译）",
+    "name_en": "Master of Arts in Intercultural Communication and Translation",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 162,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-638",
+    "name_cn": "理学硕士（建筑文物保护）— 修缮设计方向",
+    "name_en": "Master of Science in Conservation (Design for Conservation Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 248,800",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-639",
+    "name_cn": "社会科学硕士（临床心理学）",
+    "name_en": "Master of Social Science in Clinical Psychology",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 356,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "中文授课",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "由心理学系与精神病学系联合提供",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-640",
+    "name_cn": "理学硕士（教育政策与管理）",
+    "name_en": "Master of Science in Education Policy and Management",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 158,400",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-641",
+    "name_cn": "理学硕士（数据建模）",
+    "name_en": "Master of Science in Data-Driven Modeling",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 260,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "课程由物理系和数学系共同提供",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-642",
+    "name_cn": "理学硕士（风险管理科学及数据分析）",
+    "name_en": "Master of Science in Risk Management Science and Data Analytics",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "将数学、统计、精算和工程等跨学科知识纳入风险管理",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-643",
+    "name_cn": "理学硕士（机械工程学）",
+    "name_en": "Master of Science in Mechanical Engineering",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 243,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "工程"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "运用专业知识解决对未来工业和商业发展至关重要的问题",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-644",
+    "name_cn": "理学硕士（家庭办公室管理）",
+    "name_en": "Master of Science in Family Office Management",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 400,000",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-645",
+    "name_cn": "文学硕士（应用社会科学）",
+    "name_en": "Master of Arts in Applied Social Sciences",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养具有理论和实践知识的社会科学从业人员",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-646",
+    "name_cn": "理学硕士（商业管理）",
+    "name_en": "Master of Science in Business Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 363,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "数据科学和财务管理中的人工智能分析",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-647",
+    "name_cn": "理学硕士（市场营销学）",
+    "name_en": "Master of Science in Marketing",
+    "university": "香港大学",
+    "faculty": "港大经管学院",
+    "tuition": "HK$ 398,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://msc.hkubs.hku.hk/articles/masterofscienceinmarketing",
+    "desc": "香港大学商学院市场营销理学硕士（MScMktg）为期一年全日制，旨在培养学生在市场营销领域的战略思维和实践能力。课程学习全球顶级公司和本地公司的最佳实践，结合理论学习与实际案例，涵盖品牌战略、数字营销、消费者行为分析、市场调研等核心领域。学生有机会参与企业实习项目（Internship Track），与行业领先企业合作，获得实际工作经验。毕业生可在快消品、科技、咨询、广告、零售等行业从事市场营销、品牌管理、产品管理、数字营销等职位。",
+    "requirements": {
+      "background": "须持有认可大学的学士学位或同等学历。欢迎来自市场营销、商业管理、传媒、心理学、社会科学等相关背景的学生申请，也接受其他学科背景但需展示对市场营销领域的兴趣和潜力。",
+      "language": "托福总分不低于80分，或雅思总分不低于6.0分（单项不低于5.5分）。语言成绩须在入学当年9月1日前两年内取得。",
+      "standardized": "GMAT/GRE成绩非必需，但良好的成绩将被优先考虑。",
+      "others": "需要提供两封推荐信，其中至少一封必须是学术推荐信。推荐人需提供大学官网上的官方个人简介或目录链接。需提供个人陈述（PS）和简历（CV）。选择实习方向的学生需通过实习面试。",
+      "timeline": "采用滚动录取（Rolling Basis），建议尽早申请。2026年秋季入学申请已截止，2027年秋季入学申请预计于2026年9月开放。"
+    },
+    "curriculum": "课程为期一年全日制，分为核心课程和选修课程，提供两个方向选择：战略营销方向（Strategic Marketing Track）和实习方向（Internship Track）。核心课程涵盖：市场营销管理、消费者行为学、市场调研、数字营销策略、品牌管理与战略、服务营销、营销分析等。选修课程包括：社交媒体营销、内容营销、消费者心理学、国际营销、奢侈品营销、体育营销、营销中的大数据应用等。实习方向的学生将在第二学期参与企业实习项目，与知名企业合作完成实际营销项目。"
+  },
+  {
+    "id": "hk-prog-648",
+    "name_cn": "文学硕士（国际语言教育）",
+    "name_en": "Master of Arts in International Language Education",
+    "university": "香港科技大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 135,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "提供高级英语授课的研究生教育",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-649",
+    "name_cn": "理学硕士（微电子技术及材料）",
+    "name_en": "Master of Science in Microelectronics Technology and Materials",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 235,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为学生提供以就业为导向的教育课程",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-650",
+    "name_cn": "社会科学硕士（心理学）",
+    "name_en": "Master of Social Sciences in Psychology",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 258,930",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-651",
+    "name_cn": "理学硕士（环境、社会和公司治理管理）",
+    "name_en": "Master of Science in Environmental, Social, and Governance Management",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "围绕ESG的环境评估因素开阵课程设置",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-652",
+    "name_cn": "文学硕士（创意产业与文化资产）",
+    "name_en": "Master of Arts in Creative Industries and Cultural Assets",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 119,955",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "透过跨学科角度丰富学员对行业的综合理解",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-653",
+    "name_cn": "理学硕士（数码化转型及科技创新）",
+    "name_en": "Master of Science in Digital Transformation and Technological Innovation",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 288,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "关注数字化转型和技术创新带来的战略优势及其潜力",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-654",
+    "name_cn": "社会工作博士",
+    "name_en": "Doctor of Social Work",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 408,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "论文课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "毕业后为福利管理者和社会工作教育者提供一流的教育",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-655",
+    "name_cn": "文学硕士（新兴科技赋能的未来人力）",
+    "name_en": "Master of Arts in Emerging Technology for Future Workforce",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 184,800",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-656",
+    "name_cn": "理学硕士（信息与网络安全管理）",
+    "name_en": "Master of Science in Information and Cyber Security Management",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 400,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-657",
+    "name_cn": "理学硕士（资讯科学与管理）",
+    "name_en": "Master of Science in Information Science and Technology Management",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "计算机"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "作为商学院与工程学院的跨学科项目，融合了两大专业的优势",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-658",
+    "name_cn": "理学硕士（职业及组织心理学）",
+    "name_en": "Master of Science in Work and Organisational Psychology",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 178,000",
+    "tags": [
+      "26Spring",
+      "有奖学金",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "帮助学生在数据驱动的现代管理世界中突围",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-659",
+    "name_cn": "高级管理人员理学硕士（供应链与物流管理）",
+    "name_en": "Executive Master of Science in Supply Chain and Logistics Management",
+    "university": "香港中文大学",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-660",
+    "name_cn": "商业管理博士",
+    "name_en": "Doctor of Business Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 1,203,600",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-661",
+    "name_cn": "职业治疗学硕士",
+    "name_en": "Master of Occupational Therapy",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 650,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-662",
+    "name_cn": "理学硕士（金融学）",
+    "name_en": "Master of Science in Finance",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 351,000",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "财务管理方面的高级知识，包括融资和投资策略以及风险管理",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-663",
+    "name_cn": "理学硕士（应用地质科学）",
+    "name_en": "Master of Science in the field of Applied Geosciences",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "可选某一领域深入学习：工程地理学、工程地理学",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-664",
+    "name_cn": "理学硕士（人工智能与科学）",
+    "name_en": "Master of Science in Artificial Intelligence for Sciences",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-665",
+    "name_cn": "理学硕士（生物医学工程）",
+    "name_en": "Master of Science in Biomedical Engineering",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "生物医学工程师利用工程技术和生物学知识开发系统",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-666",
+    "name_cn": "理学硕士（数据分析及商业经济学）",
+    "name_en": "Master of Science in Data Analytics and Business Economics",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 318,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "培养具备商业经济分析和数据处理能力的专业人才",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-667",
+    "name_cn": "理学硕士（建设资产数字管理）",
+    "name_en": "Master of Science in Digital Management of Built Assets",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 280,080",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "为在智能建筑环境领域工作的专业人士提供",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-668",
+    "name_cn": "理学硕士（材料工程）",
+    "name_en": "Master of Science in Materials Engineering",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-669",
+    "name_cn": "文学硕士（翻译研究）",
+    "name_en": "Master of Arts in Translation Studies",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 158,620",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "全港唯一专设中译英方向的硕士课程，提供小班教学模式",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-670",
+    "name_cn": "文学硕士（新闻学）",
+    "name_en": "Master of Arts in Journalism",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为不同背景人士提供专业的学术新闻训练",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-671",
+    "name_cn": "理学硕士（人工智能驱动创新）",
+    "name_en": "Master of Science in AI-Driven Innovation",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-672",
+    "name_cn": "理学硕士（项目管理）",
+    "name_en": "Master of Science in Project Management",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 279,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为建筑学从业人士提供提升个人技能的机会",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-673",
+    "name_cn": "社会科学硕士（辅导学）",
+    "name_en": "Master of Social Sciences in Counselling",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 203,280",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "培养学生理解、分析和研究人们的需求及其形成的社会文化",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-674",
+    "name_cn": "理学硕士（国际管理与领导力）",
+    "name_en": "Master of Science in International Management and Leadership",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 363,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-675",
+    "name_cn": "理学硕士（院前及急救护理）",
+    "name_en": "Master of Science in Prehospital and Emergency Care",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 188,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "毕业生可向香港护士管理局（NCHK）注册为注册护士（普通）",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-676",
+    "name_cn": "艺术硕士（计算艺术）",
+    "name_en": "Master of Fine Arts in Computational Arts",
+    "university": "香港科技大学",
+    "faculty": "信息枢纽",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-677",
+    "name_cn": "教育硕士",
+    "name_en": "Master of Education",
+    "university": "香港教育大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 181,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培养学生在教育专业实践中利用研究/实证方法的技能",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-678",
+    "name_cn": "教育硕士（教育科技与创新教育）",
+    "name_en": "Master of Education in Educational Technology and Innovation",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 147,300",
+    "tags": [
+      "26Fall",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-679",
+    "name_cn": "文学硕士（中国文化）",
+    "name_en": "Master of Arts in Chinese Culture",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 207,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "让学生系统地学习中国文化知识，还能培养跨学科研究能力",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-680",
+    "name_cn": "理学硕士（学习科学与智慧教育）",
+    "name_en": "Master of Science in Learning Sciences and Smart Education",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 189,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-681",
+    "name_cn": "社会科学硕士（辅导学）",
+    "name_en": "Master of Social Sciences in Counselling",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "提供专业咨询师教育，为学校、医疗保健等机构服务",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-682",
+    "name_cn": "文学硕士（音乐研究）",
+    "name_en": "Master of Arts in the field of Music Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "发展高级音乐研究的分析、批判和创造性技能",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-683",
+    "name_cn": "理学硕士（图书馆及资讯管理）",
+    "name_en": "Master of Science in Library and Information Management",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 234,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "计算机"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "课程获得英国特许图书馆和信息专业人员协会专业认证",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-684",
+    "name_cn": "理学硕士（碳中和城市及可持续性）",
+    "name_en": "Master of Science in Carbon Neutral Cities and Urban Sustainability",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 328,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生制定和实施最新科学和管理概念和工具的能力",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-685",
+    "name_cn": "理学硕士（全面纾缓照护）",
+    "name_en": "Master of Science in Extensive End-of-Life Care",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "在过程中对老人及其家人灌输希望",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-686",
+    "name_cn": "社会科学硕士（智慧、韧性及可持续城市）",
+    "name_en": "Master of Social Sciences in Smart, Resilient and Sustainable Cities",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 231,000",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-687",
+    "name_cn": "理学硕士（医务化验科学）",
+    "name_en": "Master of Science in Medical Laboratory Sciences",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 149,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "提供生物医学方面顶尖技术与前沿研究方法的全面训练",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-688",
+    "name_cn": "法学专业证书",
+    "name_en": "Postgraduate Certificate in Laws (PCLL)",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 214,000（UGC资助名额，非本地学生）；HK$ 242,000（自费名额）；HK$ 47,000（UGC资助名额，本地学生）",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.law.cuhk.edu.hk/app/study-with-us/pcll/",
+    "desc": "香港中文大学法学专业证书（PCLL）是一个独特且创新的研究生证书课程，提供以技能为重点的培训，紧密反映律师的实际工作内容。课程由法律学院与法律界密切协商开发，以满足当前市场需求。课程为期一年全日制，共30学分，上课地点位于中环美国银行大厦2楼的CUHK Graduate Law Centre。完成课程后，学生可申请成为香港执业事务律师（需完成2年培训合同）或大律师（需完成1年实习）。CUHK PCLL不设面试，也不接受推荐信，录取完全基于学术成绩。",
+    "requirements": {
+      "background": "必须符合法律教育及培训常务委员会（Standing Committee on Legal Education and Training）规定的PCLL入学资格要求。申请者须持有普通法学位（通常为法学学士LLB或法律博士JD），也可接受普通专业考试（CPE）、法律研究生文凭（GDL）、法律行政人员高级文凭（Graduate Level）（HKU SPACE）等同等学历。学术成绩优异者优先录取。持有法律资格且拥有不少于两年连续全职法律相关工作经验（不包括实习和短期实习）的候选人可能获得有限名额，必须提供支持文件证明工作经验。第二法律学位仅作参考，主要看重第一法律学位。",
+      "language": "必须持有有效的雅思（IELTS）学术类证书，总分要求7.0或以上（单次考试）。考试必须在授权的雅思考试中心参加，不接受在线雅思考试。雅思成绩不得早于申请截止日期前三年。雅思成绩提交截止日期为2026年8月7日。",
+      "standardized": "无需提交GMAT/GRE成绩。",
+      "others": "仅接受在线申请。不接受推荐信，不进行面试。是否有培训合同或实习大律师职位不影响申请。如申请全部三家PCLL提供机构（HKU、CUHK、CityU），需分别提交申请，但只能选一家作为第一志愿。如将多家列为第一志愿，将被所有机构取消资格。本校学生无优先录取权，所有申请者一视同仁。学习期间不得全职工作（根据研究生学习一般规定）。不接受延期申请（除极特殊情况外）。",
+      "timeline": "2026年4月30日：申请截止；2026年8月7日：雅思成绩提交截止日期；2026年8月中/下旬：候补名单决定；2026年9月：入学。越早申请越好，学术成绩优异者可能获得提前录取。逾期申请或不完整的申请将不被考虑，但可申请条件录取（如尚未完成学位或雅思成绩未出）。"
+    },
+    "curriculum": "课程采用大班和小班结合、高度参与式教学模式，学生定期获得个人反馈。课程分为两个阶段：第一阶段为5门必修核心课程（15学分），包括：LAWS5001 专业实务（3学分）、LAWS5002 商业实务（3学分）、LAWS5003 财产与遗嘱认证实务（3学分）、LAWS5004 民事诉讼实务（3学分）、LAWS5005 刑事诉讼实务（3学分）。第二阶段须选修5门课程（15学分），选修科目包括：诉讼文书写作与起草、借贷与金融、公司融资、诉讼文书写作与起草（中文）、中国法律实务、商业文书写作与起草（中文）、替代性争议解决、商业文书写作与起草、会议技巧与法律意见书撰写、人身伤害实务、家庭法律实务、法律实务与科技、庭审辩护（暑期集中授课）等。意向成为大律师的学生必须修读LAWS5020（庭审辩护）以及4门大律师选修课中的至少2门。"
+  },
+  {
+    "id": "hk-prog-689",
+    "name_cn": "理学硕士（运动医学及健康科学）",
+    "name_en": "Master of Science in Sports Medicine and Health Science",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "培养学生成为优秀运动医学专家的能力",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-690",
+    "name_cn": "文学硕士（咨商与辅导）",
+    "name_en": "Master of Arts in Guidance and Counselling",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "融合了在培训咨商与辅导从业人员中的微观和宏观视角",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-691",
+    "name_cn": "人工智能博士",
+    "name_en": "Doctor of Artificial Intelligence",
+    "university": "香港理工大学",
+    "faculty": "计算机及数学科学学院",
+    "tuition": "HK$ 912,000",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-692",
+    "name_cn": "文学硕士（应用文化研究）",
+    "name_en": "Master of Arts in Applied Cultural Studies",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 121,500",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-693",
+    "name_cn": "文学硕士（国际会计学）",
+    "name_en": "Master of Arts in International Accounting",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 333,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "香港会计师公会认可，适合于跨国/合资企业、政府机构工作",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-694",
+    "name_cn": "理学硕士（网络安全）",
+    "name_en": "Master of Science in Cybersecurity",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-695",
+    "name_cn": "文学硕士（专业双语翻译）",
+    "name_en": "Master of Arts in Bilingual Professional Translation",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 121,500",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "为学习者提供高水平的专业翻译实践",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-696",
+    "name_cn": "理学硕士（保险）",
+    "name_en": "Master of Science in Insurance",
+    "university": "香港恒生大学",
+    "faculty": "决策科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "培养学生在保险业的专业知识和管理能力，包括风险评估",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-697",
+    "name_cn": "理学硕士（电信学）",
+    "name_en": "Master of Science in Telecommunications",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "为有理学或工学背景的人士设计",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-698",
+    "name_cn": "理学硕士（工程）— 低空技术",
+    "name_en": "Master of Science in Engineering (Low-Altitude Technology)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 420,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-699",
+    "name_cn": "理学硕士（生殖医学与临床胚胎学）",
+    "name_en": "Master of Science in Reproductive Medicine and Clinical Embryology",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 188,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-700",
+    "name_cn": "理学硕士（建筑文物保护）",
+    "name_en": "Master of Science in Conservation",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 248,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "开发保护历史遗迹和文化资源的创新方法",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-701",
+    "name_cn": "艺术硕士（戏剧）",
+    "name_en": "Master of Fine Arts in Drama",
+    "university": "香港演艺学院",
+    "faculty": "戏剧学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "亚洲第一、世界TOP13的戏剧表演殿,",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-702",
+    "name_cn": "文学硕士（艺术史）",
+    "name_en": "Master of Arts in the field of Art History",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 292,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "提供学术艺术史和专业策展工作方面的高级培训",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-703",
+    "name_cn": "理学硕士（食物安全及毒理学）",
+    "name_en": "Master of Science in the field of Food Safety and Toxicology",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "讲座和研讨会由毒理学研究、政策制定和食品工业领域的专家授课",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-704",
+    "name_cn": "职业治疗学硕士",
+    "name_en": "Master in Occupational Therapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 700,000",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "职业治疗师专注于适应环境，消除环境障碍",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-705",
+    "name_cn": "理学硕士（化学工程及能源工程学）",
+    "name_en": "Master of Science in Chemical and Energy Engineering",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 208,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "为化学和能源工程师领导和担任高级职位做好准备",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-706",
+    "name_cn": "理学硕士（机械工程学）",
+    "name_en": "Master of Science in Mechanical Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 235,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "需要工程相关分支或相关应用科学学科背景",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-707",
+    "name_cn": "理学硕士（数据科学）",
+    "name_en": "Master of Science in Data Science",
+    "university": "香港中文大学",
+    "faculty": "数据科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-708",
+    "name_cn": "理学硕士（教育数学）",
+    "name_en": "Master of Science in Mathematics for Educators",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "申请人应具有多变量微积分，线性代数和微分方程的知识",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-709",
+    "name_cn": "理学硕士（市场营销学）",
+    "name_en": "Master of Science in Marketing",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 349,500",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养营销专业人士和企业家",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-710",
+    "name_cn": "社会科学硕士（游戏治疗及身心健康）",
+    "name_en": "Master of Social Sciences in Therapeutic Play and Well-Being",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "提供体育教练和管理方面的高级知识",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-711",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 363,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "毕业生可申香港注册社会工作者（RSW）资格",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-712",
+    "name_cn": "法学硕士（人工智能法）",
+    "name_en": "Master of Laws in AI Law",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-713",
+    "name_cn": "教育硕士（关键学科领域教学）【国家优秀中小学教师培养计划】",
+    "name_en": "Master of Education in Teaching in Key Subject Areas (National Excellent Teacher Training Initiative)",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 315,500",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-714",
+    "name_cn": "文学硕士（视觉艺术教育与创意实践）",
+    "name_en": "Master of Arts in Visual Arts Education and Creative Practice",
+    "university": "香港教育大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 189,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "涵盖对香港教育环境的理解以及国际创意艺术教育方法",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-715",
+    "name_cn": "理学硕士（生物医药研发及产业化）【含香港理工大学中山技术创新研究院统筹的大湾区实习课】",
+    "name_en": "Master of Science in Biopharmaceutical Development and Commercialization (internship in Greater Bay Area via PolyU-Zhongshan Technology and Innovation Research Institute)",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 249,150",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-716",
+    "name_cn": "文学硕士（整合营销传播）",
+    "name_en": "Master of Arts in Integrated Marketing Communication",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "大中华地区少有，参照全球领先的美国西北大学同类课程",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-717",
+    "name_cn": "文学硕士（电子竞技运动管理）",
+    "name_en": "Master of Arts in E-Sports Management",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-718",
+    "name_cn": "文学硕士（中国价值领导教育）",
+    "name_en": "Master of Arts in Chinese Values-Based Leadership Education",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-719",
+    "name_cn": "理学硕士（人工智能与教育科技）",
+    "name_en": "Master of Science in Artificial Intelligence and Educational Technology",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "HK$ 192,030",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "应用人工智能和教育科技的实践技能和能力解决现实问题",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-720",
+    "name_cn": "理学硕士（计算机科学）",
+    "name_en": "Master of Science in Computer Science",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 264,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "课程均由世界知名的学者和专家教授",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-721",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 530,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "线下线上宣讲会都能与招生官直接沟通，免去发邮件的时间差！",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-722",
+    "name_cn": "文学硕士（传播学）— 影视与新媒体制片管理专修",
+    "name_en": "Master of Arts in Communication (Film, TV & New Media Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "文化与创意学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-723",
+    "name_cn": "理学硕士（智能可穿戴科技）",
+    "name_en": "Master of Science in Intelligent Wearable Technology",
+    "university": "香港理工大学",
+    "faculty": "时装及纺织学院",
+    "tuition": "HK$ 261,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "中国首个可穿戴技术研究生学位",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-724",
+    "name_cn": "辅导心理学博士",
+    "name_en": "Doctor of Psychology in Counselling Psychology",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "毕业生有资格在专业协会注册成为辅导心理学家",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-725",
+    "name_cn": "理学硕士（金融学）",
+    "name_en": "Master of Science in Finance",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "涵盖金融学的主要领域是基本原则和专业实践。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-726",
+    "name_cn": "社会科学硕士（企业传播）",
+    "name_en": "Master of Social Science in Corporate Communication",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业偏向于企业公关研究,包括企业传播策略",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-727",
+    "name_cn": "文学硕士（翻译与语言技术）",
+    "name_en": "Master of Arts in Translation and Language Technology",
+    "university": "香港理工大学",
+    "faculty": "人文学院",
+    "tuition": "HK$ 263,500",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-728",
+    "name_cn": "建筑硕士",
+    "name_en": "Master of Architecture",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 460,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程获香港建筑师学会和英国皇家建筑师学会认可",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-729",
+    "name_cn": "理学硕士（智能半导体制造）",
+    "name_en": "Master of Science in Intelligent Semiconductor Manufacturing",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 228,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "鼓励学生参与公司项目，为进入半导体和电子行业做准备",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-730",
+    "name_cn": "工商管理硕士",
+    "name_en": "Master of Business Administration",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 540,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "全球 MBA 前 100 名，QS全球MBA排名(亚洲)第 24名",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-731",
+    "name_cn": "文学硕士（语言学）",
+    "name_en": "Master of Arts in Linguistics",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 199,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "可选专修方向",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "选定方法工具进行研究，如计算机化语料库，数据收集的自然和实验方法等",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-732",
+    "name_cn": "文学硕士（语言研究）",
+    "name_en": "Master of Arts in Language Studies",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 183,600",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提供全面的语言学训练，运用所学的理论知识观察语言现象",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-733",
+    "name_cn": "工商管理博士【中文授课】",
+    "name_en": "Doctor of Business Administration (Chinese)",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 1,800,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "中文授课，学制四年，学费共180万港币",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-734",
+    "name_cn": "文学硕士（公共事务伦理学）",
+    "name_en": "Master of Arts in Ethics and Public Affairs",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 150,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "计算机"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "培养学员以宗教和哲学理论作多角度诠释和思考",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-735",
+    "name_cn": "法律博士",
+    "name_en": "Juris Doctor",
+    "university": "香港中文大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 529,920",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "法学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为非法律本科的毕业生或非普通法系法律本科的毕业生提供",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-736",
+    "name_cn": "理学硕士（智能体系统）",
+    "name_en": "Master of Science in Agentic AI Systems",
+    "university": "香港理工大学",
+    "faculty": "计算机及数学科学学院",
+    "tuition": "HK$ 440,200",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-737",
+    "name_cn": "专业管理硕士（环球运动商业）",
+    "name_en": "Master of Professional Management in Global Sports Business",
+    "university": "香港都会大学",
+    "faculty": "李兆基商业管理学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "商科"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-738",
+    "name_cn": "理学硕士（言语病理学）",
+    "name_en": "Master of Science in Speech-Language Pathology",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-739",
+    "name_cn": "艺术硕士（舞台及制作）",
+    "name_en": "Master of Fine Arts in Theatre and Entertainment Arts",
+    "university": "香港演艺学院",
+    "faculty": "舞台及制作艺术学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "亚洲首屈一指的表演艺术高等学府",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-740",
+    "name_cn": "文学硕士（学校与社区心理）",
+    "name_en": "Master of Arts in School and Community Psychology",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 243,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "重点在于自我发展,自我反思和现实生活中的应用",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-741",
+    "name_cn": "理学硕士（家族办公室及家族企业学）",
+    "name_en": "Master of Science in Family Office and Family Business",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 463,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-742",
+    "name_cn": "理学硕士（社会牙医学）",
+    "name_en": "Master of Science in Community Dentistry",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 363,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "通过规定的学习课程和监督研究项目达到高级知识和能力",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-743",
+    "name_cn": "护理学硕士（中医护理）",
+    "name_en": "Master of Nursing (with specialisation in Chinese Medicinal Nursing)",
+    "university": "香港都会大学",
+    "faculty": "护理及健康学院",
+    "tuition": "HK$ 121,650",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-744",
+    "name_cn": "博雅科学硕士",
+    "name_en": "Master of Liberal Sciences",
+    "university": "岭南大学",
+    "faculty": "跨学科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-745",
+    "name_cn": "理学硕士（商业管理）",
+    "name_en": "Master of Science in Business Management",
+    "university": "香港浸会大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 393,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "认识到企业可持续发展和商业道德的重要性",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-746",
+    "name_cn": "理学硕士（融合科技）",
+    "name_en": "Master of Science in Cross-disciplinary Technologies+",
+    "university": "岭南大学",
+    "faculty": "跨学科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "课程内容包含8个科技方向课程，包括人工智能、计算机编程",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-747",
+    "name_cn": "理学硕士（人工智能）",
+    "name_en": "Master of Science in Artificial Intelligence",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "HK$ 384,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-748",
+    "name_cn": "文学硕士（文化遗产教育与管理）",
+    "name_en": "Master of Arts in Cultural Heritage Education and Management",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 170,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "可选专修方向",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-749",
+    "name_cn": "理学硕士（市场营销管理）",
+    "name_en": "Master of Science in Marketing Management",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 360,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "涵盖了在线消费者市场分析、营销管理问题",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-750",
+    "name_cn": "文学硕士（对母语为非英语人士的英语教学）",
+    "name_en": "Master of Arts in Teaching English to Speakers of Other Languages",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 158,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为满足英语教师和TESOL专业人士的专业发展需求而设计",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-751",
+    "name_cn": "公共政策硕士",
+    "name_en": "Master of Public Policy",
+    "university": "香港科技大学",
+    "faculty": "跨学科学院",
+    "tuition": "HK$ 320,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "社会科学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "强调提高学生的分析和管理能力",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-752",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 319,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "提供社会工作哲学和认识论全面理解",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-753",
+    "name_cn": "理学硕士（工程）— 电机电子工程",
+    "name_en": "Master of Science in Engineering (Electrical and Electronic Engineering)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "全日制（1年）；兼读制（2年，工作日晚上和周六上课）",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-754",
+    "name_cn": "中国发展研究硕士",
+    "name_en": "Master of China Development Studies",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 230,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "体验部分，在指定教师的监督下获得研究技能的平台",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-755",
+    "name_cn": "理学硕士（管理学）",
+    "name_en": "Master of Science in Business Management",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-756",
+    "name_cn": "文学硕士（国际新闻）",
+    "name_en": "Master of Arts in International Journalism Studies",
+    "university": "香港浸会大学",
+    "faculty": "传理学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提供有关国际新闻报道的知识和技能",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-757",
+    "name_cn": "文学硕士（人工智能、伦理与社会）",
+    "name_en": "Master of Arts in the field of AI, Ethics and Society",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "亚洲地区首个，培养走在人工智能开创革新前沿的人才",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-758",
+    "name_cn": "理学硕士（低空经济）",
+    "name_en": "Master of Science in Low-altitude Economy",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 313,100",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-759",
+    "name_cn": "理学硕士（智能制造）",
+    "name_en": "Master of Science in Smart Manufacturing",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 255,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生将智能制造融入全球供应链中",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-760",
+    "name_cn": "文学硕士（文化遗产管理 ）",
+    "name_en": "Master of Arts in Cultural Heritage Management",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "HK$ 148,800",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "专业资格认证",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "文化遗产管理文学硕士课程专注于文化遗产的保护和管理",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-761",
+    "name_cn": "文学硕士（中国研究）",
+    "name_en": "Master of Arts in Chinese Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程的设计切合不同的兴趣和需要，适合研究生的中国研究",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-762",
+    "name_cn": "文学硕士（语言学）",
+    "name_en": "Master of Arts in the field of Linguistics",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 270,400",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "充分利用香港的多语言环境，在语言类型学和语言接触等方面很强大",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-763",
+    "name_cn": "文学硕士（社会政策）",
+    "name_en": "Master of Arts in Social Policy",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "旨在提高社会政策的研究、制定、实施和评估标准",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-764",
+    "name_cn": "理学硕士（航空航天工程）",
+    "name_en": "Master of Science in Aerospace Engineering",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 213,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "协助学生了解和掌握航空航天工程领域的最新尖端技术",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-765",
+    "name_cn": "理学硕士（神经科学）",
+    "name_en": "Master of Science in Neuroscience",
+    "university": "香港城市大学",
+    "faculty": "生物医学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "为不同专业的学生提供基础和转化神经科学的最新知识和技术",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-766",
+    "name_cn": "理学硕士（人工智能技术数学）",
+    "name_en": "Master of Science in Mathematics for Artificial Intelligence Technology",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 438,200",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-767",
+    "name_cn": "理学硕士（国际与发展经济学）",
+    "name_en": "Master of Science in International and Development Economics",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 270,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "接触行业前沿知识，到知名企业实习",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-768",
+    "name_cn": "金融学硕士（投资管理）",
+    "name_en": "Master of Finance (Investment Management)",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 385,200",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "运用概念框架分析投资和企业融资问题，解决资产管理/企业融资问题。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-769",
+    "name_cn": "眼科视光学博士",
+    "name_en": "Doctor of Optometry",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 590,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提高验光师在特定验光专业领域的知识和培训",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-770",
+    "name_cn": "文学硕士（精神健康）",
+    "name_en": "Master of Arts in Mental Health",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 195,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "目标对象为在职教师、教学支持人员、社会工作者",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-771",
+    "name_cn": "理学硕士（生物多样性、环境管理、可持续性和科技）",
+    "name_en": "Master of Science in Biodiversity, Environmental Management, Sustainability and Technology",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 200,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-772",
+    "name_cn": "公共卫生硕士",
+    "name_en": "Master of Public Health",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 264,240",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "对最新卫生保健问题和健康促进项目的了解分析、实施、评估",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-773",
+    "name_cn": "理学硕士（工程）— 工业工程及物流管理",
+    "name_en": "Master of Science in Engineering (Industrial Engineering and Logistics Management)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "新加课程：供应链和物流、智能系统、机器学习和工业数据分析",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-774",
+    "name_cn": "文学硕士（英语语言）",
+    "name_en": "Master of Arts in English Studies",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "需要英语、TESL、专业沟通、教育或相关领域背景",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-775",
+    "name_cn": "文学硕士（文化及保育旅游）【英文版】",
+    "name_en": "Master of Arts in Cultural and Heritage Tourism (English version)",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 120,900",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-776",
+    "name_cn": "理学硕士（系统工程与工程管理学）",
+    "name_en": "Master of Science in Systems Engineering and Engineering Management",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 250,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "通过应用高等数学、先进的工程学分析处理复杂的管理问题",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-777",
+    "name_cn": "牙医硕士（牙髓病学）",
+    "name_en": "Master of Dental Surgery in Endodontics",
+    "university": "香港大学",
+    "faculty": "牙医学院",
+    "tuition": "HK$ 550,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "至少 2 年的全科医学临床经验",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-778",
+    "name_cn": "教育博士",
+    "name_en": "Doctor of Education",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "可选专修方向",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "内地申请者只能申请全职，最短学习36个月，最长60个月",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-779",
+    "name_cn": "理学硕士（会计学）",
+    "name_en": "Master of Science in Accounting",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 390,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "毕业生能够进入香港会计师公会QP",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-780",
+    "name_cn": "文学硕士（传播学）— 互动媒体专修",
+    "name_en": "Master of Arts in Communication (Interactive Media Studies Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "文化与创意学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-781",
+    "name_cn": "理学硕士（智能建筑及建筑信息建模）",
+    "name_en": "Master of Applied Science in Intelligent Construction and Building Information Modelling",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "HK$ 146,400",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "提供与技术和数字建筑相关的知识和管理技能",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-782",
+    "name_cn": "理学硕士（人工智能及大数据计算）",
+    "name_en": "Master of Science in Artificial Intelligence and Big Data Computing",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 399,900",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "从研究和实际应用的角度为学生提供有关人工智能和大数据的知识。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-783",
+    "name_cn": "理学硕士（生物科技）",
+    "name_en": "Master of Science in Biotechnology",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 142,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "理学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "自然科学全球排名第八十五位 (位列香港第一位)",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-784",
+    "name_cn": "教育硕士（英国语文教育）",
+    "name_en": "Master of Education in English Language Education",
+    "university": "香港都会大学",
+    "faculty": "教育及语文学院",
+    "tuition": "HK$ 104,850",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "培养学生评估高级文献、发现问题和设计研究策略的能力",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-785",
+    "name_cn": "理学硕士（土木工程学）",
+    "name_en": "Master of Science in Civil Engineering",
+    "university": "香港理工大学",
+    "faculty": "建设及环境学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "可选专修方向",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "培养学生设计工程系统和流程的能力",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-786",
+    "name_cn": "文学硕士（策展与艺术史）",
+    "name_en": "Master of Arts in Curating and Art History",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "适合在艺术史上进行跨学科研究，可以在文化和艺术行业就业",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-787",
+    "name_cn": "社会科学硕士（运动与休闲管理）",
+    "name_en": "Master of Social Sciences in Sport and Leisure Management",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 180,090",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "提高学生在体育休闲管理方面的技能和知识",
+    "requirements": {
+      "background": "学科背景：服务类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-788",
+    "name_cn": "理学硕士（多媒体创娱）",
+    "name_en": "Master of Science in Innovative Multimedia Entertainment",
+    "university": "香港理工大学",
+    "faculty": "设计学院",
+    "tuition": "HK$ 264,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "计算机"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "加入了更多的全新技术并强化了与企业的产学研结合",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-789",
+    "name_cn": "社会科学硕士（传媒管理）",
+    "name_en": "Master of Social Sciences in Media Management",
+    "university": "香港浸会大学",
+    "faculty": "传理学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "培养媒体专业人才在行业的领导力",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-790",
+    "name_cn": "理学硕士（药品监管事务及政策）",
+    "name_en": "Master of Science in Drug Regulatory Affairs and Policy",
+    "university": "香港科技大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该项目的毕业生将能够管理制药、生物技术等",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-791",
+    "name_cn": "商学研究博士",
+    "name_en": "Doctor of Business Studies",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 738,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-792",
+    "name_cn": "社会科学硕士（工业与组织心理学）",
+    "name_en": "Master of Social Science in Industrial-Organizational Psychology",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-793",
+    "name_cn": "理学硕士（市场学）",
+    "name_en": "Master of Science in Marketing",
+    "university": "香港中文大学",
+    "faculty": "经管学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-794",
+    "name_cn": "教育深造文凭",
+    "name_en": "Postgraduate Diploma in Education",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "新增专业",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-795",
+    "name_cn": "医疗科学硕士",
+    "name_en": "Master of Medical Sciences",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "为临床前和临床研究提供一个桥梁机制",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-796",
+    "name_cn": "护理学博士",
+    "name_en": "Doctor of Nursing",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "HK$ 349,560",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "3年全日制，要求学生完成5-6万字论文",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-797",
+    "name_cn": "理学硕士（数码及可持续城市）",
+    "name_en": "Master of Science in Digital and Sustainable Cities",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 270,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-798",
+    "name_cn": "社会工作硕士",
+    "name_en": "Master of Social Work",
+    "university": "香港浸会大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-799",
+    "name_cn": "文学硕士（公共政策及管理）",
+    "name_en": "Master of Arts in Public Policy and Management",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 237,600",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "为公众关心的问题做出政策分析和创新管理",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-800",
+    "name_cn": "理学硕士（视觉科学与创新）",
+    "name_en": "Master of Science in Vision Science and Innovation",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 252,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "提供创新视觉科学领域进行高级研究的独特机会",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-801",
+    "name_cn": "心理学博士（教育心理学）",
+    "name_en": "Doctor of Psychology in the field of Educational Psychology",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 387,300",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-802",
+    "name_cn": "文学硕士（欧洲研究）",
+    "name_en": "Master of Arts in the field of European Studies",
+    "university": "香港大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 265,000",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-803",
+    "name_cn": "文学硕士（领导创新型学习组织）",
+    "name_en": "Master of Arts in Leading Innovative Learning Organizations",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 146,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "培养学校和教育服务组织中的未来领导者",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-804",
+    "name_cn": "理学硕士（应用数据科学）",
+    "name_en": "Master of Science in Applied Data Science",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "计算机"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "暂无明确学科背景要求",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-805",
+    "name_cn": "理学硕士（建筑项目管理）",
+    "name_en": "Master of Science in Construction Project Management",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 280,080",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "为学生在建筑项目管理中的专业角色做好准备",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-806",
+    "name_cn": "理学硕士（数据科学）",
+    "name_en": "Master of Science in Data Science",
+    "university": "香港城市大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-807",
+    "name_cn": "理学硕士（计算机与信息工程）",
+    "name_en": "Master of Science in Computer and Information Engineering",
+    "university": "香港中文大学",
+    "faculty": "理工学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-808",
+    "name_cn": "理学硕士（市场及国际企业）",
+    "name_en": "Master of Science in Marketing and International Business",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 278,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "帮助学生在市场营销和国际商务领域成功就业",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-809",
+    "name_cn": "商业人工智能博士",
+    "name_en": "Doctor of Business Artificial Intelligence",
+    "university": "香港理工大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 1,122,000",
+    "tags": [
+      "26Spring",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "专业资格认证",
+      "商科"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-810",
+    "name_cn": "社会科学硕士（社会工作）",
+    "name_en": "Master of Social Science in Social Work",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 374,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "有交换机会",
+      "中文授课",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "毕业生有资格成为香港的注册社会工作者",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-811",
+    "name_cn": "文学硕士（人类学）",
+    "name_en": "Master of Arts in Anthropology",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "毕业生已进入博物馆和遗产、艺术和文化组织、商业和技术等领域",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-812",
+    "name_cn": "文学硕士（文化专业创意写作）",
+    "name_en": "Master of Arts in Creative Writing for Cultural Professionals",
+    "university": "香港浸会大学",
+    "faculty": "文学及社会科学院",
+    "tuition": "HK$ 220,780",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "世界上第一个中英双语的创意写作硕士课程",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-813",
+    "name_cn": "教育深造文凭（幼儿教育）",
+    "name_en": "Postgraduate Diploma in Education (Early Childhood Education)",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 214,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "专业的全球排名为泰晤士19",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-814",
+    "name_cn": "理学硕士（城市规划）— 城市与区域规划方向",
+    "name_en": "Master of Science in Urban Planning (Urban and Regional Planning Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 419,600",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-815",
+    "name_cn": "学位教师教育深造文凭（幼儿教育）",
+    "name_en": "Postgraduate Diploma in Education (Early Childhood Education)",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-816",
+    "name_cn": "理学硕士（工程）— 能源工程",
+    "name_en": "Master of Science in Engineering (Energy Engineering)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 375,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "工程"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "侧重各种能源技术，包括能源生产、能源转换、能源节约等",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-817",
+    "name_cn": "文学硕士（人工智能与未来）",
+    "name_en": "Master of Arts in Artificial Intelligence and the Future",
+    "university": "岭南大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "不需要人工智能背景，也不需要技术背景或强大的数学技能",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-818",
+    "name_cn": "理学硕士（电子商贸）",
+    "name_en": "Master of Science in Electronic Commerce",
+    "university": "香港城市大学",
+    "faculty": "计算学院",
+    "tuition": "HK$ 267,300",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "掌握 IT 专业人员技能，开发电子商务系统和服务",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-819",
+    "name_cn": "理学硕士（护理学）",
+    "name_en": "Master of Science in Nursing",
+    "university": "香港大学",
+    "faculty": "李嘉诚医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.med.hku.hk/",
+    "desc": "为非护理背景学生专设，并为在香港护理委员会注册护士做准备",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-820",
+    "name_cn": "理学硕士（专业会计与企业管治）",
+    "name_en": "Master of Science in Professional Accounting and Corporate Governance",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 333,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养学生在专业会计和公司治理领域担任领导职务",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-821",
+    "name_cn": "文学硕士（佛学研究）",
+    "name_en": "Master of Arts in Buddhist Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 175,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为学生提供研究生阶段的系统性和全面的佛学研究培训",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-822",
+    "name_cn": "理学硕士（人力资源及组织管理学）",
+    "name_en": "Master of Science in Human Resource and Organisational Management",
+    "university": "岭南大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 248,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "深入了解人力资源管理的专业知识及最新的业界发展",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-823",
+    "name_cn": "理学硕士（运动物理治疗）",
+    "name_en": "Master of Science in Sports Physiotherapy",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "为学生提供先进的运动物理治疗知识和技能",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-824",
+    "name_cn": "高级管理人员工商管理硕士【中文授课】",
+    "name_en": "Executive Master of Business Administration (Taught in Chinese)",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "免语言，中文授课，每月集中上课四天，留服认证",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-825",
+    "name_cn": "设计学博士",
+    "name_en": "Doctor of Design",
+    "university": "香港理工大学",
+    "faculty": "设计学院",
+    "tuition": "HK$ 581,400",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "实习课程",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "塑造以实践为目标的研究技能，并培养学生们的跨学科能力",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-826",
+    "name_cn": "临床药剂学硕士",
+    "name_en": "Master of Clinical Pharmacy",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 158,600",
+    "tags": [
+      "26Fall",
+      "Top 50"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "申请人应是注册药剂师，且持有药学或相关领域的学位",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-827",
+    "name_cn": "文学硕士（个人理财教育）",
+    "name_en": "Master of Arts in Personal Finance Education",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "实习课程",
+      "商科"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "为不同财务背景和需求的人仕制定和传授理财知识",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-828",
+    "name_cn": "文学硕士（中国语言文学）",
+    "name_en": "Master of Arts in Chinese Language and Literature",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 160,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-829",
+    "name_cn": "理学硕士（可持续环球商业）",
+    "name_en": "Master of Science in Sustainable Global Business",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 350,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "在机构内以至社会层面带来正面影响",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-830",
+    "name_cn": "理学硕士（物理）",
+    "name_en": "Master of Science in Physics",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 192,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "课程结合讲座、实验室、指导性研究",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-831",
+    "name_cn": "理学硕士（景观建筑）",
+    "name_en": "Master of Science in Landscape Architecture",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 500,000",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-832",
+    "name_cn": "理学硕士（金融数学与统计）",
+    "name_en": "Master of Science in Financial Mathematics and Statistics",
+    "university": "香港城市大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 258,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "注重培养学生评估和开发金融业务和统计模型的能力",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-833",
+    "name_cn": "文学硕士（数码学习与科技）",
+    "name_en": "Master of Arts in Digital Learning and Technology",
+    "university": "香港教育大学",
+    "faculty": "教育及人类发展学院",
+    "tuition": "HK$ 159,960",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "以应用数码学习及教育科技于不同的学科和情景之中",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-834",
+    "name_cn": "城市设计与规划学硕士",
+    "name_en": "Master of Urban Design and Regional Planning",
+    "university": "香港城市大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 516,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "两年硕，融合城市设计和区域规划，探索跨学科和互动学习环境",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-835",
+    "name_cn": "文学硕士（文化创意与中文研究）",
+    "name_en": "Master of Arts in Cultural Creativity in Chinese Studies",
+    "university": "香港珠海学院",
+    "faculty": "文学与社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-836",
+    "name_cn": "理学硕士（人工智能与商业分析）",
+    "name_en": "Master of Science in Artificial Intelligence and Business Analytics",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 289,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "使用数据分析解决实际业务问题。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-837",
+    "name_cn": "公共政策及管理硕士",
+    "name_en": "Master of Public Policy and Management",
+    "university": "香港教育大学",
+    "faculty": "博文及社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Spring",
+      "Top 50",
+      "有奖学金",
+      "社会科学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "涵盖了从健康评估和分析、病因和健康治疗等",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-838",
+    "name_cn": "理学硕士（工程）— 基础设施工程与管理",
+    "name_en": "Master of Science in Engineering (Infrastructure Engineering and Management)",
+    "university": "香港大学",
+    "faculty": "工程学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://engg.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-839",
+    "name_cn": "艺术硕士（舞蹈）",
+    "name_en": "Master of Fine Arts in Dance",
+    "university": "香港演艺学院",
+    "faculty": "舞蹈学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "为那些寻求将技能和专业知识发展到专业水平的人提供",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-840",
+    "name_cn": "理学硕士（电动汽车）",
+    "name_en": "Master of Science in Electric Vehicles",
+    "university": "香港理工大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 300,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "工程"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "让毕业生全面了解电动车,包括研究和实际应用",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-841",
+    "name_cn": "文学硕士（高等教育质素保证及管理）",
+    "name_en": "Master of Arts in Higher Education Quality Assurance and Management",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-842",
+    "name_cn": "理学硕士（游戏开发与管理）",
+    "name_en": "Master of Science in Game Development and Management",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "计算机"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-843",
+    "name_cn": "理学硕士（营养与健康活龄）",
+    "name_en": "Master of Science in Nutrition and Healthy Ageing",
+    "university": "香港理工大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 238,700",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "专业资格认证",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "供独特且以职业为导向的教育机会",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-844",
+    "name_cn": "文学硕士（影视与新媒体制片管理）",
+    "name_en": "Master of Arts in Producing for Film, Television and New Media",
+    "university": "香港浸会大学",
+    "faculty": "创意艺术学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "中文授课",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "大中华地区电影公司高层及资深产业人士亲自授课",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-845",
+    "name_cn": "社会科学硕士（健康及社会服务管理）",
+    "name_en": "Master of Social Sciences in Health and Social Services Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "有交换机会",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "为学生提供在老龄化和快速技术发展的社会中服务的技能",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-846",
+    "name_cn": "理学硕士（健康科学与生物医学）",
+    "name_en": "Master of Science in Health Sciences and Biomedicine",
+    "university": "香港城市大学",
+    "faculty": "生物医学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "培养学生毕业后从事专业、教育、科学或技术职业",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-847",
+    "name_cn": "法学硕士（数码管治）",
+    "name_en": "Master of Laws in Digital Governance",
+    "university": "香港教育大学",
+    "faculty": "应用政策研究与教育未来学院",
+    "tuition": "HK$ 209,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "法学"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-848",
+    "name_cn": "文学硕士（心理学）",
+    "name_en": "Master of Arts in Psychology",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 188,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "为没有心理学专业的大学毕业生提供攻读心理学研究生课程的机会",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-849",
+    "name_cn": "理学硕士（数据科学及商业统计）",
+    "name_en": "Master of Science in Data Science and Business Statistics",
+    "university": "香港中文大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 220,000",
+    "tags": [
+      "26Fall",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "它侧重于数据分析技能，并探讨了应用和商业统计的核心领域",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-850",
+    "name_cn": "文学硕士（中国语言文学与历史）",
+    "name_en": "Master of Arts in Chinese and History",
+    "university": "香港城市大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 213,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "有交换机会",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "艺术"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "了解中国语言和文化研究的本质，以及在学术上的应用",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-851",
+    "name_cn": "理学硕士（大数据智能）",
+    "name_en": "Master of Science in Data-Centric Artificial Intelligence Technology",
+    "university": "香港科技大学",
+    "faculty": "信息枢纽",
+    "tuition": "HK$ 398,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-852",
+    "name_cn": "理学硕士（医学遗传学）",
+    "name_en": "Master of Science in Medical Genetics",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 188,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-853",
+    "name_cn": "文学硕士（国际高等教育与管理）",
+    "name_en": "Master of Arts in International Higher Education and Management",
+    "university": "岭南大学",
+    "faculty": "研究生院",
+    "tuition": "HK$ 198,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "专业资格认证",
+      "教育"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "毕业后可选择教育部门和其他相关机构的高级管理职位就业",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-854",
+    "name_cn": "理学硕士（环境工程学及管理）",
+    "name_en": "Master of Science in Environmental Engineering and Management",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "专为有志于加强工程实践能力与管理职能的人士所设",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-855",
+    "name_cn": "理学硕士（资讯科技）",
+    "name_en": "Master of Science in Information Technology",
+    "university": "香港科技大学",
+    "faculty": "工学院",
+    "tuition": "HK$ 300,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "专为那些希望获取广博前沿的资讯科技技能的人士所设",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-856",
+    "name_cn": "理学硕士（医学影像及放射科学）",
+    "name_en": "Master of Science in Medical Imaging and Radiation Science",
+    "university": "香港理工大学",
+    "faculty": "医疗及社会科学院",
+    "tuition": "HK$ 210,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "理学"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "吸引那些渴望成为他们实践领域的专家或管理人员的学生",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-857",
+    "name_cn": "文学硕士（宗教研究）",
+    "name_en": "Master of Arts in Religious Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 154,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "跨学科的方法来研究复杂的宗教和文化之间的相互作用",
+    "requirements": {
+      "background": "学科背景：文学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-858",
+    "name_cn": "理学硕士（电子工程学）",
+    "name_en": "Master of Science in Electronic Engineering",
+    "university": "香港中文大学",
+    "faculty": "工程学院",
+    "tuition": "HK$ 240,000",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "工程"
+    ],
+    "official_website": "https://www.erg.cuhk.edu.hk/",
+    "desc": "申请者需要在电子工程方面有一些经验和背景",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-859",
+    "name_cn": "文学硕士（正念与生命教育）",
+    "name_en": "Master of Arts in Mindfulness and Life Education",
+    "university": "香港教育大学",
+    "faculty": "教育发展与创新学院",
+    "tuition": "HK$ 163,200",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "教育"
+    ],
+    "official_website": "https://www.eduhk.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-860",
+    "name_cn": "理学硕士（金融工程学）",
+    "name_en": "Master of Science in Financial Engineering",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 351,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "许多毕业生于大中华地区金融机构和监管机构担任高级职位",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-861",
+    "name_cn": "文学硕士（时装设计）",
+    "name_en": "Master of Arts in Fashion Design",
+    "university": "香港理工大学",
+    "faculty": "时装及纺织学院",
+    "tuition": "HK$ 244,800",
+    "tags": [
+      "26Fall",
+      "艺术"
+    ],
+    "official_website": "https://www.polyu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：设计与艺术学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-862",
+    "name_cn": "社会科学硕士（智慧文化旅游）",
+    "name_en": "Master of Social Sciences in Smart Cultural Tourism",
+    "university": "香港树仁大学",
+    "faculty": "社会科学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "社会科学"
+    ],
+    "official_website": "",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-863",
+    "name_cn": "院前及急救护理深造文凭",
+    "name_en": "Postgraduate Diploma in Prehospital and Emergency Care",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "HK$ 94,000",
+    "tags": [
+      "26Fall",
+      "Top 50"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "护理课程以专业教育和学术严谨著名",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-864",
+    "name_cn": "理学硕士（计算机科学）",
+    "name_en": "Master of Science in Computer Science",
+    "university": "香港大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 334,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "计算机"
+    ],
+    "official_website": "https://www.sci.hku.hk/",
+    "desc": "全面的计算机科学课程，可从一系列广泛的课程中进行选择",
+    "requirements": {
+      "background": "学科背景：工学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-865",
+    "name_cn": "理学硕士（运筹学与商业统计学）与理学硕士（商业分析）双学位",
+    "name_en": "Dual Degree of Master of Science in Operational Research and Business Statistics and Master of Science in Business Analytics",
+    "university": "香港浸会大学",
+    "faculty": "理学院",
+    "tuition": "HK$ 230,000",
+    "tags": [
+      "26Fall",
+      "有奖学金",
+      "双学位",
+      "商科"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-866",
+    "name_cn": "理学硕士（建筑文物保护）— 保护规划与管理方向",
+    "name_en": "Master of Science in Conservation (Conservation Planning and Management Stream)",
+    "university": "香港大学",
+    "faculty": "建筑学院",
+    "tuition": "HK$ 248,800",
+    "tags": [
+      "26Fall",
+      "26fall 新项目",
+      "商科"
+    ],
+    "official_website": "https://www.arch.hku.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：建筑学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-867",
+    "name_cn": "文学硕士（应用英语语言学）",
+    "name_en": "Master of Arts in Applied English Linguistics",
+    "university": "香港都会大学",
+    "faculty": "人文社会科学院",
+    "tuition": "HK$ 111,900",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "艺术"
+    ],
+    "official_website": "",
+    "desc": "介绍语言学理论和方法在各种专业环境中的应用",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-868",
+    "name_cn": "理学硕士（计算社会科学）",
+    "name_en": "Master of Science in Computational Social Science",
+    "university": "香港中文大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 260,000",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-869",
+    "name_cn": "理学硕士（新媒体）",
+    "name_en": "Master of Science in New Media",
+    "university": "香港中文大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 196,800",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "培养学生在新媒体领域的知识和技能",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-870",
+    "name_cn": "文学硕士（环球企业管理）",
+    "name_en": "Master of Arts in Global Business Management",
+    "university": "香港城市大学",
+    "faculty": "商学院",
+    "tuition": "HK$ 384,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有交换机会",
+      "商科"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "全港首创课程。教职员工来自不同大陆，真正国际化",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-871",
+    "name_cn": "理学硕士（科技与政策）",
+    "name_en": "Master of Science in Technology and Policy",
+    "university": "香港科技大学",
+    "faculty": "社会枢纽",
+    "tuition": "HK$ 260,000",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "社会科学"
+    ],
+    "official_website": "https://hkust.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-872",
+    "name_cn": "理学硕士（环球金融）",
+    "name_en": "Master of Science in Global Finance",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 87,500",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "有奖学金",
+      "含Project",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "毕业后获得纽约大学和香港科技大学联合的理学硕士学位",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-873",
+    "name_cn": "理学硕士（科学研究）",
+    "name_en": "Master of Science in Scientific Research",
+    "university": "香港都会大学",
+    "faculty": "科技学院",
+    "tuition": "HK$ 180,600",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "理学"
+    ],
+    "official_website": "",
+    "desc": "提供有关如何进行科学研究的关键知识和技能",
+    "requirements": {
+      "background": "学科背景：理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-874",
+    "name_cn": "理学硕士（临床老人学与宁养关顾）",
+    "name_en": "Master of Science in Clinical Gerontology and End-of-Life Care",
+    "university": "香港中文大学",
+    "faculty": "医学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "理学"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "涵盖了老年人和姑息治疗的服务模式和临终关怀的道德原则",
+    "requirements": {
+      "background": "学科背景：医学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-875",
+    "name_cn": "文学硕士（传播学）— 传理学专修",
+    "name_en": "Master of Arts in Communication (Communication Studies Concentration)",
+    "university": "香港浸会大学",
+    "faculty": "人文社科学院",
+    "tuition": "HK$ 170,000",
+    "tags": [
+      "26Fall",
+      "中文授课",
+      "论文课程",
+      "含Project",
+      "艺术"
+    ],
+    "official_website": "https://www.hkbu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：新闻传播学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-876",
+    "name_cn": "家庭财富管理硕士",
+    "name_en": "Master of Family Wealth Management",
+    "university": "香港大学",
+    "faculty": "社会科学学院",
+    "tuition": "HK$ 462,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "实习课程",
+      "社会科学"
+    ],
+    "official_website": "https://www.socsc.hku.hk/",
+    "desc": "涵盖遗产规划、资产配置、投资管理和家族办公室管理等",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-877",
+    "name_cn": "法律博士与工商管理硕士双学位",
+    "name_en": "Dual Degree of Juris Doctor and Master of Business Administration",
+    "university": "香港中文大学",
+    "faculty": "工商管理学院（商学院）",
+    "tuition": "HK$ 935,450",
+    "tags": [
+      "26Fall",
+      "Top 100",
+      "双学位",
+      "商科"
+    ],
+    "official_website": "https://www.bschool.cuhk.edu.hk/",
+    "desc": "综合型双学位研究生项目，同时获JD、工商管理硕士学位",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-878",
+    "name_cn": "文学硕士（日本研究）",
+    "name_en": "Master of Arts in Japanese Studies",
+    "university": "香港中文大学",
+    "faculty": "文学院",
+    "tuition": "HK$ 180,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "艺术"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "通过跨学科和多学科的研习，为学生提供日本研究的严谨教育",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-879",
+    "name_cn": "社会科学硕士（应用心理学）",
+    "name_en": "Master of Social Sciences in Applied Psychology",
+    "university": "岭南大学",
+    "faculty": "社会科学院",
+    "tuition": "HK$ 178,000",
+    "tags": [
+      "26Fall",
+      "专业资格认证",
+      "社会科学"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "学习心理统计学，学习统计学的知识，全面发展",
+    "requirements": {
+      "background": "学科背景：社会科学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-880",
+    "name_cn": "教育学硕士",
+    "name_en": "Master of Education",
+    "university": "香港大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 234,000",
+    "tags": [
+      "26Fall",
+      "Top 10",
+      "论文课程",
+      "含Project",
+      "可选专修方向",
+      "实习课程",
+      "教育"
+    ],
+    "official_website": "https://web.edu.hku.hk/",
+    "desc": "适合想扩展教育专业知识的教育专业人士",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-881",
+    "name_cn": "文学硕士（英语教学与评核）",
+    "name_en": "Master of Arts in English Language Teaching and Assessment",
+    "university": "香港恒生大学",
+    "faculty": "人文社会科学学院",
+    "tuition": "学费暂未公布",
+    "tags": [
+      "26Fall",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "",
+    "desc": "将学习最新的教学方法和评估技术",
+    "requirements": {
+      "background": "学科背景：语言学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-882",
+    "name_cn": "深造证书（专利法）",
+    "name_en": "Postgraduate Certificate in Patent Law",
+    "university": "香港城市大学",
+    "faculty": "法律学院",
+    "tuition": "HK$ 96,000",
+    "tags": [
+      "26Fall",
+      "法学"
+    ],
+    "official_website": "https://www.cityu.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：法学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-883",
+    "name_cn": "研究硕士（高级数据科学）",
+    "name_en": "Master of Research in Advanced Data Science",
+    "university": "岭南大学",
+    "faculty": "数据科学学院",
+    "tuition": "HK$ 347,400",
+    "tags": [
+      "26Fall",
+      "论文课程",
+      "含Project",
+      "计算机"
+    ],
+    "official_website": "https://www.ln.edu.hk/",
+    "desc": "该专业面向希望拓展香港高校学习与职业发展机会的申请者，课程信息请以院校官网最新公布为准。",
+    "requirements": {
+      "background": "学科背景：计算机类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-884",
+    "name_cn": "理学硕士（资讯系统管理学）",
+    "name_en": "Master of Science in Information Systems Management",
+    "university": "香港科技大学",
+    "faculty": "工商管理学院",
+    "tuition": "HK$ 336,000",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "含Project",
+      "可选专修方向",
+      "商科"
+    ],
+    "official_website": "https://bm.hkust.edu.hk/",
+    "desc": "从而提高业务系统的性能，系统的有效性，和业务的质量",
+    "requirements": {
+      "background": "学科背景：商学与管理学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  },
+  {
+    "id": "hk-prog-885",
+    "name_cn": "文学硕士（中国语文教育）",
+    "name_en": "Master of Arts in Chinese Language Education",
+    "university": "香港中文大学",
+    "faculty": "教育学院",
+    "tuition": "HK$ 151,200",
+    "tags": [
+      "26Fall",
+      "Top 50",
+      "中文授课",
+      "含Project",
+      "教育"
+    ],
+    "official_website": "https://www.cuhk.edu.hk/",
+    "desc": "多元的评估方式，包括论文、影评、小组研习、戏剧表演、口头报告等",
+    "requirements": {
+      "background": "学科背景：教育学类",
+      "language": "通常要求雅思 6.0 或 托福 80",
+      "standardized": "部分热门专业建议提交 GMAT/GRE",
+      "others": "需提供PS、CV及两封推荐信",
+      "timeline": "入学时间：2026"
+    },
+    "curriculum": "课程设置、选修方向及毕业要求请参考项目官方网站的最新说明。"
+  }
+];
+
+export type Program = (typeof programs)[number];
+
+export type University = {
+  id: string;
+  name_cn: string;
+  name_en: string;
+  location: string;
+  logo_url: string;
+  qs_rank: number | string;
+  programs_count: number;
+  official_website: string;
+};
+
+function slugifyUniversity(value: string): string {
+  return value
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9\u4e00-\u9fa5]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+import { UNIVERSITY_ASSETS } from "@/lib/university-assets";
+
+export const universities: University[] = Array.from(
+  programs.reduce((items, program) => {
+    const current = items.get(program.university);
+    if (current) {
+      current.programs_count += 1;
+      if (!current.official_website && program.official_website) {
+        current.official_website = program.official_website;
+      }
+      return items;
+    }
+
+    const asset = UNIVERSITY_ASSETS[program.university];
+    const qsRank = asset?.qsRank;
+    const validQsRank = qsRank && qsRank !== "/" ? qsRank : "N/A";
+
+    items.set(program.university, {
+      id: slugifyUniversity(program.university) || `hk-university-${items.size + 1}`,
+      name_cn: program.university,
+      name_en: asset?.nameEn || program.university,
+      location: "Hong Kong",
+      logo_url: "",
+      qs_rank: validQsRank,
+      programs_count: 1,
+      official_website: program.official_website,
+    });
+
+    return items;
+  }, new Map<string, University>()).values(),
+);

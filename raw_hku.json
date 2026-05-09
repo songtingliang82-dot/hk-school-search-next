@@ -1,0 +1,206 @@
+export const programs = [
+    {
+      id: "hku-cs-001",
+      name_cn: "计算机科学理学硕士",
+      name_en: "MSc in Computer Science",
+      university: "香港大学",
+      faculty: "工程学院",
+      tuition: "HK$ 282,000",
+      tags: ["24Fall新增", "热门专业", "可跨考"],
+      desc: "该项目涵盖了计算机科学的最新发展，包括人工智能、网络安全、多媒体计算和金融计算等核心方向，旨在培养能够解决复杂工程问题的顶尖IT人才。",
+      requirements: {
+        background: "拥有计算机科学、工程学或相关理科背景的学士学位。非计算机背景需有相关工作经验。",
+        language: "雅思 6.0（各项不低于 5.5）或 托福 80",
+        standardized: "不强制要求，但高分 GRE 有强烈加分优势",
+        others: "需要提供两封推荐信及个人陈述（PS）",
+        timeline: "主轮截止：2025年12月31日 | 最终轮截止：2026年4月15日"
+      },
+      curriculum: "核心课程包括：高级数据库技术、人工智能及机器学习、网络与信息安全、云计算范式与实践等。"
+    },
+    {
+      id: "hku-fin-002",
+      name_cn: "金融学硕士",
+      name_en: "Master of Finance",
+      university: "香港大学",
+      faculty: "经管学院",
+      tuition: "HK$ 462,000",
+      tags: ["商科顶流", "高就业率", "需要面试"],
+      desc: "港大商学院王牌项目，提供公司金融、金融工程和风险管理三大分支。项目结合了严谨的定量分析与实际业务案例，拥有极高的行业认可度。",
+      requirements: {
+        background: "具有强烈的量化分析能力，不限本科专业，但偏好商科、数学、统计学背景。",
+        language: "雅思 7.0（各项不低于 6.5）或 托福 90",
+        standardized: "强烈建议提交 GMAT 或 GRE 成绩",
+        others: "包含 Kira 线上视频面试",
+        timeline: "第一轮截止：2025年10月13日 | 第二轮截止：2025年12月1日"
+      },
+      curriculum: "核心课程包括：微观经济学分析、财务会计、公司金融、投资学、衍生证券、金融数学等。"
+    },
+    {
+      id: "hku-ds-003",
+      name_cn: "数据科学硕士",
+      name_en: "Master of Data Science",
+      university: "香港大学",
+      faculty: "理学院",
+      tuition: "HK$ 330,000",
+      tags: ["跨学科", "高薪就业"],
+      desc: "由统计学系及计算机科学系联合开办，专为想要在数据分析、大数据技术、统计建模领域深入发展的申请人设计。",
+      requirements: {
+        background: "必须修读过至少一门微积分及一门代数、一门计算机编程课程。",
+        language: "雅思 6.0（各项不低于 5.5）或 托福 80",
+        standardized: "无强制要求",
+        others: "竞争极其激烈，建议尽早申请",
+        timeline: "主轮截止：2025年12月15日"
+      },
+      curriculum: "核心课程包括：统计学基础、数据挖掘与机器学习、大数据计算、空间数据分析等。"
+    },
+    {
+      id: "hku-edu-004",
+      name_cn: "教育学硕士",
+      name_en: "Master of Education",
+      university: "香港大学",
+      faculty: "教育学院",
+      tuition: "HK$ 198,000",
+      tags: ["教育类Top", "可跨专业"],
+      desc: "港大教育学院在世界排名中常年位居前列。该项目提供超过10个专业分支，包括英语教育、教育心理学、STEM教育等。",
+      requirements: {
+        background: "持有认可学士学位，部分分支（如英语教育）要求本科为相关专业或具备相关教学经验。",
+        language: "雅思 6.5（各项不低于 6.0）或 托福 93",
+        standardized: "无",
+        others: "部分分支需参加全英文笔试及面试",
+        timeline: "截止日期：2026年1月31日"
+      },
+      curriculum: "核心课程因分支而异，通常包括：教育学研究方法、教育心理学概论、课程设计与评估等。"
+    // --- 香港中文大学 (CUHK) ---
+  {
+    id: "cuhk-cs-001",
+    name_cn: "计算机科学理学硕士",
+    name_en: "MSc in Computer Science",
+    university: "香港中文大学",
+    faculty: "工程学院",
+    tuition: "HK$ 240,000",
+    tags: ["硬核技术", "高薪就业", "科研发源地"],
+    desc: "港中大的CS项目在亚洲享有极高声誉，涵盖人工智能、大数据、生物信息学和计算机安全等前沿领域，非常适合有志于投身大厂研发或继续深造的同学。",
+    requirements: {
+      background: "毕业于认可大学并获得工程学、理学或相关领域的学士学位。",
+      language: "雅思 6.5 或 托福 79",
+      standardized: "不强制要求",
+      others: "强烈建议提供出色的学术成绩单和含金量高的项目/竞赛经历。",
+      timeline: "提前批：2025年9月初 | 正常批截止：2026年2月底"
+    },
+    curriculum: "核心课程：高级计算机体系结构、算法设计与分析、机器学习、自然语言处理、云计算等。"
+  },
+  {
+    id: "cuhk-mar-002",
+    name_cn: "市场营销理学硕士",
+    name_en: "MSc in Marketing",
+    university: "香港中文大学",
+    faculty: "商学院",
+    tuition: "HK$ 320,000",
+    tags: ["商科热门", "跨专业友好", "需面试"],
+    desc: "该项目结合了传统市场营销理论与最新数字营销技术（如大数据营销、AI应用），致力于培养能够在快速变化的商业环境中敏锐洞察消费者行为的营销人才。",
+    requirements: {
+      background: "不限专业背景，欢迎跨专业申请。",
+      language: "雅思 6.5 或 托福 79",
+      standardized: "强烈建议提交 GMAT 或 GRE，对录取有决定性帮助。",
+      others: "需要参加全英文无领导小组面试及单面。",
+      timeline: "第一轮截止：2025年10月中旬 | 最终轮截止：2026年3月底"
+    },
+    curriculum: "核心课程：消费者行为学、市场营销研究、整合营销传播、数字营销策略、大数据分析等。"
+  },
+  {
+    id: "cuhk-comm-003",
+    name_cn: "全球传播文学硕士",
+    name_en: "MA in Global Communication",
+    university: "香港中文大学",
+    faculty: "文学院",
+    tuition: "HK$ 175,000",
+    tags: ["传媒天花板", "竞争激烈", "看重雅思"],
+    desc: "港中大传媒专业常年稳居亚洲第一。此项目探讨全球化背景下的传播现象，适合希望在跨国企业、国际媒体或NGO工作的申请人。",
+    requirements: {
+      background: "不限背景，但传媒、社会学、外语类背景有优势。",
+      language: "雅思 7.0（要求极高，常录取7.5及以上）或 托福 92",
+      standardized: "无",
+      others: "文书要求极高，需要体现出深刻的社会观察力和跨文化交流能力。",
+      timeline: "主轮截止：2025年12月上旬"
+    },
+    curriculum: "核心课程：全球化与传播、跨文化传播、新媒体与社会、国际关系等。"
+  },
+
+  // --- 香港科技大学 (HKUST) ---
+  {
+    id: "hkust-ba-001",
+    name_cn: "商业分析理学硕士",
+    name_en: "MSc in Business Analytics",
+    university: "香港科技大学",
+    faculty: "商学院",
+    tuition: "HK$ 355,000",
+    tags: ["就业神仙专业", "极度内卷", "量化背景"],
+    desc: "结合了商业管理知识与数据分析技术，港科大的BA项目是全港最难申请的商科项目之一，毕业生多去往投行、顶尖咨询公司及科技巨头。",
+    requirements: {
+      background: "要求强量化背景（如计算机、统计、数学、工程等），商科申请人需证明自己有出色的数理能力。",
+      language: "雅思 6.5（各项不低于 5.5）或 托福 80",
+      standardized: "极其建议带高分 GMAT/GRE 申请。",
+      others: "看重顶尖大厂或名企的数据相关实习经历，需面试。",
+      timeline: "第一轮截止：2025年11月 | 最终轮截止：2026年3月初"
+    },
+    curriculum: "核心课程：大数据分析、数据可视化、商业统计、预测性建模、金融科技应用等。"
+  },
+  {
+    id: "hkust-ee-002",
+    name_cn: "电子工程理学硕士",
+    name_en: "MSc in Electronic Engineering",
+    university: "香港科技大学",
+    faculty: "工学院",
+    tuition: "HK$ 180,000",
+    tags: ["硬核工科", "芯片/半导体", "性价比高"],
+    desc: "依托港科大极强的工科底蕴，该专业专注于集成电路设计、通信网络、光子学等尖端领域，为半导体及高新技术产业输送核心人才。",
+    requirements: {
+      background: "拥有电子工程、电气工程、计算机工程或相关理工科学士学位。",
+      language: "雅思 6.5（各项不低于 5.5）或 托福 80",
+      standardized: "无强制要求",
+      others: "看重GPA和相关的本科实验/项目经历。",
+      timeline: "提前批截止：2025年9月 | 正常批截止：2026年4月"
+    },
+    curriculum: "核心课程：高级VLSI设计、无线通信系统、数字信号处理、光电子学等。"
+  },
+
+  // --- 香港城市大学 (CityU) ---
+  {
+    id: "cityu-cm-001",
+    name_cn: "创意媒体文学硕士",
+    name_en: "MA in Creative Media",
+    university: "香港城市大学",
+    faculty: "创意媒体学院",
+    tuition: "HK$ 186,000",
+    tags: ["艺术与科技", "需要作品集", "脑洞大开"],
+    desc: "全港最前卫的媒体项目之一，结合了新媒体艺术、互动设计、电脑动画与电影制作，极其看重学生的创造力和跨学科实践能力。",
+    requirements: {
+      background: "不限背景，但必须提供能够展示创意和技术能力的作品集（Portfolio）。",
+      language: "雅思 6.5 或 托福 79，且接受英语六级(CET-6) 450分以上申请！",
+      standardized: "无",
+      others: "作品集是决定性因素，形式可包含视频、游戏Demo、交互网页或数字艺术作品。",
+      timeline: "由于名额有限，强烈建议在2026年2月前提交申请。"
+    },
+    curriculum: "核心课程：数字媒体艺术实践、交互设计基础、动画艺术、虚拟现实应用等。"
+  },
+
+  // --- 香港理工大学 (PolyU) ---
+  {
+    id: "polyu-des-001",
+    name_cn: "设计学硕士 (多方向)",
+    name_en: "Master of Design",
+    university: "香港理工大学",
+    faculty: "设计学院",
+    tuition: "HK$ 213,000",
+    tags: ["亚洲顶尖设计", "需要作品集", "实战导向"],
+    desc: "理大设计学院位列全球前20。该项目下设创新商业设计、智能系统设计、过渡性环境设计等多个极具前瞻性的专修方向。",
+    requirements: {
+      background: "拥有设计及相关学科的学士学位，或具备相关行业多年工作经验。",
+      language: "雅思 6.0 或 托福 80",
+      standardized: "无",
+      others: "必须提交高质量的专业作品集，通过初筛后需参加英文面试。",
+      timeline: "早期截止：2025年12月中旬 | 常规截止：2026年4月底"
+    },
+    curriculum: "核心课程：设计研究方法、创新思维、服务设计、可持续设计策略等。"
+  }}
+  ];
